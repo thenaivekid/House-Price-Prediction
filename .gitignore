@@ -1,0 +1,6 @@
+# Ignore logs directory
+logs/
+
+# Ignore lin_reg directory
+lin_reg/
+s
