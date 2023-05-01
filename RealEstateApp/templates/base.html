@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="icon" type="image/png" href="/media/favicon.png" />
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <style>
+      .button{
+        display: inline-block;
+        width: 120px;
+        height: 50px;
+        background: #3498db !important;
+        padding: 10px;
+        text-align: center;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+        line-height: 20px;
+        text-decoration: none;
+        border: none;
+        transition: all 0.3s ease;
+      }
+
+
+      .reset-button{
+        display: inline-block;
+        width: 120px;
+        height: 50px;
+        background: #e74c3c !important;
+        padding: 10px;
+        text-align: center;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+        line-height: 20px;
+        text-decoration: none;
+        border: none;
+        transition: all 0.3s ease;
+      }
+
+      .container {
+          max-width: 1550px;
+          margin: auto;
+          background-color: rgba(173, 216, 230, 0.8);
+          -webkit-box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+          box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+          border: 2px solid #000;
+      }
+
+      .predict-card-body {
+          padding: 100px;
+          background-color: rgba(173, 216, 230, 0.8);
+      }
+
+      body {
+          background-image: url('https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+          background-size: cover;
+          font-family: sans-serif;
+          margin-top: 80px;
+          padding: 80px;
+      }
+    </style>
+
+</head>
+<body>
+    <div class="mx-auto max-w-5xl px-20 ">
+    {% block content %}
+
+    <div class="container"><br>
+    <center><h1 class="text-4xl text-gray-900">Make Prediction</h1></center>
+    <br><hr><br>
+    <form method="post" action="predict">
+        {% csrf_token %}
+          <div class="form-group">
+            Select City:
+            <select class="form-control chosenn" name="City" required="required">
+              <option hidden value="" disabled selected></option>
+              <option>Kathmandu</option>
+              <option>Bhaktapur</option>
+              <option>Chitwan</option>
+              <option>Lalitpur</option>
+              <option>Pokhara</option>
+              <option>Dharan</option>
+              <option>Makwanpur</option>
+              <option>Nawalparasi</option>
+              <option>Others</option>
+            </select>
+          </div><br>
+
+          <div class="form-group">
+            Select Address:
+            <select class="form-control chosenn" name="Address" required="required">
+              <option hidden value="" disabled selected></option>
+              <option>Budhanilkantha</option>
+              <option>Dhapasi</option>
+              <option>Sitapaila</option>
+              <option>Kapan</option>
+              <option>Hattigauda</option>
+              <option>Tokha</option>
+              <option>Baluwatar</option>
+              <option>Jorpati</option>
+              <option>Golfutar</option>
+              <option>Chabahil</option>
+              <option>Bhangal</option>
+              <option>Samakhusi</option>
+              <option>Basundhara</option>
+              <option>Imadol</option>
+              <option>Bhaisepati</option>
+              <option>Others</option>
+            </select>
+          </div><br>
+    
+          <div class="form-group">
+            Enter no. of Bedrooms
+            <input type="number" placeholder="" name="Bedroom" id="Bedroom" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Enter no. of Bathrooms
+            <input type="number" placeholder="" name="Bathroom" id="Bathroom" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Enter no. of Floors
+            <input type="number" placeholder="" name="Floors" id="Floors" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Enter no. of Parking
+            <input type="number" placeholder="" name="Parking" id="Parking" class="form-control" required>
+          </div><br>
+
+          <div class="form-group">
+            Enter Year Built in B.S.
+            <input type="number" placeholder="" name="Year" id="Year" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Select Face
+            <select class="form-control" name="Face" required="required">
+            <option hidden value="" disabled selected></option>
+            <option>East</option>
+            <option>North</option>
+            <option>North East</option>
+            <option>North West</option>
+            <option>South</option>
+            <option>South East</option>
+            <option>South West</option>
+            <option>West</option>
+            </select>
+          </div><br>
+    
+          <div class="form-group">
+            Enter Area in sq. feet
+            <input type="number" placeholder="" name="Area" id="Area" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Enter Road Width in feet
+            <input type="number" placeholder="" name="Road_Width" id="Road_Width" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Select Road Type
+            <select class="form-control" name="Road_Type" required="required">
+            <option hidden value="" disabled selected></option>
+            <option>Alley</option>
+            <option>Blacktopped</option>
+            <option>Concrete</option>
+            <option>Gravelled</option>
+            <option>Paved</option>
+            <option>Soil Stabilized</option>
+            <option>None</option>
+            </select>
+          </div><br>
+
+          <div class="form-group">
+            Enter Build Area in sq. feet
+            <input type="number" placeholder="" name="Build_Area" id="Build_Area" class="form-control" required>
+          </div><br>
+    
+          <div class="form-group">
+            Enter no. of Amenities
+            <input type="number" placeholder="" name="Amenities" id="Amenities" class="form-control" required>
+          </div>
+          <br><hr><br>
+    
+          <div class="form-group">
+            <center>
+            <input type="submit" class="button">
+            <input type="reset" class="reset-button" value="Reset">
+            </center>
+          </div><br>
+
+    </form>
+  </div>
+    <br>
+
+    {% endblock content %}
+
+  </div>
+</body>
+</html>
