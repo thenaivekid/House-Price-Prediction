@@ -1,0 +1,2210 @@
+,Address,City,Bedroom,Bathroom,Parking,Face,Views,Area,Road Width,Road Type
+0, Budhanilkantha,Kathmandu,6,3,10,West,17.0,342250.0,20.0, Blacktopped
+1, Budhanilkantha,Kathmandu,5,3,9,East,26.0,718725.0,20.0, Blacktopped
+2, Dhapasi,Kathmandu,5,3,12,East,154.0,376475.0,20.0, Blacktopped
+3, Baluwatar,Kathmandu,6,4,9,West,17.0,345672.5,20.0, Blacktopped
+4, Golfutar,Kathmandu,6,3,10,East,59.0,657120.0,20.0, Blacktopped
+5, Banasthali,Kathmandu,5,6,9,East,92.0,421309.75,13.0, Blacktopped
+6, Lubhu,Lalitpur,3,4,1,South East,317.0,106439.75,11.0, Gravelled
+7, Budhanilkantha,Kathmandu,5,4,9,East,618.0,290912.5,20.0, Blacktopped
+8, Baluwatar,Kathmandu,10,8,5,North,110.0,421652.0,20.0, Blacktopped
+9, Sukedhara,Kathmandu,6,4,1,South East,2600.0,136900.0,12.0, Concrete
+10, Lekhnath,Pokhara,4,5,3,South West,922.0,4791.5,15.0, Blacktopped
+11, Chapali,Kathmandu,5,4,1,North West,592.0,143745.0,14.0, Paved
+12, Budhanilkantha,Kathmandu,2,2,1,South,766.0,1711.25,12.0, Gravelled
+13, Budhanilkantha,Kathmandu,5,5,3,South East,872.0,2738.0,20.0, Blacktopped
+14, Budhanilkantha,Kathmandu,6,6,1,East,1100.0,1369.0,13.0, Paved
+15, Sitapaila,Kathmandu,6,6,1,East,1600.0,1369.0,13.0, Gravelled
+16, Narephate,Kathmandu,6,4,1,East,2800.0,205350.0,20.0, Blacktopped
+17, Thankot,Kathmandu,4,4,3,South,404.0,2053.5,13.0,
+18, Kalanki,Kathmandu,7,4,3,East,164.0,3422.5,0.0,
+19, Kavresthali,Kathmandu,0,0,0,North,460.0,136900.0,10.0,
+20, Sipadol,Bhaktapur,7,3,1,East,3200.0,109520.0,10.0, Gravelled
+21, Radhe Radhe,Bhaktapur,0,0,0,East,720.0,109520.0,20.0, Blacktopped
+22, Balaju,Kathmandu,95,40,7,East,169.0,7187.25,20.0, Blacktopped
+23, Budhanilkantha,Kathmandu,5,6,4,South,253.0,6502.75,20.0, Gravelled
+24, Sitapaila,Kathmandu,4,4,1,East,510.0,136900.0,13.0, Blacktopped
+25, Dhapasi,Kathmandu,6,6,3,South East,178.0,20877.25,32.0,
+26, Golfutar,Kathmandu,6,6,4,East,208.0,6502.75,13.0, Blacktopped
+27, Imadol,Lalitpur,7,4,2,South,981.0,143745.0,13.0, Gravelled
+28, Pepsicola,Kathmandu,6,6,2,East,318.0,22246.25,16.0, Blacktopped
+29, Imadol,Lalitpur,4,3,1,East,596.0,102675.0,13.0, Gravelled
+30, Imadol,Lalitpur,4,3,1,East,466.0,109520.0,13.0, Gravelled
+31, Imadol,Lalitpur,5,3,1,South,157.0,103359.5,13.0,
+32, Baluwatar,Kathmandu,5,6,3,East,566.0,3422.5,15.0, Blacktopped
+33, Budhanilkantha,Kathmandu,8,8,4,East,96.0,7187.25,15.0, Blacktopped
+34, Budhanilkantha,Kathmandu,5,5,4,South,345.0,21904.0,15.0, Gravelled
+35, Kapan,Kathmandu,6,5,1,East,971.0,1369.0,16.0, Blacktopped
+36, Mandikatar,Kathmandu,7,7,2,East,151.0,2395.75,15.0, Blacktopped
+37, Hattigauda,Kathmandu,6,6,2,West,282.0,1711.25,14.0, Blacktopped
+38, Radhe Radhe,Bhaktapur,0,2,2,West,1100.0,1369.0,20.0, Blacktopped
+39, Budhanilkantha,Kathmandu,6,6,1,North East,66.0,10609.75,18.0, Blacktopped
+40, Budhanilkantha,Kathmandu,6,6,4,South East,157.0,3764.75,15.0, Soil Stabilized
+41, Baluwatar,Kathmandu,6,5,10,East,339.0,10267.5,15.0,
+42, Tokha,Kathmandu,9,6,3,East,71.0,3080.25,13.0, Paved
+43, Sukedhara,Kathmandu,6,5,1,East,136.0,11978.75,15.0, Blacktopped
+44, Maligaon,Kathmandu,6,6,4,East,108.0,4107.0,14.0, Gravelled
+45, Budhanilkantha,Kathmandu,5,6,2,North,150.0,1711.25,13.0, Blacktopped
+46, Budhanilkantha,Kathmandu,5,5,1,West,112.0,1369.0,13.0, Blacktopped
+47, Mandikatar,Kathmandu,2,2,1,South West,1700.0,10609.75,13.0, Gravelled
+48, Budhanilkantha,Kathmandu,6,6,1,South East,100.0,1369.0,13.0, Blacktopped
+49, Tokha,Kathmandu,10,5,3,South East,67.0,1369.0,26.0, Blacktopped
+50, Budhanilkantha,Kathmandu,6,6,2,East,161.0,15401.25,14.0, Gravelled
+51, Tokha,Kathmandu,5,5,1,East,139.0,10609.75,13.0, Soil Stabilized
+52, Budhanilkantha,Kathmandu,5,5,3,South East,168.0,2738.0,15.0, Blacktopped
+53, Height,Kathmandu,4,3,1,South West,5600.0,215617.5,13.0, Concrete
+54, Naikap,Kathmandu,5,3,1,East,274.0,1369.0,13.0,
+55, Balkot,Bhaktapur,3,3,2,North,1400.0,15401.25,20.0, Blacktopped
+56, Naya Bazar,Kathmandu,3,4,1,East,209.0,102675.0,19.68504, Blacktopped
+57, Satungal,Kathmandu,0,0,0,West,136.0,174889.75,29.0,
+58, Budhanilkantha,Kathmandu,5,5,2,South East,162.0,1711.25,0.0,
+59, Tarkeshwor,Kathmandu,2,1,1,West,588.0,106097.5,0.0,
+60, Budhanilkantha,Kathmandu,4,3,4,South,437.0,21904000.0,20.0,
+61, Baluwatar,Kathmandu,4,5,4,West,726.0,319319.25,13.0, Gravelled
+62, Nakhundol,Lalitpur,3,4,2,East,688.0,143745.0,13.0, Gravelled
+63, Bhaktapur,Bhaktapur,4,4,4,South,374.0,2395.75,20.0, Paved
+64, Jorpati,Kathmandu,5,3,1,South West,173.0,1369.0,12.0, Blacktopped
+65, Bharatpur,Chitwan,3,4,1,West,599.0,20958.75,19.68504,
+66, Raniban,Kathmandu,0,0,0,West,205.0,3935875.0,20.0,
+67, Ratnanagar,Chitwan,4,2,1,East,677.0,2053.5,16.0, Gravelled
+68, Makalbari,Kathmandu,7,3,2,West,5100.0,140664.75,10.0, Gravelled
+69, Sipadol,Bhaktapur,7,4,1,West,6200.0,102675.0,20.0, Gravelled
+70, Budhanilkantha,Kathmandu,0,4,2,South East,188.0,136900.0,18.0, Blacktopped
+71, Mhepi,Kathmandu,0,0,0,North East,86.0,171809.5,13.0, Blacktopped
+72, Pasikot,Kathmandu,0,0,0,East,134.0,246420.0,20.0,
+73, Dhapasi,Kathmandu,8,4,5,South,86.0,1369.0,12.0, Concrete
+74, Imadol,Lalitpur,2,1,1,West,3200.0,102675.0,20.0, Gravelled
+75, Imadol,Lalitpur,5,3,1,East,710.0,106097.5,20.0, Gravelled
+76, Imadol,Lalitpur,5,3,1,West,157.0,109520.0,20.0, Gravelled
+77, Imadol,Lalitpur,4,3,1,East,161.0,136900.0,20.0, Gravelled
+78, Imadol,Lalitpur,4,3,1,North East,166.0,109520.0,20.0, Gravelled
+79, Buddha party palace,Lalitpur,4,3,1,South,602.0,102675.0,13.0, Gravelled
+80, Buddha party palace,Lalitpur,4,3,1,South,792.0,102675.0,13.0, Gravelled
+81, Swayambhu,Kathmandu,8,5,2,South,136.0,175574.25,12.0, Gravelled
+82, Swayambhu,Kathmandu,6,3,1,South,94.0,136900.0,12.0, Gravelled
+83, Butwal,Butwal,2,1,1,South,197.0,113906.25,32.0,
+84, near tempo park,Lalitpur,0,3,1,East,340.0,136900.0,12.0,
+85, Manamaiju,Kathmandu,8,4,1,South,220.0,137584.5,16.0, Gravelled
+86, Syuchatar,Kathmandu,5,3,1,South West,380.0,212195.0,10.0,
+87, Kavresthali,Kathmandu,7,3,1,North East,135.0,136900.0,10.0,
+88, Goldhunga,Kathmandu,5,2,1,North West,960.0,110204.5,13.0,
+89, Imadol,Lalitpur,6,4,1,North,673.0,11294.25,10.0,
+90, Maharajgunj,Kathmandu,0,0,0,North East,167.0,208772.5,12.0, Blacktopped
+91, Baluwatar,Kathmandu,5,5,3,South East,296.0,342250.0,20.0,
+92, Kalanki,Kathmandu,4,3,1,North West,2100.0,136900.0,10.0, Blacktopped
+93, Imadol,Lalitpur,2,1,1,South,917.0,106097.5,13.0, Gravelled
+94, Sirutar,Bhaktapur,0,0,0,North East,3800.0,1369.0,20.0, Gravelled
+95, Budhanilkantha,Kathmandu,4,4,4,South West,8200.0,3764.75,22.0,
+96, Tikathali,Lalitpur,2,1,1,South,4100.0,102675.0,13.0, Gravelled
+97, Imadol,Lalitpur,4,3,2,North West,1900.0,109520.0,13.0, Gravelled
+98, Pasikot,Kathmandu,0,0,0,South West,138.0,342250.0,20.0,
+99, Planning,Kathmandu,2,1,2,South West,5300.0,136900.0,20.0, Gravelled
+100, Budhanilkantha,Kathmandu,0,0,0,West,48.0,4107.0,16.0, Paved
+101, Sankhamul,Kathmandu,0,0,0,East,46.0,616050.0,40.0, Blacktopped
+102,Thankot,Kathmandu,0,0,0,South,232.0,1711.25,13.0, Blacktopped
+103, Golfutar,Kathmandu,0,0,0,East,23.0,136900.0,13.0, Soil Stabilized
+104, Simara,Bara,0,0,0,West,323.0,1439775.0,16.0,
+105, Ring Road,Kathmandu,0,0,0,North West,203.0,3422.5,20.0,
+106, Gaurighat,Kathmandu,0,0,0,South,443.0,20877.25,12.0, Paved
+107, Budhanilkantha,Kathmandu,2,1,0,West,457.0,1369.0,11.0,
+108, Budhanilkantha,Kathmandu,0,0,0,West,599.0,6160.5,20.0, Blacktopped
+109, Budhanilkantha,Kathmandu,0,0,0,East,195.0,6160.5,30.0, Blacktopped
+110, Jhor,Kathmandu,0,0,0,East,475.0,239575.0,58.0, Concrete
+111, Birtamod,Birtamod,0,0,0,East,222.0,419175.0,20.0, Soil Stabilized
+112, Kavresthali,Kathmandu,0,0,0,South,248.0,136900.0,10.0,
+113, Chabahil,Kathmandu,0,0,0,South,126.0,177970.0,13.0,
+114, Kavresthali,Kathmandu,0,0,0,South,111.0,136900.0,10.0,
+115, Dharmasthali,Kathmandu,0,0,0,West,110.0,171125.0,20.0,
+116, Budhanilkantha,Kathmandu,0,0,0,East,211.0,14032.25,15.0, Blacktopped
+117, Budhanilkantha,Kathmandu,0,0,0,East,142.0,5476.0,30.0, Blacktopped
+118, Budhanilkantha,Kathmandu,0,0,0,South,103.0,3422.5,30.0, Blacktopped
+119, Dillibazar,Kathmandu,0,0,0,North,247.0,1026.75,26.0,
+120, Budhanilkantha,Kathmandu,0,0,0,East,89.0,27722250.0,32.0,
+121, Golfutar,Kathmandu,0,0,0,South,73.0,2738.0,15.0,
+122, Budhanilkantha,Kathmandu,0,0,0,East,72.0,43808.0,35.0, Blacktopped
+123, milantol,Kathmandu,2,1,1,West,498.0,18823.75,18.0,
+124, Bhaktapur,Bhaktapur,0,0,0,South,316.0,205350.0,0.0,
+125,Near Bhat Bhateni,Kathmandu,2,2,0,West,615.0,1369.0,10.0,
+126, Imadol,Lalitpur,0,0,0,South West,90.0,15401.25,22.96588, Gravelled
+127, Hattigauda,Kathmandu,7,7,3,South,252.0,3080.25,13.0, Blacktopped
+128, Lazimpat,Kathmandu,1,1,1,East,567.0,3422.5,0.0,
+129, Bishal Nagar,Kathmandu,0,0,0,East,141.0,9925.25,16.0,
+130,kathmandu,Kathmandu,0,0,0,North East,397.0,171125.0,16.0,
+131, Baluwatar,Kathmandu,0,0,0,East,344.0,5476.0,14.0,
+132, Newroad,Kathmandu,0,1,0,South,158.0,1369.0,0.0,
+133, Maligaon,Kathmandu,0,0,0,East,58.0,4107.0,25.0,
+134, Newroad,Kathmandu,0,1,0,South,92.0,1369.0,0.0,
+135, Hattigauda,Kathmandu,0,0,0,South,151.0,3080.25,15.0, Blacktopped
+136, Mahalaxmi Nagarpalika,Lalitpur,0,0,2,East,106.0,3080.25,72.0, Blacktopped
+137, Budhanilkantha,Kathmandu,0,0,0,North East,134.0,21904.0,15.0, Soil Stabilized
+138, Budhanilkantha,Kathmandu,6,7,6,South East,354.0,7187.25,16.0, Blacktopped
+139, Ranibari,Kathmandu,0,0,0,East,105.0,1369.0,15.0, Blacktopped
+140, Golfutar,Kathmandu,0,0,0,South West,117.0,1711.25,13.0, Soil Stabilized
+141, Link Road,Kathmandu,0,2,5,North,655.0,1369.0,65.6168, Blacktopped
+142, Lazimpat,Kathmandu,0,0,0,South,101.0,410700.0,0.0,
+143, Anamnagar,Kathmandu,0,0,0,East,50.0,239575.0,29.52756, Blacktopped
+144, Imadol,Lalitpur,2,2,1,West,666.0,1369.0,13.0, Concrete
+145, Baneshwor,Kathmandu,0,0,4,East,78.0,1369.0,26.0, Blacktopped
+146, Zero Km,Pokhara,1,1,1,North East,480.0,181392.5,14.0, Blacktopped
+147, Chitapol,Bhaktapur,0,0,0,South,1400.0,352517.5,10.0, Gravelled
+148, Sanepa,Lalitpur,0,0,0,North East,259.0,1369.0,0.0,
+149, Sanepa,Lalitpur,0,0,0,North East,196.0,1369.0,20.0,
+150, Kirtipur,Kathmandu,0,0,0,South East,161.0,650275.0,22.0,
+151, Maharajgunj,Kathmandu,5,4,11,East,226.0,27380.0,0.0,
+152, Bhangal,Kathmandu,0,0,0,North,158.0,1711.25,0.0,
+153, Birendranagar,Chitwan,0,0,0,East,109.0,1369.0,30.0, Soil Stabilized
+154, Panipokhari,Kathmandu,3,3,1,South,395.0,1369.0,20.0,
+155, Tokha,Kathmandu,3,2,1,North,1100.0,1369.0,0.0, Blacktopped
+156, Dharan,Dharan,0,0,0,East,142.0,2369.25,25.0, Blacktopped
+157, Jhamsikhel,Lalitpur,2,2,2,East,301.0,2053.5,10.0, Soil Stabilized
+158, height,Kathmandu,0,1,1,East,127.0,1369.0,12.0, Paved
+159, Basbari,Kathmandu,3,4,2,South,173.0,171125.0,0.0,
+160, Sano Gaucharan,Kathmandu,0,0,0,North,197.0,318292.5,32.0,
+161, Chhauni,Kathmandu,0,0,0,North,123.0,342.25,10.0,
+162, Gaushala,Kathmandu,0,0,0,West,207.0,342250.0,12.0,
+163, Naya Bazar,Kathmandu,0,0,0,South,85.0,342250.0,40.0,
+164, Bharatpur,Chitwan,0,0,0,South,159.0,4107.0,19.68504, Blacktopped
+165, Jorpati,Kathmandu,1,1,1,East,390.0,380277777777739.75,0.0,
+166, Hattiban,Lalitpur,0,0,0,East,368.0,136900.0,19.68504,
+167, Bhaisepati,Lalitpur,3,2,1,East,975.0,1369.0,40.0, Blacktopped
+168, Hattiban,Lalitpur,4,3,2,East,454.0,1369.0,0.0,
+169, Sallaghari,Bhaktapur,4,3,2,East,407.0,1369.0,0.0,
+170, Kumaripati,Lalitpur,5,4,4,East,166.0,3422.5,0.0,
+171, Mid Baneshwor,Kathmandu,0,0,0,East,330.0,889850.0,35.0, Blacktopped
+172, Kapan,Kathmandu,0,0,0,East,130.0,5476.0,14.0, Gravelled
+173, Nasal Chowk,Kathmandu,0,0,0,South East,115.0,136900.0,16.0, Blacktopped
+174, Bhaktapur,Bhaktapur,0,0,0,East,72.0,6094788.0,13.0,
+175, Dhara Marg,Kathmandu,0,0,0,East,121.0,82140.0,0.0,
+176, Imadol,Lalitpur,0,0,0,East,1100.0,249842.5,13.0, Blacktopped
+177, Dhapasi,Kathmandu,0,0,1,East,1000.0,205350.0,25.0, Blacktopped
+178, Naya Bazar,Kathmandu,0,0,0,South West,98.0,342.25,16.0,
+179, Sankhamul,Kathmandu,0,0,0,North West,81.0,342.25,0.0,
+180, Naya Bazar,Kathmandu,0,0,0,South East,94.0,75295.0,26.0,
+181, Ramkot,Kathmandu,0,0,0,South West,74.0,383320.0,14.0,
+182, Swayambhu,Kathmandu,0,0,0,North,75.0,273800.0,32.0,
+183, Samakhusi,Kathmandu,0,3,1,East,206.0,102675.0,16.0, Gravelled
+184, Budhanilkantha,Kathmandu,0,0,0,West,295.0,376475.0,13.0,
+185, Nagarjun,Kathmandu,0,0,0,South East,311.0,383320.0,14.0,
+186, Manamaiju,Kathmandu,0,0,0,West,352.0,9856800.0,20.0, Soil Stabilized
+187, Lekhnath,Pokhara,3,2,3,East,154.0,16428.0,14.0, Blacktopped
+188, Budhanilkantha,Kathmandu,0,0,0,North,307.0,10952000.0,14.0,
+189, Manamaiju,Kathmandu,5,3,1,West,248.0,102675.0,14.0,
+190, Sunaulo Marg,Pokhara,2,1,1,East,439.0,29091.25,13.0, Paved
+191, Raniban,Kathmandu,0,0,0,South East,303.0,174547.5,12.0,
+192, Thulo Bharyang,Kathmandu,0,0,0,South East,245.0,16428000.0,20.0,
+193, Sunsari,Sunsari,0,0,0,East,169.0,1822.5,20.0, Gravelled
+194, Hattisar,Kathmandu,0,0,1,East,1200.0,452454.5,20.0, Blacktopped
+195, Sunsari,Sunsari,0,0,0,East,143.0,2369.25,16.0, Gravelled
+196, Sitapaila,Kathmandu,4,3,1,South East,439.0,1369.0,22.0, Gravelled
+197, Chabahil,Kathmandu,0,0,0,South East,73.0,410700.0,36.0,
+198, Basbari,Kathmandu,6,4,2,East,151.0,3422.5,0.0,
+199, Swayambhu,Kathmandu,0,0,0,East,565.0,242997.5,11.0, Gravelled
+200, Baghbazaar,Kathmandu,6,2,2,East,192.0,607836.0,14.0, Blacktopped
+201, Soltimode,Kathmandu,3,2,1,East,78.0,3422.5,0.0,
+202, Budhanilkantha,Kathmandu,5,4,4,East,323.0,8556.25,0.0,
+203, Thaha Nagarpalika,Makwanpur,0,0,0,North West,191.0,49284.0,14.0, Gravelled
+204, Sitapaila,Kathmandu,0,0,0,East,103.0,444925.0,36.08924, Blacktopped
+205, Patan,Lalitpur,0,0,0,East,124.0,1369.0,0.0,
+206, Jhamsikhel,Lalitpur,2,1,0,North,469.0,1369.0,30.0,
+207, Pasikot,Kathmandu,6,6,1,South East,103.0,177970.0,20.0,
+208, Tikathali,Lalitpur,0,0,1,South West,100.0,109520.0,13.0, Gravelled
+209,Pragati tol,Kathmandu,2,1,0,West,529.0,11978.75,0.0,
+210, Kapan,Kathmandu,0,0,0,East,135.0,1369.0,13.0, Soil Stabilized
+211, Godawari,Lalitpur,3,1,1,West,214.0,171125.0,16.0, Blacktopped
+212, Bafal,Kathmandu,11,0,1,East,453.0,15401.25,20.0, Blacktopped
+213, Panii Tyanki,Lalitpur,5,3,1,North West,1700.0,136900.0,10.0, Gravelled
+214, Gaidakot,Nawalpur,3,4,1,East,247.0,1369.0,15.0, Blacktopped
+215, Tarkeshwor,Kathmandu,0,2,1,South,151.0,10609.75,20.0, Blacktopped
+216, Sallaghari,Bhaktapur,0,0,0,West,1500.0,140322.5,13.0, Blacktopped
+217, Tikathali,Lalitpur,2,1,2,West,1600.0,78717.5,13.0, Gravelled
+218, Lubhu,Lalitpur,0,0,0,East,1100.0,1711.25,10.0,
+219, Maitidevi,Kathmandu,0,0,0,East,251.0,273800.0,45.0, Blacktopped
+220, Imadol,Lalitpur,4,2,1,North East,786.0,102675.0,13.0, Gravelled
+221,kathmandu,Kathmandu,28,0,0,East,460.0,174889.75,29.0,
+222, Gokarneshwor,Kathmandu,0,0,0,North,516.0,4791.5,20.0, Blacktopped
+223, Machhegaun,Kirtipur,0,0,0,East,503.0,147167.5,12.0, Blacktopped
+224, Pulchowk,Lalitpur,8,5,7,East,192.0,4107.0,0.0,
+225, Balkhu,Kathmandu,0,0,0,East,198.0,242997.5,0.0,
+226, Hattisar,Kathmandu,3,3,2,South,1600.0,27380.0,20.0, Blacktopped
+227, Bharatpur,Chitwan,4,2,1,South,461.0,1369.0,13.0, Blacktopped
+228, saraswoti 3,Kathmandu,6,5,2,North,434.0,1711.25,14.0, Gravelled
+229, Bhaisepati,Lalitpur,4,4,1,South,290.0,14716.75,12.0, Paved
+230, Harisiddhi,Lalitpur,3,3,1,South East,704.0,103701.75,18.0,
+231, Bhandara,Chitwan,0,0,0,East,305.0,1369.0,20.0, Soil Stabilized
+232, Budhanilkantha,Kathmandu,4,5,1,South West,493.0,2738.0,20.0, Paved
+233, Chabahil Main Road.,Kathmandu,0,3,1,East,115.0,68450.0,25.0, Blacktopped
+234, Satdobato,Lalitpur,3,3,3,East,223.0,3764.75,20.0, Blacktopped
+235, Chabahil,Kathmandu,0,0,0,East,185.0,136900.0,18.0, Blacktopped
+236, 1 Kitta Inside from Main Road.,Kathmandu,0,0,0,East,137.0,314870.0,20.0, Blacktopped
+237, Chabahil Beside Raprapa Party Office.,Kathmandu,0,0,3,East,135.0,314870.0,15.0, Blacktopped
+238, Matatirtha,Kathmandu,0,0,0,North East,2600.0,147167.5,20.0, Concrete
+239, Kadaghari,Kathmandu,0,0,0,North East,1400.0,171125.0,12.0, Blacktopped
+240, Sankhamul,Kathmandu,7,3,2,West,1500.0,110204.5,12.0, Paved
+241, Kalanki,Kathmandu,0,0,0,East,1200.0,308025.0,16.0, Blacktopped
+242, Charumati bihar,Kathmandu,6,4,2,East,479.0,8556.25,20.0, Paved
+243, Gothatar,Kathmandu,0,0,0,North,601.0,109520.0,13.0, Blacktopped
+244, Inside Ring Road Track.,Kathmandu,0,0,0,East,123.0,444925.0,40.0, Blacktopped
+245, 100 Meters From Main Road,Kathmandu,0,0,0,East,215.0,308025.0,12.0, Blacktopped
+246, Dhobikhola Corridor,Kathmandu,0,0,0,East,201.0,444925.0,25.0, Blacktopped
+247, Basantapur,Kathmandu,0,0,0,East,192.0,1369000.0,15.0, Blacktopped
+248, 100 Meter From Ring Road,Kathmandu,0,0,0,East,150.0,342250.0,16.0, Gravelled
+249, Chabahil,Kathmandu,0,0,0,East,94.0,273800.0,16.0, Blacktopped
+250, Budhanilkantha,Kathmandu,0,0,0,East,131.0,308025.0,16.0, Gravelled
+251, Ratopul,Kathmandu,0,0,3,East,228.0,205350.0,18.0, Blacktopped
+252, Mahendrapul,Pokhara,0,2,0,East,173.0,1369.0,0.0,
+253, Balaju,Kathmandu,1,1,4,East,444.0,1369.0,20.0,
+254, Basbari,Kathmandu,0,0,0,East,105.0,342250.0,16.0, Gravelled
+255, Golfutar,Kathmandu,5,6,2,South,492.0,1369.0,20.0, Blacktopped
+256, Mahendrapul,Pokhara,0,0,0,East,292.0,1369.0,0.0,
+257, Dhapakhel,Lalitpur,0,0,1,East,101.0,136900.0,10.0, Gravelled
+258, Jawalakhel,Lalitpur,4,4,1,East,176.0,1711.25,0.0,
+259, Parsa,Chitwan,0,0,0,South East,1700.0,51030.0,30.0, Blacktopped
+260, Budhanilkantha.,Kathmandu,5,4,2,East,350.0,188237.5,20.0, Blacktopped
+261, 80 Meter From Highway,Kathmandu,5,0,0,East,266.0,444925.0,20.0, Blacktopped
+262, Pokharia,Biratnagar,0,0,0,East,129.0,5467.5,0.0, Blacktopped
+263, Sanobharyang,Kathmandu,5,3,1,East,238.0,106097.5,14.0, Blacktopped
+264, Sano Bharyang,Kathmandu,5,3,2,East,175.0,102675.0,15.0, Blacktopped
+265, Budhanilkantha,Kathmandu,4,3,1,East,271.0,103701.75,15.0, Gravelled
+266, Budhanilkantha,Kathmandu,5,4,1,East,204.0,136900.0,15.0, Gravelled
+267, Budhanilkantha,Kathmandu,5,0,4,East,210.0,410700.0,15.0, Blacktopped
+268, Thankot,Kathmandu,10,3,0,East,538.0,1369.0,3.0,
+269, Sukedhara,Kathmandu,5,3,1,East,147.0,171125.0,12.0, Paved
+270, Budhanilkantha,Kathmandu,5,4,2,East,280.0,205350.0,18.0, Gravelled
+271, Tokha,Kathmandu,0,0,0,East,194.0,171125.0,20.0, Blacktopped
+272, Chapali,Kathmandu,0,0,0,East,107.0,171125.0,16.0, Blacktopped
+273, Budhanilkantha,Kathmandu,0,0,0,South East,422.0,1711.25,12.0, Gravelled
+274, maijubahal,Kathmandu,0,0,0,East,351.0,1369.0,13.0, Gravelled
+275, Golfutar,Kathmandu,0,0,0,West,368.0,4449.25,13.0, Blacktopped
+276, Tokha,Kathmandu,0,0,0,East,415.0,2053.5,20.0, Blacktopped
+277, Golfutar,Kathmandu,5,5,1,South,1200.0,1369.0,20.0, Blacktopped
+278, Sukedhara,Kathmandu,6,6,3,East,198.0,2053.5,20.0, Blacktopped
+279, Birgunj,Parsa,0,0,0,South,164.0,8201.25,6.0,
+280, Baghdol,Lalitpur,2,1,2,East,362.0,3764.75,0.0,
+281, Manmaiju,Kathmandu,5,3,1,East,764.0,128343.75,12.0, Paved
+282, Maharajgunj,Kathmandu,5,4,2,East,289.0,3764.75,0.0,
+283, Bhaisepati,Lalitpur,3,3,1,East,644.0,18823.75,0.0,
+284, Goldhunga,Kathmandu,6,3,1,South East,5700.0,102675.0,10.0, Gravelled
+285, Sitapaila,Kathmandu,4,4,1,East,7800.0,112942.5,13.0, Blacktopped
+286, Imadol,Lalitpur,7,6,3,North East,304.0,162568.75,13.0, Blacktopped
+287, Gatthaghar,Bhaktapur,0,0,0,East,1900.0,1026.75,16.0,
+288, Imadol,Lalitpur,4,5,1,South West,621.0,1369.0,20.0, Gravelled
+289, Koteshwor,Kathmandu,0,4,1,East,276.0,1369.0,98.4252, Blacktopped
+290, Changunarayan,Bhaktapur,0,0,0,East,393.0,417545.0,1640.42,
+291, Suryabinayak,Bhaktapur,0,0,0,East,747.0,5612900.0,300.0,
+292, Dukuchhap,Lalitpur,0,0,0,East,305.0,178323202.0,500.0,
+293, Godawari,Lalitpur,0,0,0,East,191.0,169810760.0,1640.42,
+294, Baghdol,Lalitpur,2,1,1,South West,220.0,547600.0,10.0,
+295, Lazimpat,Kathmandu,0,0,6,South,267.0,5476000.0,14.0,
+296, Mhepi,Kathmandu,6,5,8,South,167.0,5476000.0,20.0,
+297, Budhanilkantha,Kathmandu,0,0,0,West,1400.0,136900.0,12.0, Gravelled
+298, Teku,Kathmandu,0,0,0,East,118.0,725570.0,984.252,
+299, Kapan,Kathmandu,6,3,2,South,639.0,1369.0,13.0, Concrete
+300, Bhaisepati,Lalitpur,4,4,1,East,209.0,177970.0,20.0, Blacktopped
+301, Swayambhu,Kathmandu,3,2,1,East,542.0,3422.5,0.0,
+302, Bhaisepati,Lalitpur,4,4,1,West,380.0,205350.0,20.0, Blacktopped
+303, Gairidhara,Kathmandu,4,5,4,East,786.0,171125.0,14.0, Paved
+304, Bhaisepati,Lalitpur,4,4,1,West,193.0,174547.5,20.0, Blacktopped
+305, Gokarneshwor,Kathmandu,0,0,0,West,433.0,7529.5,28.0,
+306, Budhanilkantha,Kathmandu,5,6,3,North East,559.0,2053.5,13.0, Paved
+307, Sanobharyang,Kathmandu,6,5,1,East,274.0,10609.75,14.0, Gravelled
+308, Imadol,Lalitpur,3,2,1,North East,687.0,2738.0,10.0, Blacktopped
+309, Hetauda,Makwanpur,4,2,1,North,183.0,4009.5,13.12336, Paved
+310, Jhamsikhel,Lalitpur,2,2,2,East,890.0,1369.0,10.0, Soil Stabilized
+311, Jhamsikhel,Lalitpur,2,2,2,East,158.0,1369.0,10.0, Soil Stabilized
+312, Lele,Lalitpur,0,0,0,East,240.0,141007.0,0.0, Paved
+313, Swayambhu,Kathmandu,6,5,1,East,200.0,1026.75,13.0, Paved
+314, Golfutar,Kathmandu,6,6,4,East,155.0,6502.75,13.0, Blacktopped
+315, Bhaisepati,Lalitpur,4,4,1,North East,3100.0,140322.5,40.0, Blacktopped
+316, Tebahal,Kathmandu,0,1,0,West,111.0,1369.0,14.0, Blacktopped
+317, kadaghari,Kathmandu,2,1,2,East,256.0,10952.0,10.0, Gravelled
+318, Budhanilkantha,Kathmandu,5,5,1,East,126.0,1369.0,13.0, Blacktopped
+319, Satungal,Kathmandu,11,9,1,North,7600.0,171125.0,13.0, Blacktopped
+320, Chapali,Kathmandu,7,8,1,South East,205.0,1711.25,13.0, Gravelled
+321, Dhapakhel,Lalitpur,3,4,1,West,4200.0,75295.0,12.0, Blacktopped
+322, Hariyali Samaaj,Kathmandu,1,1,2,East,699.0,42781.25,10.0, Gravelled
+323, Pasikot,Kathmandu,5,5,1,North East,870.0,1026.75,14.0, Gravelled
+324, Budhanilkantha,Kathmandu,6,6,2,North East,280.0,18823.75,30.0, Blacktopped
+325, Budhanilkantha,Kathmandu,5,5,1,South East,384.0,103359.5,14.0, Gravelled
+326, Budhanilkantha,Kathmandu,5,4,2,East,619.0,48599.5,14.0, Blacktopped
+327, Balaju,Kathmandu,3,1,4,East,697.0,1369.0,20.0,
+328, Banasthali,Kathmandu,2,1,0,South,266.0,7187.25,14.0, Gravelled
+329, Chapali,Kathmandu,5,6,4,South East,204.0,4107.0,14.0, Gravelled
+330, Maharajgunj,Kathmandu,6,7,10,East,454.0,27380.0,24.0, Blacktopped
+331, Baluwatar,Kathmandu,7,3,1,North,4500.0,171125.0,10.0, Blacktopped
+332, alubari,Kathmandu,0,0,0,East,716.0,24642.0,0.0,
+333, Matatirtha,Kathmandu,3,3,2,West,879.0,28064.5,4.0,
+334,sainbu,Lalitpur,8,6,1,North West,689.0,242997.5,12.0, Blacktopped
+335, Tinthana,Kathmandu,5,3,1,East,7100.0,102675.0,13.0, Blacktopped
+336, Jawalakhel,Lalitpur,2,1,0,East,276.0,1711.25,0.0,
+337, Jawalakhel,Lalitpur,4,3,2,East,185.0,10952.0,0.0,
+338, Naxal,Kathmandu,22,4,3,East,175.0,3422.5,0.0,
+339, Hetauda,Makwanpur,0,0,0,South,175.0,1822.5,19.68504, Paved
+340, Kapan,Kathmandu,4,4,2,West,789.0,10952.0,0.0,
+341, Tikathali,Lalitpur,6,4,3,West,17400.0,136900.0,20.0, Concrete
+342, Butwal,Butwal,0,0,0,North East,162.0,1369.0,0.0,
+343, Jorpati,Kathmandu,0,0,0,North East,573.0,1026.75,0.0, Alley
+344, Baluwatar,Kathmandu,5,5,1,South,4000.0,205350.0,13.0, Blacktopped
+345, Gaurighat,Kathmandu,0,0,1,North,1700.0,215617.5,13.0, Blacktopped
+346, Gaurighat,Kathmandu,0,0,1,South,1100.0,308025.0,13.0, Gravelled
+347, Gaurighat,Kathmandu,0,0,0,South,1100.0,175574.25,20.0, Blacktopped
+348, Gaurighat,Kathmandu,0,0,0,South,1200.0,308025.0,13.0, Blacktopped
+349, Gaurighat,Kathmandu,0,0,1,North,1900.0,109862.25,26.0, Blacktopped
+350, Gaurighat,Kathmandu,0,0,0,East,1400.0,5476000.0,36.08924, Blacktopped
+351, Kumaripati,Lalitpur,1,0,0,South,476.0,1369.0,65.6168, Blacktopped
+352, Gaurighat,Kathmandu,0,0,0,West,1300.0,889850.0,20.0, Blacktopped
+353, Birtamod Road,Itahari,0,0,0,East,499.0,22781.25,20.0, Gravelled
+354, Samakhusi,Kathmandu,0,0,0,East,124.0,1369.0,0.0,
+355, Bhaisepati,Lalitpur,4,4,1,East,236.0,1026.75,0.0,
+356, Pasikot,Kathmandu,6,6,6,East,167.0,7187.25,15.0, Gravelled
+357, Pasikot,Kathmandu,5,5,6,North,179.0,4107.0,22.0, Blacktopped
+358, Thankot,Kathmandu,6,2,1,West,178.0,102675.0,23.0, Blacktopped
+359, Kupondole,Lalitpur,4,0,1,East,894.0,7871.75,10.0, Paved
+360, Bafal,Kathmandu,4,3,1,East,509.0,1026.75,0.0,
+361, Soltimode,Kathmandu,0,3,2,West,157.0,2395.75,16.0, Blacktopped
+362, Radhe Radhe,Bhaktapur,0,0,0,East,106.0,213564.0,0.0,
+363, Nagarjun,Kathmandu,5,4,1,North,253.0,111231.25,15.0,
+364, Chandragiri,Kathmandu,0,0,0,South East,264.0,15401.25,13.0,
+365, Naxal,Kathmandu,6,5,1,East,1900.0,410700.0,12.0, Blacktopped
+366, Chandragiri,Kathmandu,3,1,1,South,713.0,1026.75,13.0, Gravelled
+367, Thapathali,Kathmandu,6,3,1,East,8200.0,209457.0,10.0, Paved
+368, Hattigauda,Kathmandu,0,0,0,East,573.0,4791.5,20.0, Gravelled
+369, Panchashil Galli,Kathmandu,16,10,2,South,226.0,308025.0,8.0, Paved
+370, Imadol,Lalitpur,3,3,1,East,280.0,1026.75,0.0,
+371, Dharan,Dharan,0,0,0,East,216.0,25515.0,0.0, Gravelled
+372, Kharipati,Bhaktapur,0,0,0,South,164.0,82140.0,20.0, Gravelled
+373, Pratibha marga,Pokhara,0,0,0,East,206.0,3833200.0,12.0, Blacktopped
+374, Koteshwor,Kathmandu,0,0,0,South East,137.0,5476.0,18.0, Blacktopped
+375, Bafal,Kathmandu,7,3,1,South,187.0,136900.0,10.0, Blacktopped
+376, Baneshwor,Kathmandu,0,0,0,East,182.0,1369.0,0.0,
+377, rupandehi,Butwal,0,2,4,East,195.0,2916.0,50.0, Blacktopped
+378, Budhanilkantha,Kathmandu,5,4,2,South,248.0,4107.0,0.0,
+379, Sungava Tole Gate 5,Kathmandu,2,1,1,South East,856.0,1369.0,12.0, Blacktopped
+380, Buddhanagar,Kathmandu,0,1,1,South,448.0,485995.0,14.0, Paved
+381, Gwarko,Lalitpur,3,3,1,North West,1600.0,1026.75,13.0, Blacktopped
+382, Imadol,Lalitpur,5,3,1,North East,1000.0,102675.0,20.0,
+383, Gatthaghar,Bhaktapur,5,0,6,North,180.0,1369.0,20.0, Blacktopped
+384, Gatthaghar,Bhaktapur,0,0,5,North,176.0,1369.0,20.0, Soil Stabilized
+385, Chovar,Kathmandu,3,4,2,East,548.0,2395.75,0.0,
+386, Budhanilkantha,Kathmandu,0,0,0,East,325.0,2190400.0,20.0, Blacktopped
+387, Kunwar Colony,Kathmandu,5,4,1,East,459.0,273800.0,20.0, Blacktopped
+388, Budhanilkantha,Kathmandu,6,6,4,East,537.0,684500.0,18.0, Blacktopped
+389, Budhanilkantha,Kathmandu,0,0,0,East,258.0,342250.0,16.0, Blacktopped
+390, Budhanilkantha,Kathmandu,5,7,20,East,848.0,3285600.0,18.0, Blacktopped
+391, Budhanilkantha,Kathmandu,0,0,0,South,178.0,273800.0,15.0, Blacktopped
+392, 400 Meters From Main Highway,Kathmandu,6,6,2,East,259.0,205350.0,16.0, Blacktopped
+393, Bhangal,Kathmandu,4,3,1,East,347.0,102675.0,15.0, Blacktopped
+394, Beside Subisu Office,Kathmandu,6,5,3,East,309.0,410700.0,16.0, Blacktopped
+395, Budhanilkantha.,Kathmandu,0,0,0,East,174.0,342250.0,25.0, Blacktopped
+396, 150 Mtr From Highway,Kathmandu,0,0,0,East,93.0,205350.0,16.0, Blacktopped
+397, Bakhundol,Lalitpur,5,5,3,North,257.0,37647.5,0.0,
+398, Dhapasi,Kathmandu,5,6,3,South East,197.0,2738.0,22.0, Blacktopped
+399, Kusunti,Lalitpur,2,2,1,East,294.0,1369.0,0.0,
+400, Imadol,Lalitpur,5,3,1,West,1400.0,106097.5,20.0, Blacktopped
+401, Thamel,Kathmandu,43,20,0,East,537.0,10952.0,0.0,
+402, Aadeswor,Kathmandu,8,5,1,West,699.0,136900.0,14.0, Paved
+403, Lakeside,Pokhara,31,31,6,East,555.0,684.5,0.0,
+404,vhojad,Chitwan,2,2,1,West,232.0,1822.5,62.33596, Alley
+405, Budhanilkantha,Kathmandu,4,4,2,East,308.0,1711.25,0.0,
+406, Bhangal,Kathmandu,4,2,1,East,240.0,22246.25,12.0, Gravelled
+407, Bhaktapur,Bhaktapur,0,0,0,East,189.0,27380.0,0.0,
+408, Bharatpur,Chitwan,0,0,0,East,536.0,637875.0,20.0, Gravelled
+409, Madhyapur Thimi,Bhaktapur,3,4,3,East,978.0,147167.5,30.0, Blacktopped
+410, Khusibu,Kathmandu,17,19,4,East,226.0,2053.5,0.0,
+411, Dhapakhel,Lalitpur,4,3,2,East,342.0,1026.75,0.0,
+412, Tikathali,Lalitpur,5,2,1,East,988.0,1369.0,15.0, Gravelled
+413, Imadol,Lalitpur,6,4,1,West,7500.0,136900.0,13.0, Gravelled
+414, Narayantar,Kathmandu,4,4,1,South,609.0,113969.25,18.0, Blacktopped
+415, Chinnedanda,Pokhara,0,0,0,West,783.0,1369.0,18.0, Soil Stabilized
+416, Sanepa,Lalitpur,4,3,1,East,742.0,1369.0,0.0,
+417, Thankot,Kathmandu,2,1,0,South,697.0,2053.5,7.0, Gravelled
+418, Tikathali,Lalitpur,4,4,2,South,1400.0,312132.0,492.126, Paved
+419, Thaiba,Lalitpur,1,1,1,South West,368.0,5818.25,20.0, Blacktopped
+420, Paiyutar,Kathmandu,0,0,0,South,237.0,411384.5,21.0,
+421, Bhaisepati,Lalitpur,2,2,1,East,653.0,4791.5,0.0,
+422, Balkot,Bhaktapur,4,3,2,South,20600.0,171809.5,28.0, Blacktopped
+423, Ward No:02,Kathmandu,0,0,0,West,682.0,10880127.5,14.0, Paved
+424, Bhaisepati,Lalitpur,2,2,1,East,757.0,1711.25,0.0,
+425, Sitapaila,Kathmandu,3,3,2,East,211.0,2053.5,0.0,
+426, Shantinagar,Kathmandu,7,3,1,West,1900.0,249842.5,13.0, Blacktopped
+427, Dhobighat,Lalitpur,1,1,0,East,362.0,1026.75,0.0,
+428, Sanepa,Lalitpur,4,2,1,East,390.0,1026.75,0.0,
+429, Dhobighat,Lalitpur,1,1,0,East,234.0,1026.75,0.0,
+430, Karyabinayak,Lalitpur,4,4,1,East,185.0,1369.0,0.0,
+431, Bakhundol,Lalitpur,5,4,12,South,886.0,10952.0,13.0, Blacktopped
+432, Damak,Jhapa,0,0,0,South,583.0,1369.0,32.0, Blacktopped
+433, Dharan,Dharan,0,0,0,East,205.0,3280.5,12.0, Paved
+434, Balkot,Bhaktapur,0,0,0,East,910.0,38332000.0,0.0,
+435, Budhanilkantha,Kathmandu,0,0,0,North East,678.0,3422.5,15.0, Blacktopped
+436, Basundhara,Kathmandu,2,1,1,West,573.0,2053.5,10.0, Gravelled
+437, Imadol,Lalitpur,0,0,0,South East,490.0,2738.0,14.0, Gravelled
+438, Bhaisepati,Lalitpur,4,4,1,East,440.0,15401.25,0.0,
+439, Baneshwor,Kathmandu,0,0,0,East,477.0,1369.0,0.0,
+440, Civil Homes,Lalitpur,2,2,1,East,489.0,1711.25,0.0,
+441, Inside Ring Road,Kathmandu,4,3,1,East,1100.0,855625.0,16.0, Blacktopped
+442, 30 Meter From Highway,Kathmandu,0,4,2,East,589.0,205350.0,20.0, Blacktopped
+443, Samakhusi,Kathmandu,5,6,4,East,259.0,4449.25,20.0, Blacktopped
+444, Budhanilkantha,Kathmandu,6,6,5,East,292.0,7187.25,20.0, Blacktopped
+445, Baluwatar,Kathmandu,0,0,0,East,362.0,684500.0,15.0, Blacktopped
+446, Samakhusi,Kathmandu,12,8,4,East,199.0,3764.75,13.0, Blacktopped
+447, Golfutar,Kathmandu,6,6,2,East,210.0,2053.5,15.0, Blacktopped
+448, Chabahil,Kathmandu,5,5,2,East,284.0,15401.25,14.0, Blacktopped
+449, Baniyatar,Kathmandu,6,6,1,North East,153.0,11978.75,15.0, Blacktopped
+450, Basundhara,Kathmandu,6,6,4,South West,268.0,2738.0,20.0, Blacktopped
+451, Basundhara,Kathmandu,7,7,4,South,265.0,3422.5,15.0, Blacktopped
+452, Basundhara,Kathmandu,5,5,1,East,237.0,8556.25,14.0, Paved
+453, 700 meter out from ring road.,Kathmandu,5,5,0,South,97.0,410700.0,22.0, Blacktopped
+454, Sitapaila,Kathmandu,0,0,0,East,214.0,2738.0,30.0, Blacktopped
+455, Opposite Park Village Resort,Kathmandu,0,0,0,East,126.0,616050.0,16.0, Blacktopped
+456, Budhanilkantha,Kathmandu,5,6,4,South West,219.0,5818.25,14.0, Gravelled
+457, Budhanilkantha,Kathmandu,0,0,0,East,108.0,6160.5,15.0, Gravelled
+458, Dhapasi,Kathmandu,7,7,4,South East,88.0,4107.0,20.0, Blacktopped
+459, Golfutar,Kathmandu,6,7,2,East,191.0,2053.5,15.0, Blacktopped
+460, 400 meter from Bhatbhateni.,Kathmandu,6,5,0,East,437.0,410700.0,16.0, Blacktopped
+461, Sukedhara,Kathmandu,8,7,4,South East,243.0,205350.0,20.0, Paved
+462, Imadol,Lalitpur,2,1,1,North East,2700.0,109520.0,10.0, Gravelled
+463, Imadol,Lalitpur,2,1,1,North,178.0,103701.75,10.0, Gravelled
+464, Imadol,Lalitpur,2,1,1,West,1600.0,75295.0,16.0, Gravelled
+465, Bharatpur,Chitwan,0,0,0,South,482.0,4738.5,164.042, Blacktopped
+466, Imadol,Lalitpur,2,1,1,West,3800.0,102675.0,13.0, Gravelled
+467, Civil Homes,Lalitpur,4,3,1,East,696.0,2053.5,0.0,
+468, Tikathali,Lalitpur,2,1,1,East,2600.0,113284.75,13.0, Gravelled
+469, Sagarmatha chwok,Kathmandu,8,4,1,North,6100.0,109520.0,10.0, Gravelled
+470, Buddha party palace,Lalitpur,2,1,1,South,902.0,79402.0,13.0, Gravelled
+471, Bharatpur,Chitwan,0,0,0,South,250.0,18225.0,26.0, Blacktopped
+472, Bharatpur,Chitwan,6,3,10,South,456.0,1369.0,26.0, Blacktopped
+473, Machhegaun,Kirtipur,2,1,1,North East,271.0,140322.5,13.0, Soil Stabilized
+474, Dhapakhel,Lalitpur,3,2,1,East,587.0,1369.0,24.0, Blacktopped
+475, Tikathali,Lalitpur,2,1,1,North East,5200.0,137584.5,16.0, Blacktopped
+476, Tikathali,Lalitpur,2,1,1,East,2100.0,102675.0,13.0, Gravelled
+477, Changunarayan,Bhaktapur,0,0,0,North,542.0,2053.5,12.0,
+478, Bhaisepati,Lalitpur,4,4,1,East,404.0,136900.0,12.0, Paved
+479, Hetauda,Makwanpur,4,4,4,East,502.0,110204.5,14.0, Paved
+480, lalitpur,Lalitpur,0,5,3,North,589.0,3080.25,3.28084, Gravelled
+481, Baluwatar,Kathmandu,0,0,0,East,300.0,68450.0,15.0, Blacktopped
+482, Golfutar,Kathmandu,0,0,0,East,498.0,136900.0,16.0, Blacktopped
+483, Golfutar,Kathmandu,0,0,0,East,134.0,15401.25,13.0, Blacktopped
+484, Bhangal,Kathmandu,5,5,1,West,199.0,1369.0,13.0, Gravelled
+485, Baluwatar,Kathmandu,7,4,4,East,448.0,1882375.0,14.0, Blacktopped
+486, Baluwatar,Kathmandu,5,6,4,East,254.0,18823.75,13.0, Paved
+487, Basundhara,Kathmandu,7,4,1,East,306.0,136900.0,14.0, Blacktopped
+488, Samakhusi,Kathmandu,5,4,2,South East,295.0,239575.0,14.0, Blacktopped
+489, Nakhipot,Lalitpur,4,5,1,South West,227.0,106097.5,0.0,
+490, Kharibot,Kathmandu,5,3,1,East,237.0,1129425.0,13.0, Blacktopped
+491, Samakhusi,Kathmandu,5,6,2,South,138.0,2395.75,14.0, Blacktopped
+492, Basundhara,Kathmandu,7,6,1,South West,122.0,128343.75,14.0, Blacktopped
+493, Near Krishna Mandir,Kathmandu,0,0,0,East,498.0,171125.0,15.0, Gravelled
+494, Mandikatar,Kathmandu,6,3,1,East,654.0,136900.0,15.0, Blacktopped
+495, 4 Km From Ring Road,Kathmandu,0,0,0,East,433.0,1369.0,20.0, Soil Stabilized
+496, 50 Meters From Main Highway.,Kathmandu,5,4,2,East,534.0,342250.0,16.0, Blacktopped
+497, Budhanilkantha,Kathmandu,0,0,0,West,452.0,342250.0,14.0, Blacktopped
+498, Budhanilkantha,Kathmandu,5,5,0,East,581.0,58182.5,20.0, Blacktopped
+499, Rudreshwor,Kathmandu,6,4,2,East,459.0,205350.0,30.0, Blacktopped
+500, Tudaldevi.,Kathmandu,3,3,2,East,1200.0,1779700.0,15.0, Blacktopped
+501, Taulung.,Kathmandu,0,3,3,East,476.0,308025.0,16.0, Blacktopped
+502, Imadol,Lalitpur,4,1,0,North East,984.0,174547.5,4.0, Concrete
+503, Chakupat,Lalitpur,0,2,0,South,555.0,342.25,1.0, Concrete
+504, Tikathali,Lalitpur,2,1,1,East,319.0,1026.75,13.0,
+505, Tikathali,Lalitpur,2,1,1,East,378.0,1026.75,15.0,
+506, Samakhusi,Kathmandu,0,0,0,South East,225.0,1711.25,13.0, Blacktopped
+507, Imadol,Lalitpur,4,4,1,West,465.0,128343.75,13.0, Blacktopped
+508, Dhapasi,Kathmandu,4,3,1,South East,247.0,3422.5,20.0, Blacktopped
+509, Imadol,Lalitpur,6,4,0,East,973.0,109520.0,13.0, Blacktopped
+510, Pepsicola,Kathmandu,4,2,1,South,1000.0,1369.0,20.0, Blacktopped
+511, Chapali,Kathmandu,0,0,0,East,369.0,11294.25,20.0, Gravelled
+512, Sano Bharyang,Kathmandu,5,5,1,East,650.0,1026.75,13.0, Gravelled
+513, Mandikatar,Kathmandu,7,6,1,East,832.0,1369.0,13.0, Gravelled
+514, Budhanilkantha,Kathmandu,5,4,10,East,671.0,752950.0,16.0, Blacktopped
+515, MITRAPARK,Kathmandu,4,4,2,East,473.0,1540125.0,16.0, Blacktopped
+516, Banasthali,Kathmandu,4,3,1,East,805.0,102675.0,15.0, Blacktopped
+517, Swayambhu,Kathmandu,0,3,1,East,192.0,102675.0,16.0, Blacktopped
+518, Dhungedhara,Kathmandu,5,5,1,East,523.0,1026.75,14.0, Gravelled
+519, Budhanilkantha,Kathmandu,6,7,10,East,177.0,7529.5,15.0, Blacktopped
+520, Chabahil,Kathmandu,5,5,2,East,650.0,15401.25,15.0, Blacktopped
+521, Budhanilkantha,Kathmandu,10,10,5,East,360.0,7187.25,20.0, Blacktopped
+522, Baluwatar,Kathmandu,6,6,0,South East,711.0,2053.5,15.0, Blacktopped
+523, Budhanilkantha,Kathmandu,5,5,1,North,580.0,10609.75,13.0, Gravelled
+524, Bhangal,Kathmandu,6,6,2,East,118.0,1369.0,14.0, Gravelled
+525, Shantinagar,Kathmandu,5,3,1,West,7500.0,171125.0,15.0, Blacktopped
+526, Budhanilkantha,Kathmandu,5,6,4,East,493.0,6845.0,18.0, Blacktopped
+527, Satdobato,Lalitpur,5,4,9,South,1700.0,8323520.0,8.0, Blacktopped
+528, Imadol,Lalitpur,4,5,1,South West,4500.0,136900.0,20.0, Gravelled
+529, Bhaisepati,Lalitpur,5,4,1,South East,6400.0,147509.75,13.0, Blacktopped
+530, Ramkot,Kathmandu,4,2,0,North East,536.0,1711.25,20.0,
+531, Ramkot,Kathmandu,4,2,1,North East,872.0,1369.0,0.0,
+532, Ramkot,Kathmandu,4,2,1,North East,497.0,1369.0,20.0,
+533, Budhanilkantha,Kathmandu,0,0,0,East,309.0,3422.5,13.0, Blacktopped
+534, Gairidhara,Kathmandu,18,5,0,North East,509.0,10952.0,13.0, Blacktopped
+535, Basbari,Kathmandu,0,0,0,North,604.0,1026.75,20.0, Blacktopped
+536, Budhanilkantha,Kathmandu,0,0,0,East,867.0,18823.75,13.0,
+537, Chabahil,Kathmandu,0,0,0,East,1800.0,1369.0,20.0, Blacktopped
+538, Nagarkot,Bhaktapur,0,0,0,North West,466.0,60236.0,400.0, Blacktopped
+539, Bhairab Road,Makwanpur,0,0,0,South,860.0,13668.75,20.0, Blacktopped
+540, Chapali,Kathmandu,7,6,3,East,839.0,29091.25,13.0, Gravelled
+541, Paknajol,Kathmandu,18,4,0,West,429.0,136900.0,18.0, Blacktopped
+542, Tokha,Kathmandu,0,0,0,North East,509.0,5476.0,0.0,
+543, Pepsicola,Kathmandu,0,0,0,East,507.0,171125.0,13.0, Blacktopped
+544, Dhapakhel,Lalitpur,2,1,1,East,758.0,1369.0,36.08924, Blacktopped
+545, Imadol,Lalitpur,4,3,2,West,869.0,106097.5,0.0, Blacktopped
+546, Gwarko,Lalitpur,3,2,1,South,8000.0,103017.25,13.0, Blacktopped
+547, Balkumari,Lalitpur,3,2,0,East,2400.0,1369.0,20.0, Blacktopped
+548, Naxal,Kathmandu,0,0,0,South East,287.0,3422.5,20.0, Blacktopped
+549, Naxal,Kathmandu,0,0,0,East,196.0,3422.5,16.0, Blacktopped
+550, Budhanilkantha,Kathmandu,3,4,1,North,172.0,1369.0,15.0, Blacktopped
+551, hadigaon,Kathmandu,0,0,0,North East,149.0,6845.0,0.0,
+552, Ratopul,Kathmandu,0,0,0,South,134.0,2738.0,15.0, Blacktopped
+553, Soltimode,Kathmandu,0,0,0,North East,285.0,140322.5,15.0,
+554, Sinamangal,Kathmandu,4,3,2,South East,144.0,2738.0,15.0, Blacktopped
+555, Boudha,Kathmandu,0,0,0,South East,243.0,17797.0,15.0, Blacktopped
+556, Boudha,Kathmandu,0,0,2,South West,178.0,1026.75,0.0,
+557, Gyaneshwor,Kathmandu,0,0,0,North East,177.0,21904.0,20.0, Blacktopped
+558, Maharajgunj,Kathmandu,0,0,0,South East,152.0,1538756.0,16.0, Blacktopped
+559, Thamel,Kathmandu,12,0,2,North West,109.0,1026.75,15.0, Blacktopped
+560, Maharajgunj,Kathmandu,12,0,3,North East,122.0,2053.5,16.0, Blacktopped
+561, Lazimpat,Kathmandu,8,3,2,North East,125.0,1369.0,16.0,
+562, Budhanilkantha,Kathmandu,0,0,0,North East,434.0,1369.0,15.0, Gravelled
+563, Basbari,Kathmandu,4,4,1,South,157.0,2053.5,16.0,
+564, Basundhara,Kathmandu,7,8,4,East,672.0,4791.5,14.0, Blacktopped
+565, Ramkot,Kathmandu,0,0,0,South East,171.0,342250.0,13.0, Gravelled
+566, Dahachowk,Kathmandu,0,0,0,South,438.0,136900.0,13.0, Gravelled
+567, Gongabu,Kathmandu,13,0,0,East,160.0,1369.0,13.0,
+568, Khusibu,Kathmandu,17,17,0,North East,348.0,2053.5,20.0, Blacktopped
+569, Budhanilkantha,Kathmandu,0,0,0,East,460.0,1369.0,22.0, Blacktopped
+570, Lazimpat,Kathmandu,4,4,2,North East,516.0,2395.75,13.0,
+571, Kapan,Kathmandu,8,3,2,North,706.0,11978.75,10.0, Soil Stabilized
+572, Gothatar,Kathmandu,3,3,1,East,10600.0,102675.0,14.0, Gravelled
+573, Budhanilkantha,Kathmandu,0,0,0,East,421.0,2395.75,13.0,
+574, Kapan,Kathmandu,4,5,1,West,1200.0,1026.75,16.0, Gravelled
+575, Nirmal Pokhari,Pokhara,0,0,0,North,483.0,65712.0,13.0, Soil Stabilized
+576, Mandikatar,Kathmandu,8,6,1,South East,862.0,1369.0,20.0, Blacktopped
+577, Budhanilkantha,Kathmandu,5,5,2,East,641.0,1369.0,15.0, Paved
+578, Nirmal Pokhari,Pokhara,0,0,0,South,504.0,164280.0,20.0, Blacktopped
+579, Hattigauda,Kathmandu,5,5,1,North West,837.0,18823.75,14.0, Gravelled
+580, Budhanilkantha,Kathmandu,7,6,2,South West,472.0,1711.25,20.0, Blacktopped
+581, Basundhara,Kathmandu,6,6,2,South,498.0,18139.25,14.0, Blacktopped
+582, Buddhanagar,Kathmandu,5,3,1,South,4600.0,102675.0,10.0, Concrete
+583, Tokha,Kathmandu,6,6,1,East,550.0,1026.75,13.0, Paved
+584, Golfutar,Kathmandu,6,6,5,East,589.0,6502.75,13.0, Blacktopped
+585, Hattigauda,Kathmandu,5,5,1,North,179.0,2053.5,13.0, Blacktopped
+586, Hattigauda,Kathmandu,0,0,0,East,378.0,6502.75,15.0, Blacktopped
+587, Tokha,Kathmandu,6,6,1,South East,87.0,1369.0,14.0, Blacktopped
+588, Hattigauda,Kathmandu,5,5,1,North,143.0,1369.0,15.0, Gravelled
+589, Basundhara,Kathmandu,5,5,3,East,551.0,3764.75,16.0, Blacktopped
+590, Naya Bazar,Kathmandu,5,5,2,East,310.0,1711.25,20.0, Blacktopped
+591, Budhanilkantha,Kathmandu,5,5,2,West,490.0,29091.25,13.0, Gravelled
+592, Thulo Bharyang,Kathmandu,5,5,3,East,151.0,2395.75,15.0, Blacktopped
+593, Dhumbarahi,Kathmandu,0,0,0,East,146.0,10952.0,20.0, Blacktopped
+594, Tokha,Kathmandu,6,6,1,East,316.0,1369.0,13.0, Blacktopped
+595, Budhanilkantha,Kathmandu,5,5,1,South,410.0,1711.25,16.0, Blacktopped
+596, Maharajgunj,Kathmandu,0,0,0,South,487.0,1711.25,15.0, Blacktopped
+597, Golfutar,Kathmandu,0,0,0,East,359.0,2738.0,16.0, Blacktopped
+598, Basundhara,Kathmandu,5,5,1,East,581.0,14032.25,16.0, Blacktopped
+599, Baluwatar,Kathmandu,0,0,0,East,371.0,5476.0,12.0, Blacktopped
+600, Jorpati,Kathmandu,0,0,0,East,179.0,193713.5,20.0, Soil Stabilized
+601, Kalanki,Kathmandu,0,0,0,South East,509.0,107124.25,12.0, Gravelled
+602, Sanepa,Lalitpur,3,2,1,South,1700.0,1369.0,20.0, Blacktopped
+603, Machhegaun,Kirtipur,0,0,0,South,391.0,27380000.0,20.0, Blacktopped
+604, Ratmata,Mahottari,0,0,0,East,706.0,1369.0,19.68504, Soil Stabilized
+605, Bhadrapur,Jhapa,0,0,0,North West,376.0,72900.0,20.0, Gravelled
+606, Nijghadh,Bara,0,0,0,East,369.0,1093500.0,0.0, Soil Stabilized
+607, Imadol,Lalitpur,2,1,0,South East,657.0,1369.0,14.0, Gravelled
+608, Bhimsengola,Kathmandu,6,5,3,East,3800.0,136900.0,15.0, Blacktopped
+609, Old Baneshwor,Kathmandu,6,5,3,East,859.0,136900.0,13.0, Blacktopped
+610, Dhapakhel,Lalitpur,0,0,0,South East,2000.0,11294.25,20.0, Soil Stabilized
+611, Syuchatar,Kathmandu,4,2,1,South,11800.0,147167.5,18.0, Concrete
+612, Thulo Bharyang,Kathmandu,9,6,31,North,5100.0,485995.0,20.0, Blacktopped
+613,Tinkune,Kathmandu,4,3,4,East,393.0,196793.75,11.0, Blacktopped
+614, Dhobighat,Lalitpur,4,2,3,South,11300.0,684500.0,16.0, Blacktopped
+615, Kathmandu,Kathmandu,2,1,1,North,868.0,1026.75,13.0, Gravelled
+616, Hattiban,Lalitpur,5,3,1,East,572.0,3422.5,55.77428, Blacktopped
+617, Chabahil,Kathmandu,0,0,0,East,649.0,205350.0,15.0, Blacktopped
+618, Imadol,Lalitpur,0,4,1,South East,705.0,106782.0,13.0, Gravelled
+619, Sitapaila,Kathmandu,6,5,1,East,8000.0,136900.0,14.0, Concrete
+620, Imadol,Lalitpur,5,3,1,South,1200.0,106097.5,20.0, Blacktopped
+621, Imadol,Lalitpur,6,3,1,South,903.0,109520.0,20.0, Blacktopped
+622, Budhanilkantha,Kathmandu,4,4,2,East,2400.0,239575.0,20.0, Gravelled
+623, Mandikatar,Kathmandu,5,4,2,East,756.0,479150.0,16.0, Blacktopped
+624, Inside Ring Road,Kathmandu,0,4,0,East,357.0,376475.0,18.0, Blacktopped
+625, Shree Tol,Kathmandu,4,3,1,East,359.0,171125.0,15.0, Gravelled
+626, Near Highway,Kathmandu,4,3,1,South East,1600.0,171125.0,15.0, Blacktopped
+627, Budhanilkantha,Kathmandu,0,0,0,East,255.0,1369.0,16.0, Blacktopped
+628, Baluwatar,Kathmandu,0,0,0,East,261.0,5476000.0,15.0, Blacktopped
+629, Tokha,Kathmandu,4,3,1,East,221.0,1060975.0,12.0, Gravelled
+630, Tokha,Kathmandu,0,4,3,East,306.0,273800.0,16.0, Blacktopped
+631, Budhanilkantha,Kathmandu,0,0,0,South East,135.0,205350.0,20.0, Blacktopped
+632, budhanilkantha,Kathmandu,4,3,1,East,198.0,136900.0,14.0, Blacktopped
+633, Shree Tol,Kathmandu,4,3,1,East,151.0,16256875.0,15.0, Gravelled
+634, Chapali,Kathmandu,4,4,0,East,436.0,5476000.0,16.0, Blacktopped
+635, Hadigaun,Kathmandu,4,3,2,East,125.0,171125.0,15.0, Blacktopped
+636, Hattigauda,Kathmandu,4,4,2,East,297.0,1882375.0,15.0, Blacktopped
+637, Tokha,Kathmandu,4,3,1,East,110.0,136900.0,13.0, Blacktopped
+638, Budhanilkantha,Kathmandu,0,4,3,East,290.0,280645.0,16.0, Blacktopped
+639, Colony Bhitra,Kathmandu,0,4,0,East,390.0,592092.5,15.0, Blacktopped
+640, Baluwakhani,Kathmandu,4,3,2,South East,275.0,1540125.0,14.0, Blacktopped
+641, Budhanilkantha,Kathmandu,4,4,3,East,151.0,239575.0,16.0, Blacktopped
+642, 800 M From Main Highway,Kathmandu,0,4,0,East,132.0,718725.0,16.0, Blacktopped
+643, Dhapasi,Kathmandu,4,4,2,East,305.0,171125.0,15.0, Blacktopped
+644, Chapali,Kathmandu,4,4,4,South East,118.0,410700.0,16.0, Blacktopped
+645, 150 Mtr From Ring Road.,Kathmandu,4,4,0,East,737.0,1779700.0,20.0, Blacktopped
+646, Golfutar.,Kathmandu,4,4,3,South East,232.0,308025.0,20.0, Blacktopped
+647, Maharajgunj,Kathmandu,4,4,4,South East,247.0,308025.0,20.0, Blacktopped
+648, Maharajgunj,Kathmandu,4,3,3,South East,253.0,273800.0,14.0, Blacktopped
+649, Only 150 Meters From Ring Road,Kathmandu,6,3,2,East,210.0,171125.0,15.0, Blacktopped
+650, 100 Mtrs From Main Road,Kathmandu,5,4,2,North East,197.0,205350.0,15.0, Blacktopped
+651, Kapan,Kathmandu,4,3,2,North East,177.0,136900.0,14.0, Blacktopped
+652, Hepali Height,Kathmandu,5,4,3,South East,1000.0,308025.0,16.0, Blacktopped
+653, Kapan,Kathmandu,5,5,1,East,298.0,10952.0,13.0, Blacktopped
+654, Bishal Nagar,Kathmandu,13,5,1,North,1600.0,342250.0,16.0, Paved
+655, Kapan,Kathmandu,6,5,1,East,494.0,1369.0,14.0, Blacktopped
+656, Swayambhu,Kathmandu,5,5,2,East,495.0,2395.75,14.0, Paved
+657, Sitapaila,Kathmandu,0,0,0,East,526.0,17454.75,12.0, Soil Stabilized
+658, Mandikatar,Kathmandu,4,4,1,West,605.0,2738.0,14.0, Blacktopped
+659, Hattigauda,Kathmandu,5,5,2,North West,300.0,18823.75,13.0, Gravelled
+660, Basundhara,Kathmandu,5,6,2,East,147.0,2395.75,14.0, Blacktopped
+661, Balkumari,Lalitpur,3,2,1,East,9300.0,1369.0,0.0,
+662, Mandikatar,Kathmandu,8,7,1,South East,190.0,1369.0,20.0, Blacktopped
+663, Budhanilkantha,Kathmandu,5,5,2,South,180.0,1711.25,14.0, Gravelled
+664, Tokha,Kathmandu,0,0,0,North East,216.0,1369.0,15.0,
+665, Budhanilkantha,Kathmandu,5,5,1,East,178.0,2053.5,13.0, Blacktopped
+666, Golfutar,Kathmandu,4,5,3,East,215.0,3080.25,15.0, Soil Stabilized
+667, Gongabu,Kathmandu,0,0,0,East,140.0,1369.0,12.0, Blacktopped
+668, Ward #7,Kathmandu,0,0,0,North,448.0,61331200.0,210.0, Blacktopped
+669, Imadol,Lalitpur,5,3,1,West,6900.0,75295.0,13.0, Gravelled
+670, Imadol,Lalitpur,6,3,2,North,4600.0,109520.0,13.0, Gravelled
+671, Samakhusi,Kathmandu,6,5,1,North West,510.0,11978.75,13.0, Gravelled
+672, Imadol,Lalitpur,5,2,1,West,597.0,109520.0,13.0, Gravelled
+673, Hattigauda,Kathmandu,6,5,1,North East,200.0,1369.0,22.0, Gravelled
+674, Bhangal,Kathmandu,6,6,1,East,332.0,1369.0,18.0, Blacktopped
+675, Grande Villa,Kathmandu,6,6,2,South,501.0,22246.25,15.0, Soil Stabilized
+676, Budhanilkantha,Kathmandu,5,5,1,South West,603.0,15401.25,14.0, Paved
+677, Tokha,Kathmandu,6,5,1,South,396.0,1369.0,13.0, Gravelled
+678, Grande Villa,Kathmandu,6,5,1,South,404.0,11978.75,13.0, Gravelled
+679, Maharajgunj,Kathmandu,5,5,2,South,526.0,2738.0,15.0, Blacktopped
+680, Maharajgunj,Kathmandu,5,5,3,South East,629.0,3080.25,20.0, Blacktopped
+681, Hattigauda,Kathmandu,0,0,0,East,99.0,3764.75,13.0, Blacktopped
+682, Budhanilkantha,Kathmandu,0,0,0,East,412.0,2053.5,15.0, Soil Stabilized
+683, Samakhusi,Kathmandu,6,6,1,East,119.0,128343.75,13.0, Blacktopped
+684, Golfutar,Kathmandu,6,6,4,East,474.0,7529.5,16.0, Gravelled
+685, Budhanilkantha,Kathmandu,0,0,0,East,93.0,2738.0,13.0, Blacktopped
+686, Samakhusi,Kathmandu,6,5,1,East,585.0,162568.75,13.0, Blacktopped
+687, Imadol,Lalitpur,5,3,2,East,6200.0,109520.0,20.0, Gravelled
+688, Buddha colony,Lalitpur,5,3,2,East,2300.0,109520.0,13.0, Gravelled
+689, Lubhu,Lalitpur,5,3,2,South,740.0,109520.0,20.0, Blacktopped
+690, Imadol,Lalitpur,6,4,1,South,5700.0,103359.5,16.0, Gravelled
+691, Durbar Marg,Kathmandu,0,1,1,East,791.0,1369.0,82.021, Blacktopped
+692, Mhepi,Kathmandu,0,0,0,North East,525.0,4107.0,15.0, Blacktopped
+693, Imadol,Lalitpur,5,3,1,South East,1200.0,103359.5,13.0, Gravelled
+694, Dhading,Dhading,4,3,0,East,677.0,137584.5,7.0, Gravelled
+695, Manamaiju,Kathmandu,0,0,0,East,713.0,106097.5,20.0, Blacktopped
+696, Budhanilkantha,Kathmandu,2,1,1,East,667.0,1711.25,0.0,
+697, Naikap,Kathmandu,11,3,1,South,982.0,205350.0,11.0, Gravelled
+698, Imadol,Lalitpur,4,3,1,North,1400.0,11978.75,0.0,
+699, Swayambhu,Kathmandu,0,0,2,North West,629.0,10609.75,12.0,
+700, Putalisadak,Kathmandu,0,0,0,West,812.0,109862.25,30.0, Blacktopped
+701, Kalanki,Kathmandu,0,0,0,East,520.0,520220.0,16.0, Soil Stabilized
+702, Lubhu,Lalitpur,0,0,0,East,833.0,174889.75,16.0, Blacktopped
+703, Jadibuti.,Kathmandu,5,2,1,East,13100.0,78717.5,13.0, Paved
+704, Mulpani,Kathmandu,0,0,0,East,392.0,143745.0,13.0, Soil Stabilized
+705, Imadol,Lalitpur,0,0,0,West,156.0,113284.75,13.0, Gravelled
+706, Nagarjun,Kathmandu,5,4,1,North,1200.0,10609.75,15.0,
+707, Newroad,Kathmandu,0,0,0,South,700.0,5476000.0,16.0, Blacktopped
+708, Imadol,Lalitpur,4,3,1,South,1800.0,103359.5,0.0,
+709, Pepsicola,Kathmandu,5,4,1,South,576.0,2053.5,14.0,
+710, Kathmandu,Kathmandu,5,0,1,East,902.0,1369.0,13.0,
+711, Kathmandu,Kathmandu,6,0,1,East,1300.0,15401.25,13.0,
+712, Tokha,Kathmandu,4,3,1,East,566.0,4983502.25,12.0,
+713, Imadol,Lalitpur,4,3,1,South,1800.0,106782.0,13.0, Gravelled
+714, Dam Side,Pokhara,0,0,0,North,989.0,684.5,0.0,
+715, planning,Lalitpur,0,0,0,West,4000.0,106439.75,20.0, Gravelled
+716, Koreran college,Lalitpur,8,3,1,South,2800.0,102675.0,13.0, Gravelled
+717, Imadol,Lalitpur,0,0,0,South,778.0,112942.5,10.0, Blacktopped
+718, Tokha,Kathmandu,4,3,1,East,998.0,1026.75,12.0, Paved
+719, Sanepa,Lalitpur,3,3,1,South,814.0,1369.0,26.0, Blacktopped
+720, Imadol,Lalitpur,10,3,1,South,2000.0,112942.5,13.0, Blacktopped
+721, Imadol,Lalitpur,0,0,0,North East,446.0,209457.0,72.17848, Blacktopped
+722, Tarakeshwar,Kathmandu,2,1,1,North East,651.0,136900.0,13.0, Blacktopped
+723, Bharatpur,Chitwan,0,0,0,East,264.0,1106152.0,26.24672, Paved
+724, Machhegaun,Kirtipur,0,0,0,South West,720.0,171125.0,13.0, Gravelled
+725, Imadol,Lalitpur,4,4,2,South,1200.0,11978.75,13.0,
+726, Baniyatar,Kathmandu,6,5,1,East,323.0,1369.0,20.0, Gravelled
+727, Mandikatar,Kathmandu,6,5,20,East,571.0,18823.75,15.0, Blacktopped
+728, Hattigauda,Kathmandu,6,6,3,East,490.0,29091.25,13.0, Gravelled
+729, Golfutar,Kathmandu,4,5,3,West,448.0,2395.75,30.0, Soil Stabilized
+730, Hattigauda,Kathmandu,5,5,2,North West,449.0,18823.75,13.0, Gravelled
+731, Lainchaur,Kathmandu,0,0,0,North,627.0,103017.25,16.0, Blacktopped
+732, Damak,Jhapa,0,0,0,East,622.0,65610.0,60.0, Blacktopped
+733,Ekdhara,Kathmandu,3,3,0,South West,509.0,94118.75,13.0, Paved
+734, Balkot,Bhaktapur,4,2,1,East,971.0,1026.75,13.0, Gravelled
+735, Budhanilkantha,Kathmandu,5,5,3,East,544.0,25668.75,20.0, Paved
+736, Ason,Kathmandu,5,3,0,West,552.0,1369.0,26.0, Blacktopped
+737, Thaiba,Lalitpur,3,2,1,South,1600.0,1026.75,20.0, Blacktopped
+738, Lalitpur,Lalitpur,5,3,1,West,871.0,10609.75,13.0, Blacktopped
+739, Harisiddhi,Lalitpur,18,16,1,East,8100.0,212195.0,12.0, Gravelled
+740, Manamaiju,Kathmandu,0,0,0,East,794.0,1026.75,12.0,
+741, Lagankhel,Lalitpur,0,15,20,West,258.0,479150.0,29.52756, Blacktopped
+742, Gongabu,Kathmandu,4,3,0,North,1400.0,109520.0,13.0, Blacktopped
+743, Koteshwor,Kathmandu,0,0,0,South,783.0,177970.0,12.0, Blacktopped
+744, Guleriya,Bardiya,4,1,0,North,730.0,3645.0,14.0, Soil Stabilized
+745, Nakhipot,Lalitpur,0,0,0,East,1000.0,109520.0,7.0, Blacktopped
+746, Dhapasi,Kathmandu,5,6,1,East,485.0,11978.75,13.0, Blacktopped
+747, Lele,Lalitpur,0,0,0,East,899.0,9240.75,24.0, Gravelled
+748, Chapali,Kathmandu,5,5,4,East,475.0,4107.0,15.0, Blacktopped
+749, Bhangal,Kathmandu,6,5,1,North East,456.0,11978.75,20.0, Gravelled
+750, Mandikatar,Kathmandu,6,0,5,West,464.0,1026.75,13.0, Gravelled
+751, Pasikot,Kathmandu,4,4,4,East,415.0,7187.25,14.0, Blacktopped
+752, Bhangal,Kathmandu,6,5,1,South West,361.0,10609.75,12.0, Paved
+753, Dhapasi,Kathmandu,5,5,0,South West,356.0,5818.25,15.0, Blacktopped
+754, Baluwatar,Kathmandu,5,5,0,North East,339.0,2053.5,13.0, Blacktopped
+755, Budhanilkantha,Kathmandu,6,5,6,North West,286.0,4107.0,15.0, Blacktopped
+756, Dhapasi,Kathmandu,5,5,4,South East,428.0,4791.5,20.0, Blacktopped
+757, Ekatabasti,Kathmandu,7,5,1,South West,181.0,1369.0,13.0, Blacktopped
+758, Ekatabasti,Kathmandu,7,7,1,South East,128.0,1369.0,13.0, Blacktopped
+759, Dhapasi,Kathmandu,4,4,1,North East,375.0,1711.25,20.0, Blacktopped
+760, Hattiban,Lalitpur,5,4,1,East,14200.0,147167.5,16.0, Gravelled
+761, Swayambhu,Kathmandu,0,0,0,East,1100.0,112942.5,12.0,
+762, Gurujudhara,Kathmandu,0,0,0,East,476.0,136900.0,20.0, Concrete
+763, Balkhu,Kathmandu,3,2,3,East,580.0,154012.5,20.0,
+764, Swayambhu,Kathmandu,5,3,1,North East,992.0,10609.75,13.0, Soil Stabilized
+765, Kageshwari-Manohara,Kathmandu,5,3,1,West,396.0,1369.0,26.0, Blacktopped
+766, Dhapasi,Kathmandu,5,5,3,South,144.0,2738.0,20.0, Blacktopped
+767, Budhanilkantha,Kathmandu,6,6,20,East,1300.0,1677025.0,20.0, Blacktopped
+768, Budhanilkantha,Kathmandu,4,5,3,South East,303.0,2395.75,15.0, Blacktopped
+769, Hattigauda,Kathmandu,0,0,0,South West,284.0,15401.25,13.0, Gravelled
+770, Thali,Kathmandu,0,0,0,East,373.0,2053.5,20.0, Gravelled
+771, 85.1985274,Kathmandu,0,0,0,South East,219.0,19850.5,18.0, Blacktopped
+772, planing,Kathmandu,8,3,1,North East,684.0,136900.0,16.0, Blacktopped
+773, Godawari,Lalitpur,4,3,1,East,1000.0,1369.0,16.4042, Paved
+774, Sanobharyang,Kathmandu,0,0,1,North,1900.0,171125.0,13.0, Blacktopped
+775, Thamel,Kathmandu,11,8,5,East,716.0,2738.0,12.0,
+776, Lalitpur,Lalitpur,0,0,1,North East,784.0,11636.5,0.0,
+777, Paknajol,Kathmandu,2,1,5,East,453.0,2738.0,12.0, Paved
+778, Lalitpur,Lalitpur,2,1,1,East,1100.0,7871.75,13.0,
+779, Imadol,Lalitpur,4,5,1,East,5500.0,103017.25,20.0, Blacktopped
+780, Ekatabasti,Kathmandu,5,5,2,East,107.0,18823.75,13.0, Blacktopped
+781, Sitapaila,Kathmandu,4,4,1,South,318.0,1369.0,15.0, Gravelled
+782, Bharatpur,Chitwan,0,0,0,East,497.0,1640.25,10.0, Blacktopped
+783, Bishal Nagar,Kathmandu,2,2,1,South East,1300.0,1369.0,10.0, Blacktopped
+784, Jhamsikhel,Lalitpur,3,4,2,East,779.0,177970.0,26.24672, Blacktopped
+785, Sitapaila,Kathmandu,4,4,1,North,646.0,10609.75,13.0, Gravelled
+786, Budhanilkantha,Kathmandu,5,5,4,East,332.0,4449.25,15.0, Blacktopped
+787, Tokha,Kathmandu,6,5,1,East,589.0,1369.0,13.0, Blacktopped
+788, Mandikatar,Kathmandu,6,4,1,South East,2700.0,10609.75,13.0, Blacktopped
+789, Samakhusi,Kathmandu,7,8,2,East,157.0,1369.0,14.0, Paved
+790, Bhangal,Kathmandu,5,5,1,South,217.0,11978.75,13.0, Gravelled
+791, Janasahayog Marga,Kathmandu,6,3,2,North East,1100.0,1369.0,0.0,
+792, Basundhara,Kathmandu,4,4,4,West,316.0,5476.0,14.0, Blacktopped
+793, Paknajol,Kathmandu,0,0,0,East,594.0,21219.5,32.8084, Gravelled
+794, Budhanilkantha,Kathmandu,5,5,4,South,183.0,5133.75,14.0, Blacktopped
+795, Dhumbarahi,Kathmandu,7,7,3,East,165.0,2738.0,13.0, Blacktopped
+796, Chabahil,Kathmandu,0,2,2,North,1100.0,3422.5,18.0, Paved
+797, Jhamsikhel,Lalitpur,3,4,2,East,633.0,177970.0,14.0, Paved
+798, Gokarneshwor,Kathmandu,4,3,2,East,651.0,144429.5,12.0, Paved
+799, Bafal,Kathmandu,0,0,0,North,5100.0,143745.0,13.0, Blacktopped
+800, Dharmasthali,Kathmandu,0,0,1,South East,1200.0,75295.0,12.0, Blacktopped
+801, Harisiddhi,Lalitpur,0,0,0,South,1000.0,181392.5,20.0,
+802, Gongabu,Kathmandu,0,0,2,East,934.0,1026.75,14.0, Gravelled
+803, Budhanilkantha,Kathmandu,4,4,2,East,651.0,479150.0,15.0, Blacktopped
+804, Budhanilkantha,Kathmandu,4,4,2,East,2800.0,1882375.0,15.0, Gravelled
+805, Golfutar,Kathmandu,4,4,2,East,775.0,239575.0,15.0, Gravelled
+806, Budhanilkantha,Kathmandu,4,4,1,East,679.0,1437450.0,14.0, Blacktopped
+807, Sukedhara,Kathmandu,4,4,1,East,324.0,1129425.0,18.0, Blacktopped
+808, Mandikatar,Kathmandu,4,4,1,East,1300.0,1060975.0,15.0, Blacktopped
+809, Sukedhara,Kathmandu,2,3,4,East,239.0,1540125.0,15.0, Blacktopped
+810, Golfutar,Kathmandu,4,3,1,East,466.0,136900.0,30.0, Blacktopped
+811, Budhanilkantha,Kathmandu,10,0,0,North,871.0,1711.25,15.0, Blacktopped
+812, Budhanilkantha,Kathmandu,4,4,2,East,255.0,205350.0,33.0, Blacktopped
+813, Kathmandu,Kathmandu,0,0,1,East,1600.0,1369.0,12.0, Gravelled
+814, Baniyatar,Kathmandu,0,0,1,South East,252.0,1369.0,14.0, Blacktopped
+815, Thankot,Kathmandu,0,0,0,East,596.0,109520.0,13.0, Blacktopped
+816, Balkhu,Kathmandu,0,0,0,South,575.0,17454.75,0.0,
+817, Banasthali,Kathmandu,7,6,1,South,609.0,171125.0,16.0, Blacktopped
+818, Kathmandu,Kathmandu,4,2,1,East,938.0,1369.0,13.0, Gravelled
+819, Ramkot,Kathmandu,0,0,0,North,802.0,2738.0,20.0, Gravelled
+820, Hetauda,Makwanpur,0,0,0,North,513.0,1458.0,15.0,
+821, Balaju,Kathmandu,0,0,0,South,508.0,1026.75,10.0, Paved
+822, Biratnagar,Morang,0,0,0,North,386.0,2187.0,15.0,
+823, Lokanthali,Bhaktapur,16,3,0,North,867.0,2053.5,13.0, Blacktopped
+824, Bijauri,Dang,0,0,0,South East,674.0,1369.0,0.0,
+825, Bharatpur,Chitwan,0,0,0,North,788.0,7290.0,19.68504, Blacktopped
+826, Suryabinayak,Bhaktapur,0,0,0,North,614.0,112942.5,10.0, Gravelled
+827, Imadol,Lalitpur,0,0,0,South West,8100.0,1711.25,40.0, Gravelled
+828, Bhatkyapati,Kirtipur,0,2,0,South,874.0,18823.75,12.0,
+829, Hetauda,Makwanpur,0,0,0,East,761.0,36450.0,25.0, Blacktopped
+830, Imadol,Lalitpur,2,1,0,West,1000.0,1026.75,5.0, Gravelled
+831, Ekatabasti,Kathmandu,7,0,2,East,2100.0,15401.25,13.0, Blacktopped
+832, Golfutar,Kathmandu,6,4,2,East,1600.0,1026.75,13.0, Gravelled
+833, Naya Bazar,Kathmandu,8,4,1,North,820.0,106097.5,0.0,
+834, Harisiddhi,Lalitpur,0,0,0,North East,177.0,1369.0,12.0, Gravelled
+835, Kusunti,Lalitpur,4,4,3,North West,34500.0,178654.5,13.0, Blacktopped
+836, Greenhill city,Kathmandu,4,4,1,East,861.0,1369.0,22.0, Blacktopped
+837, Sanepa,Lalitpur,3,3,2,South,6700.0,1369.0,20.0, Blacktopped
+838, Kapan,Kathmandu,0,0,0,East,1600.0,102675.0,13.0, Blacktopped
+839, Pepsicola,Kathmandu,4,3,1,South East,5500.0,8556.25,13.0, Gravelled
+840, Itahari,Sunsari,0,0,0,North,666.0,3280.5,20.0, Blacktopped
+841, Dhapakhel,Lalitpur,2,1,0,North,843.0,1369.0,15.0, Gravelled
+842, DDC Chowk,Biratnagar,3,1,1,North East,644.0,1640.25,13.0, Blacktopped
+843, Hattiban,Lalitpur,3,3,0,South,610.0,109520.0,13.0, Gravelled
+844, Butwal,Butwal,0,0,0,West,569.0,1369.0,15.0, Gravelled
+845, Bharatpur,Chitwan,2,1,2,East,731.0,1093.5,19.68504, Blacktopped
+846, Dhumbarahi,Kathmandu,0,0,0,West,193.0,215617.5,24.0, Gravelled
+847, Goldhunga,Kathmandu,0,0,0,West,267.0,1026.75,13.0, Soil Stabilized
+848, Durbar Marg,Kathmandu,0,0,0,North,547.0,75295.0,11.0, Paved
+849, Thankot,Kathmandu,0,0,0,East,581.0,273800.0,13.0, Soil Stabilized
+850, Aakase dhara,Kathmandu,6,5,5,East,736.0,1369.0,12.0, Blacktopped
+851, Balkot,Bhaktapur,0,0,0,East,521.0,4107.0,12.0, Soil Stabilized
+852, Thankot,Kathmandu,0,0,0,South,681.0,246420.0,13.0, Blacktopped
+853, Battisputali,Kathmandu,0,3,1,East,784.0,106439.75,9.0, Paved
+854, Kirtipur,Kathmandu,0,0,0,North,715.0,1369.0,10.0, Soil Stabilized
+855, Kathmandu,Kathmandu,0,0,0,South West,638.0,1369.0,30.0, Blacktopped
+856, Sano Gaun,Lalitpur,0,0,0,West,823.0,1026.75,13.0, Gravelled
+857, Kirtipur,Kathmandu,0,0,0,West,309.0,1711.25,12.0, Soil Stabilized
+858, Pokhara,Pokhara,0,0,0,East,378.0,1369.0,15.0, Soil Stabilized
+859, Budhanilkantha,Kathmandu,0,0,0,South,2200.0,2738.0,15.0, Soil Stabilized
+860, Budhanilkantha,Kathmandu,0,0,0,South,3300.0,3080.25,15.0, Blacktopped
+861, Satdobato,Lalitpur,3,3,4,East,896.0,342250.0,20.0, Blacktopped
+862, Shantinagar,Kathmandu,4,3,4,East,989.0,314870.0,20.0, Blacktopped
+863, Chhauni,Kathmandu,0,0,0,North,435.0,3080.25,9.0, Paved
+864, Sanepa,Lalitpur,3,5,1,East,1700.0,136900.0,20.0, Blacktopped
+865, Lalitpur,Lalitpur,16,4,1,East,645.0,1369.0,10.0, Concrete
+866, Imadol,Lalitpur,3,9,0,North East,1500.0,78717.5,10.0, Soil Stabilized
+867, Imadol,Lalitpur,2,1,0,North East,4400.0,103017.25,12.0, Soil Stabilized
+868, Bhaisepati,Lalitpur,0,0,0,North East,10000.0,212195.0,16.0, Blacktopped
+869, Mandikatar,Kathmandu,6,3,2,East,3900.0,1711.25,13.0, Gravelled
+870, Dhapakhel,Lalitpur,3,3,2,East,1200.0,212195.0,20.0, Blacktopped
+871, Golfutar,Kathmandu,0,0,0,West,433.0,27380000.0,20.0, Blacktopped
+872, Bakhundol,Lalitpur,5,0,2,East,552.0,17112.5,14.0, Blacktopped
+873, Ghattekulo,Kathmandu,8,9,4,South,1500.0,451770.0,13.0, Blacktopped
+874, Old Baneshwor,Kathmandu,6,3,4,South,1700.0,290912.5,20.0, Blacktopped
+875, Raniban,Kathmandu,0,0,0,North East,566.0,147852.0,20.0, Blacktopped
+876, Budhanilkantha,Kathmandu,5,5,3,South East,951.0,5133.75,13.0, Soil Stabilized
+877, Golfutar,Kathmandu,6,6,3,East,1400.0,3422.5,20.0, Soil Stabilized
+878, Budhanilkantha,Kathmandu,6,5,3,South East,933.0,27722.25,15.0, Blacktopped
+879, Hattigauda,Kathmandu,5,5,3,East,351.0,5818.25,13.0, Soil Stabilized
+880, Balaju,Kathmandu,0,0,0,East,811.0,273800.0,13.0, Blacktopped
+881, Kalanki,Kathmandu,0,0,0,West,795.0,239575.0,16.0, Paved
+882, Chandragiri,Kathmandu,0,0,0,West,442.0,136900.0,13.0, Gravelled
+883, Thankot,Kathmandu,0,0,0,East,550.0,136900.0,13.0, Blacktopped
+884, Radha Krisna Mandir,Kathmandu,8,0,0,South,2600.0,103359.5,10.0, Blacktopped
+885, Jorpati,Kathmandu,6,3,3,East,4700.0,212195.0,10.0, Paved
+886, Thankot,Kathmandu,0,0,0,West,420.0,212195.0,14.0, Concrete
+887, Kadaghari,Kathmandu,3,1,0,North,605.0,75295.0,4.0, Soil Stabilized
+888, Budhanilkantha,Kathmandu,5,4,2,East,925.0,273800.0,20.0, Blacktopped
+889, Dhapasi,Kathmandu,3,3,1,South,1200.0,136900.0,20.0, Blacktopped
+890, Imadol,Lalitpur,7,2,0,South,684.0,113627.0,13.0, Gravelled
+891, Thaiba,Lalitpur,5,4,2,West,477.0,205350.0,20.0, Blacktopped
+892, Swayambhu,Kathmandu,0,0,0,West,620.0,1369.0,15.0, Blacktopped
+893, Mid Baneshwor,Kathmandu,7,4,1,South East,1500.0,239575.0,10.0, Concrete
+894, Chakupat,Lalitpur,0,0,0,North,1100.0,177970.0,12.0, Gravelled
+895, Balaju,Kathmandu,7,5,1,North,1100.0,1026.75,13.0, Gravelled
+896, Syuchatar,Kathmandu,0,0,0,South East,935.0,103017.25,14.0, Blacktopped
+897, Chhauni,Kathmandu,5,4,2,South West,369.0,239575.0,13.0, Blacktopped
+898, Kausaltar,Bhaktapur,5,4,0,East,474.0,246420.0,15.0, Blacktopped
+899, Bhaktapur,Bhaktapur,0,0,0,East,282.0,147509.75,20.0, Gravelled
+900, Mulpani,Kathmandu,0,0,0,North,185.0,177970.0,26.24672,
+901, Damak,Jhapa,0,0,0,North,598.0,1822.5,13.0, Gravelled
+902, Gongabu,Kathmandu,0,0,0,North,188.0,1369.0,20.0, Blacktopped
+903, Basbari,Kathmandu,2,4,3,South,514.0,1711.25,13.0, Gravelled
+904, Mid Baneshwor,Kathmandu,0,0,0,North,314.0,119787.5,13.0, Blacktopped
+905, Thapagaun,Kathmandu,0,0,0,South,185.0,143745.0,12.0, Blacktopped
+906, Samakhusi,Kathmandu,0,0,0,South,326.0,15249291.0,20.0, Gravelled
+907,,Kathmandu,2,1,2,South,854.0,205350.0,13.0, Soil Stabilized
+908, Birgunj,Parsa,0,0,0,East,531.0,4738.5,26.0, Gravelled
+909, Bhangal,Kathmandu,5,5,1,East,814.0,11978.75,13.0, Gravelled
+910, Tokha,Kathmandu,0,0,0,East,185.0,2738.0,15.0, Blacktopped
+911, Golfutar,Kathmandu,0,0,0,West,246.0,1369.0,33.0,
+912, Budhanilkantha,Kathmandu,7,5,1,East,365.0,1711.25,20.0, Gravelled
+913, Budhanilkantha,Kathmandu,0,0,0,East,1400.0,273800.0,15.0, Blacktopped
+914, Gothatar,Kathmandu,8,0,0,North,511.0,103017.25,13.0, Gravelled
+915, Bhangal,Kathmandu,11,0,0,West,747.0,119787.5,13.0, Gravelled
+916, Changunarayan,Bhaktapur,0,0,0,South,673.0,1369.0,10.0, Blacktopped
+917, Budhanilkantha,Kathmandu,0,0,0,West,370.0,314870.0,18.0, Blacktopped
+918, Lagankhel,Lalitpur,0,0,0,North,250.0,1369.0,11.0, Blacktopped
+919, Lubhu,Lalitpur,0,0,0,West,513.0,140322.5,20.0, Soil Stabilized
+920, Dhumbarahi,Kathmandu,5,7,3,East,702.0,410700.0,14.0, Blacktopped
+921, Birtamod Road,Itahari,0,0,0,North,244.0,1822.5,20.0, Blacktopped
+922, Banasthali,Kathmandu,5,6,5,North,11400.0,181392.5,20.0, Blacktopped
+923, Dahachowk,Kathmandu,0,0,0,North East,803.0,54760000.0,19.68504, Gravelled
+924, Chabahil,Kathmandu,2,1,0,South,655.0,17454.75,12.0, Blacktopped
+925, Mahalaxmisthan,Lalitpur,0,0,0,East,324.0,1369.0,26.0, Blacktopped
+926, Sitapaila,Kathmandu,3,4,1,East,627.0,1026.75,14.0,
+927, DDC Chowk,Biratnagar,0,0,0,East,134.0,5476000.0,0.0,
+928, Tarkeshwor,Kathmandu,0,6,1,East,1800.0,2053.5,22.0, Blacktopped
+929, Jhamsikhel,Lalitpur,2,1,1,South,912.0,1369.0,0.0,
+930, Baluwatar,Kathmandu,0,0,0,South East,386.0,308025.0,16.0, Blacktopped
+931, Maharajgunj,Kathmandu,5,6,5,East,410.0,2224625.0,15.0, Blacktopped
+932, Naxal,Kathmandu,0,0,0,South East,402.0,239575.0,16.0, Blacktopped
+933, Nagarjun,Kathmandu,0,0,0,South,251.0,11061520.0,16.0, Blacktopped
+934, Sukedhara,Kathmandu,18,6,6,South,2800.0,2053.5,13.0, Blacktopped
+935, Baluwatar,Kathmandu,0,0,0,North,2900.0,1369.0,42.0, Blacktopped
+936, Anamnagar,Kathmandu,0,0,0,South,208.0,1369.0,65.6168, Soil Stabilized
+937, Naxal,Kathmandu,0,0,0,North East,351.0,342250.0,20.0, Blacktopped
+938, Kathmandu Nepal,Kathmandu,0,4,4,North,945.0,102675.0,12.0, Gravelled
+939, Mid Baneshwor,Kathmandu,0,0,0,South East,285.0,3764750.0,40.0, Blacktopped
+940, Baluwatar,Kathmandu,0,0,0,East,298.0,3935875.0,50.0, Blacktopped
+941, Dhapasi,Kathmandu,6,6,2,South West,501.0,273800.0,20.0, Blacktopped
+942, Budhanilkantha,Kathmandu,6,7,10,North,1500.0,3764750.0,20.0, Blacktopped
+943, Lazimpat,Kathmandu,0,0,0,East,331.0,308025.0,60.0, Blacktopped
+944, Dhumbarahi,Kathmandu,0,0,0,West,294.0,311447.5,45.0, Blacktopped
+945, Dhapasi,Kathmandu,0,0,0,East,280.0,212195.0,12.0, Blacktopped
+946, Mid Baneshwor,Kathmandu,4,5,2,South East,926.0,411384.5,20.0, Blacktopped
+947, Bishal Nagar,Kathmandu,2,2,1,West,719.0,1369.0,0.0,
+948, Gwarko,Lalitpur,3,3,1,East,410.0,75295.0,16.0, Gravelled
+949, Baneshwor,Kathmandu,0,0,0,South,986.0,1369.0,98.4252, Blacktopped
+950, Kapan,Kathmandu,6,5,1,East,359.0,1711.25,14.0, Gravelled
+951, Tikathali,Lalitpur,3,2,3,West,309.0,136900.0,13.0, Gravelled
+952, Budhanilkantha,Kathmandu,24,0,15,East,1100.0,16428.0,22.0, Blacktopped
+953, Budhanilkantha,Kathmandu,10,8,2,South,691.0,1369.0,30.0, Blacktopped
+954, Kavresthali,Kathmandu,0,0,0,West,627.0,1026.75,10.0, Soil Stabilized
+955, Thaiba,Lalitpur,4,4,2,East,608.0,137242.25,13.0, Gravelled
+956, Imadol,Lalitpur,0,4,0,South,664.0,2004.75,0.0,
+957, Birgunj,Parsa,0,0,0,North,852.0,8201.25,66.0, Blacktopped
+958, Tarakeshwar,Kathmandu,1,1,1,North West,490.0,76321.75,10.0, Gravelled
+959, Newroad,Kathmandu,23,10,0,West,430.0,75295.0,15.0, Blacktopped
+960, Boudha,Kathmandu,4,4,0,West,788.0,1369.0,15.0, Gravelled
+961, Thali,Kathmandu,0,0,0,North,239.0,109520.0,12.0, Gravelled
+962, Thali,Kathmandu,0,0,0,West,314.0,1369.0,4.0, Soil Stabilized
+963, Banepa,Kavre,0,0,0,North,230.0,35251.75,20.0, Gravelled
+964, Thali,Kathmandu,0,0,0,North,251.0,2053.5,12.0, Gravelled
+965, Minbhawan,Kathmandu,6,2,0,South,298.0,2902280.0,20.0, Blacktopped
+966, Dashindhoka Jorpati,Kathmandu,0,0,0,South,398.0,1369.0,15.0,
+967, Tikathali,Lalitpur,8,3,0,South,860.0,102675.0,13.0, Blacktopped
+968, Tarkeshwor,Kathmandu,0,0,0,East,157.0,102675.0,10.0, Gravelled
+969, Tarkeshwor,Kathmandu,4,0,0,South,343.0,8556.25,10.0,
+970, Godawari,Lalitpur,0,0,0,South,407.0,1711.25,20.0, Gravelled
+971, Harisiddhi,Lalitpur,8,0,0,North,449.0,1026.75,20.0, Gravelled
+972, Naikap,Kathmandu,0,0,0,East,848.0,239575.0,20.0, Blacktopped
+973, Pokhara,Pokhara,0,0,0,East,374.0,10268526.75,20.0, Blacktopped
+974, Koteshwor,Kathmandu,0,3,1,West,719.0,4449.25,0.0, Paved
+975, Birtamod Road,Itahari,0,0,0,East,175.0,2916.0,0.0,
+976, Suryabinayak,Bhaktapur,0,0,0,South West,182.0,13347.75,20.0, Soil Stabilized
+977, Tinkune,Kathmandu,0,0,0,East,198.0,1711.25,15.0, Blacktopped
+978, Samakhusi,Kathmandu,5,6,1,East,390.0,1369.0,15.0, Blacktopped
+979, Budhanilkantha,Kathmandu,6,6,10,North West,895.0,6845.0,20.0, Blacktopped
+980, Budhanilkantha,Kathmandu,5,7,0,South East,436.0,6160.5,20.0, Blacktopped
+981, Bhangal,Kathmandu,6,6,2,East,428.0,15401.25,20.0, Blacktopped
+982, Kadaghari,Kathmandu,0,0,0,North,432.0,1369.0,16.0, Blacktopped
+983, Swayambhu,Kathmandu,17,10,2,East,407.0,27722.25,15.0, Blacktopped
+984, Samakhusi,Kathmandu,11,0,2,North,252.0,1711.25,13.0, Blacktopped
+985, Bhaisepati,Lalitpur,0,0,0,East,668.0,171125.0,0.0,
+986, Jamal,Kathmandu,0,0,0,North,272.0,1369.0,40.0, Blacktopped
+987, Naxal,Kathmandu,3,4,2,East,6500.0,1369.0,20.0, Blacktopped
+988, Maharajgunj,Kathmandu,5,6,3,East,732.0,22246.25,15.0, Blacktopped
+989, Kupondole,Lalitpur,4,2,4,South East,339.0,2738.0,0.0, Paved
+990, 1.5 km from LRI,Kathmandu,0,0,0,South East,385.0,11978.75,13.0, Blacktopped
+991, Balkot,Bhaktapur,2,1,0,West,617.0,1369.0,15.0, Blacktopped
+992, Basbari,Kathmandu,4,4,4,North East,650.0,6160.5,13.0, Paved
+993, Near Sunrise Bank,Kathmandu,0,0,0,South East,280.0,171125.0,0.0,
+994, Tarakeshwar,Kathmandu,0,0,0,South West,710.0,136900.0,0.0,
+995, Ward No 6,Chitwan,0,0,0,North,197.0,47385.0,19.68504, Gravelled
+996, Bhaisepati,Lalitpur,0,0,0,South West,617.0,136900.0,20.0, Blacktopped
+997, Naya Bazar,Kathmandu,0,0,0,North East,369.0,5476000.0,32.0, Blacktopped
+998, Hattiban,Lalitpur,0,0,0,South West,289.0,171125.0,13.0, Paved
+999, Lekhnath,Pokhara,0,0,1,South East,3600.0,273800.0,32.0, Blacktopped
+1000, Kirtipur,Kathmandu,0,0,0,South East,472.0,136900.0,16.0, Gravelled
+1001, Dhapasi,Kathmandu,6,4,8,West,304.0,212195.0,32.0, Blacktopped
+1002, Dhungedhara,Kathmandu,7,4,3,East,1000.0,581825.0,26.0, Blacktopped
+1003, Duwakot,Bhaktapur,0,0,0,South,1100.0,102675.0,13.0, Gravelled
+1004, Naikap,Kathmandu,0,0,0,East,444.0,78717.5,10.0, Blacktopped
+1005, Bhangal,Kathmandu,0,0,0,South East,389.0,106097.5,13.0, Blacktopped
+1006, Hattigauda,Kathmandu,0,0,0,South,304.0,1026.75,16.0, Blacktopped
+1007, Lekhnath,Pokhara,0,0,0,South,266.0,1369.0,30.0, Gravelled
+1008, Newroad,Kathmandu,0,4,0,East,252.0,1369.0,0.0,
+1009, Hattigauda,Kathmandu,0,0,0,North,224.0,2395.75,15.0, Gravelled
+1010, Dharan,Dharan,0,0,0,East,813.0,1369.0,13.0, Blacktopped
+1011, Dakshinkali,Kathmandu,0,0,0,South,309.0,826876000.0,20.0, Gravelled
+1012, Narayanthan,Kathmandu,0,0,0,North West,358.0,2738.0,24.0, Blacktopped
+1013, Maharajgunj,Kathmandu,0,0,0,West,274.0,1369.0,0.0,
+1014, Banasthali,Kathmandu,1,1,2,North,1000.0,205350.0,16.0, Blacktopped
+1015, Lazimpat,Kathmandu,0,2,1,North,327.0,1026.75,0.0,
+1016, Sairam Chowk,Kathmandu,0,0,0,East,150.0,15401.25,16.0, Blacktopped
+1017, Patan,Lalitpur,2,2,1,North,414.0,79059.75,13.0,
+1018, Kapan,Kathmandu,0,0,0,North,323.0,109520.0,13.0, Gravelled
+1019, Bhaisepati,Lalitpur,0,0,0,South East,3700.0,177970.0,12.0, Gravelled
+1020, Anamnagar,Kathmandu,5,4,1,East,415.0,1711.25,12.0, Blacktopped
+1021, Pokhara,Pokhara,0,0,0,West,398.0,1369.0,12.0, Gravelled
+1022, Balkhu,Kathmandu,2,2,1,South West,550.0,2053.5,13.0, Blacktopped
+1023, Samakhusi,Kathmandu,9,4,3,South,8600.0,1026.75,13.0, Blacktopped
+1024, Samakhusi,Kathmandu,6,3,3,West,10000.0,1369.0,13.0, Blacktopped
+1025, Imadol,Lalitpur,6,3,1,South East,386.0,1369.0,13.0, Gravelled
+1026, Naikap,Kathmandu,8,0,0,West,4600.0,109520.0,12.0,
+1027, Kirtipur,Kathmandu,12,0,0,North,2100.0,188237.5,12.0, Gravelled
+1028, Swayambhu,Kathmandu,10,0,0,South,4300.0,1369.0,12.0, Blacktopped
+1029, Balambu,Kathmandu,7,0,0,South,1400.0,1026.75,12.0, Gravelled
+1030, Madhyapur Thimi,Bhaktapur,0,0,0,East,389.0,75979.5,26.24672, Soil Stabilized
+1031, Budhanilkantha,Kathmandu,0,0,0,South East,500.0,15633295.5,20.0, Gravelled
+1032, Budhanilkantha,Kathmandu,0,0,0,North,291.0,315554.5,15.0, Gravelled
+1033, Dhumbarahi,Kathmandu,0,0,0,East,555.0,78717.5,10.0, Blacktopped
+1034, Basundhara,Kathmandu,0,0,0,West,1300.0,177970.0,15.0, Blacktopped
+1035, Kalanki,Kathmandu,0,0,0,North,2300.0,1711.25,14.0, Gravelled
+1036, Gokarneshwor,Kathmandu,3,3,2,West,371.0,136900.0,17.0, Soil Stabilized
+1037, Jawalakhel,Lalitpur,0,0,0,North,1200.0,1369.0,35.0, Blacktopped
+1038, Banepa,Kavre,0,0,0,South East,239.0,273800.0,0.0,
+1039, Budhanilkantha,Kathmandu,13,0,0,West,304.0,188237.5,13.0, Blacktopped
+1040, Tathali,Kathmandu,0,0,0,North,402.0,1026.75,13.0, Soil Stabilized
+1041, Lubhu,Lalitpur,0,0,0,North,424.0,1711.25,17.0, Gravelled
+1042, Nakkhu,Lalitpur,4,4,1,South West,238.0,1369.0,16.0, Gravelled
+1043, Budhanilkantha,Kathmandu,5,4,4,East,1500.0,10952.0,20.0,
+1044, Gaushala,Kathmandu,0,0,0,South,681.0,274142.25,13.0, Blacktopped
+1045, Nagarjun,Kathmandu,0,2,0,South,161.0,1369.0,36.08924, Gravelled
+1046, Damak,Jhapa,0,0,0,East,371.0,10935.0,1.0,
+1047, Budhanilkantha,Kathmandu,5,4,2,East,2200.0,277222.5,13.0, Blacktopped
+1048, Mulpani,Kathmandu,0,0,0,South East,626.0,20808800.0,20.0, Soil Stabilized
+1049, Dhobighat,Lalitpur,0,0,0,West,272.0,1369.0,15.0, Blacktopped
+1050, Basundhara,Kathmandu,11,0,0,West,251.0,2395.75,15.0, Blacktopped
+1051, rupakot,Kaski,0,0,0,East,451.0,164280.0,20.0, Soil Stabilized
+1052, Dhapasi,Kathmandu,2,1,1,East,408.0,1369.0,32.0, Blacktopped
+1053, Surkhet Bazar,Surkhet,0,0,0,North,420.0,1369.0,20.0, Blacktopped
+1054, Kageshwari-Manohara,Kathmandu,0,0,0,North,218.0,1711.25,10.0, Soil Stabilized
+1055, Duwakot,Bhaktapur,0,0,0,North,241.0,10267.5,20.0, Blacktopped
+1056, Saraswatikhel,Bhaktapur,0,0,0,West,309.0,3422.5,13.0, Gravelled
+1057, Kapan,Kathmandu,0,0,0,North East,195.0,1369.0,16.0, Blacktopped
+1058, Chhauni,Kathmandu,0,0,0,East,298.0,112942.5,10.0, Soil Stabilized
+1059, Budhanilkantha,Kathmandu,6,4,2,East,288.0,15401.25,13.0, Blacktopped
+1060, Kapan,Kathmandu,0,0,0,East,414.0,1026.75,10.0, Blacktopped
+1061, Kapurdhara,Kathmandu,5,5,2,East,489.0,1369.0,13.0, Blacktopped
+1062, Bharatpur,Chitwan,0,0,0,North,378.0,1093.5,19.68504, Gravelled
+1063, Magar Ghau,Lalitpur,0,0,0,South East,251.0,1369.0,22.0, Concrete
+1064, Imadol,Lalitpur,0,0,0,South,290.0,106097.5,10.0, Soil Stabilized
+1065, Pepsicola,Kathmandu,6,3,2,South,260.0,1369.0,30.0, Soil Stabilized
+1066, Kirtipur,Kathmandu,0,0,0,West,307.0,1369.0,15.0, Gravelled
+1067, Dadikot,Bhaktapur,0,0,0,North,587.0,103701.75,12.0, Gravelled
+1068, Goldhunga,Kathmandu,0,0,0,South,280.0,112942.5,13.0, Gravelled
+1069, Chabahil,Kathmandu,0,0,0,North,455.0,144771.75,20.0, Soil Stabilized
+1070, Devkota Chowk,Bhairahawa,16,20,1,North,637.0,10952.0,55.0,
+1071, Boudha,Kathmandu,0,0,0,South,256.0,1369.0,19.68504, Blacktopped
+1072, Gothatar,Kathmandu,8,0,0,West,911.0,75295.0,13.0, Gravelled
+1073, Gyaneshwor,Kathmandu,0,0,0,West,1500.0,1369.0,65.6168, Blacktopped
+1074, Bharatpur,Chitwan,2,1,0,South,278.0,1093.5,19.68504, Blacktopped
+1075, Hattiban,Lalitpur,0,0,0,East,11900.0,3080.25,16.0, Blacktopped
+1076, Balambu,Kathmandu,0,0,0,East,233.0,4449.25,16.0,
+1077, Chandragiri,Kathmandu,0,0,0,North East,301.0,144771.75,13.0,
+1078, Gairidhara,Kathmandu,0,0,0,East,317.0,136900.0,13.0, Blacktopped
+1079, Pathari,Morang,0,0,0,North,214.0,3645.0,20.0, Blacktopped
+1080, Jawalakhel,Lalitpur,0,0,0,North West,248.0,342250.0,13.0, Blacktopped
+1081, Goldhunga,Kathmandu,0,0,0,North,211.0,1369.0,15.0,
+1082, Dhading,Dhading,0,0,0,North,157.0,1711.25,15.0, Soil Stabilized
+1083, Dhobighat,Lalitpur,5,5,4,East,544.0,308025.0,20.0, Blacktopped
+1084, Kadaghari,Kathmandu,5,2,1,East,531.0,1026.75,12.0, Blacktopped
+1085, Lokanthali,Bhaktapur,2,1,0,North,376.0,1369.0,15.0, Gravelled
+1086, Pepsicola,Kathmandu,0,0,0,West,301.0,1369.0,15.0, Blacktopped
+1087, Pepsicola,Kathmandu,1,1,0,West,583.0,1369.0,15.0, Gravelled
+1088, Imadol,Lalitpur,2,2,1,North East,3100.0,1026.75,13.0, Blacktopped
+1089, way to tikathali,Lalitpur,9,5,3,North West,919.0,109520.0,33.0, Blacktopped
+1090, Bhaisepati,Lalitpur,0,0,0,West,239.0,2738.0,15.0, Gravelled
+1091, Sitapaila,Kathmandu,0,0,0,South,433.0,143745.0,12.0, Gravelled
+1092, Naikap,Kathmandu,0,0,0,West,1400.0,3422.5,10.0, Soil Stabilized
+1093, Naikap,Kathmandu,0,0,0,South,3400.0,1369.0,10.0, Soil Stabilized
+1094, Jyoti Nagar,Kathmandu,0,3,2,East,344.0,11978.75,13.0, Paved
+1095, Sanepa,Lalitpur,0,0,0,West,690.0,2738.0,15.0, Concrete
+1096, Sanepa,Lalitpur,0,0,0,West,688.0,3764.75,15.0, Blacktopped
+1097, Sanepa,Lalitpur,0,0,0,West,517.0,4107.0,13.0, Concrete
+1098, Kadaghari,Kathmandu,11,0,0,West,351.0,1711.25,15.0, Gravelled
+1099, Krishnanagar,Kapilvastu,0,0,0,East,151.0,1369.0,0.0, Paved
+1100, Gothatar,Kathmandu,0,0,0,South,255.0,215617.5,20.0, Gravelled
+1101, Kadaghari,Kathmandu,7,0,0,North,414.0,75295.0,13.0, Gravelled
+1102, Kapan,Kathmandu,18,0,0,North,279.0,140322.5,32.0, Gravelled
+1103, Bhaktapur,Bhaktapur,5,4,0,South,502.0,1369.0,15.0, Blacktopped
+1104, Sitapaila,Kathmandu,0,0,0,West,481.0,1711.25,20.0, Blacktopped
+1105, Tahachal,Kathmandu,3,4,1,North,452.0,11978.75,0.0,
+1106, Sanepa,Lalitpur,0,0,0,West,310.0,2053.5,0.0,
+1107, Balaju,Kathmandu,0,0,0,West,672.0,119787.5,26.0, Blacktopped
+1108, Imadol,Lalitpur,5,3,0,North,1400.0,109520.0,13.0, Gravelled
+1109, Biratnagar,Morang,3,1,0,North,265.0,1369.0,13.0, Gravelled
+1110, Tinkune,Kathmandu,0,0,0,North,384.0,1369.0,0.0,
+1111, Basundhara,Kathmandu,0,0,0,North,524.0,119787.5,13.0, Blacktopped
+1112, Dhobighat,Lalitpur,0,0,0,East,530.0,1369.0,5.0, Blacktopped
+1113, Sankhu,Kathmandu,0,0,0,North,179.0,3422.5,13.0, Soil Stabilized
+1114, Boudha,Kathmandu,0,0,0,West,251.0,1369.0,12.0, Gravelled
+1115,thankot ,Kathmandu,0,0,0,West,493.0,136900.0,20.0, Blacktopped
+1116, Chandragiri,Kathmandu,0,0,0,East,449.0,171467.25,13.0, Blacktopped
+1117, Patan,Lalitpur,0,0,0,North,267.0,16428.0,20.0, Blacktopped
+1118, Koteshwor,Kathmandu,0,0,0,South,210.0,5476.0,20.0, Blacktopped
+1119, Kapan,Kathmandu,11,5,0,East,253.0,1369.0,13.0, Blacktopped
+1120, Kapan,Kathmandu,11,0,0,North,2200.0,136900.0,13.0, Blacktopped
+1121, Naikap,Kathmandu,5,2,1,South,1900.0,216644.25,15.0, Blacktopped
+1122, Budhanilkantha,Kathmandu,0,3,2,East,530.0,14032.25,13.0, Blacktopped
+1123, Imadol,Lalitpur,4,3,0,South,998.0,75295.0,13.0, Gravelled
+1124, Imadol,Lalitpur,4,3,0,South East,587.0,103701.75,10.0, Gravelled
+1125, Imadol,Lalitpur,4,3,0,South,1000.0,75295.0,13.0, Gravelled
+1126, Basantapur,Kathmandu,0,0,0,South East,1900.0,1369.0,30.0, Blacktopped
+1127, Imadol,Lalitpur,4,3,0,South,300.0,112942.5,20.0, Gravelled
+1128, Imadol,Lalitpur,5,4,0,North West,4100.0,1026.75,11.0, Gravelled
+1129, Imadol,Lalitpur,3,3,2,South,2000.0,106097.5,13.0, Gravelled
+1130, Itahari,Sunsari,0,0,0,North,312.0,1640.25,20.0, Blacktopped
+1131, Tokha,Kathmandu,7,3,0,South East,301.0,143745.0,10.0, Gravelled
+1132, Baneshwor,Kathmandu,0,0,3,South,4300.0,143745.0,8.0, Gravelled
+1133, Minbhawan,Kathmandu,0,0,0,South East,268.0,205350.0,20.0,
+1134, Baneshwor,Kathmandu,0,0,0,East,324.0,410700.0,20.0,
+1135, Dhobighat,Lalitpur,0,0,0,North,312.0,410700.0,20.0,
+1136, Sanepa,Lalitpur,0,0,0,South East,248.0,342250.0,13.0,
+1137, Damak,Jhapa,0,0,0,East,300.0,3827.25,15.0, Gravelled
+1138, Sanepa,Lalitpur,2,1,1,West,859.0,1026.75,13.0, Gravelled
+1139, Hattigauda,Kathmandu,0,0,0,East,207.0,1369.0,15.0, Blacktopped
+1140, Changunarayan,Bhaktapur,0,0,0,West,165.0,2395.75,15.0, Gravelled
+1141, Dhapakhel,Lalitpur,0,0,0,South,205.0,154012.5,12.0, Blacktopped
+1142, Pokhara,Pokhara,13,0,0,East,7400.0,1369.0,20.0, Blacktopped
+1143, Budhanilkantha,Kathmandu,0,0,0,South,327.0,73926000.0,20.0, Alley
+1144, Tikathali,Lalitpur,0,0,0,South,370.0,106097.5,13.0, Soil Stabilized
+1145, Damak,Jhapa,4,1,3,South,773.0,3422.5,20.0, Blacktopped
+1146, Baghdol,Lalitpur,4,4,1,West,470.0,1369.0,20.0, Gravelled
+1147, Budhanilkantha,Kathmandu,5,5,0,East,240.0,4791.5,14.0, Blacktopped
+1148, Nakkhu,Lalitpur,4,4,1,East,227.0,136900.0,16.0, Gravelled
+1149, Dhobighat,Lalitpur,5,3,4,East,315.0,1369.0,0.0,
+1150, Suryabinayak,Bhaktapur,0,0,0,North,372.0,1369.0,26.0, Soil Stabilized
+1151, Hetauda,Makwanpur,0,0,0,East,295.0,2551.5,26.24672, Blacktopped
+1152, Birendra Chowk,Pokhara,0,0,0,South West,220.0,513375.0,30.0, Blacktopped
+1153, Hetauda,Makwanpur,0,0,0,East,226.0,1822.5,26.24672, Paved
+1154, Swayambhu,Kathmandu,0,0,0,East,599.0,102675.0,12.0, Gravelled
+1155, Mulpani,Kathmandu,0,0,0,South,309.0,1369.0,10.0, Gravelled
+1156, Bhairahawa,Rupandehi,0,0,0,East,634.0,218700.0,12.0, Gravelled
+1157, Budhanilkantha,Kathmandu,2,3,1,West,409.0,1026.75,12.0, Soil Stabilized
+1158, Naya Bazar,Kathmandu,3,4,1,East,267.0,102675.0,20.0,
+1159, Mulpani,Kathmandu,6,2,1,East,433.0,3764.75,20.0, Gravelled
+1160, Hattigauda,Kathmandu,6,6,4,East,812.0,6845.0,15.0, Blacktopped
+1161, Manamaiju,Kathmandu,4,3,0,East,388.0,7529.5,10.0, Blacktopped
+1162, Madhyapur Thimi,Bhaktapur,0,0,0,North,213.0,1369.0,15.0, Blacktopped
+1163, Shuklagandaki,Tanahu,0,0,0,South East,181.0,12594800.0,20.0, Soil Stabilized
+1164, Baneshwor,Kathmandu,0,0,0,North,298.0,1369.0,20.0, Blacktopped
+1165, Baneshwor,Kathmandu,0,0,0,East,199.0,1369.0,26.24672, Blacktopped
+1166, Suryabinayak,Bhaktapur,0,0,0,North,197.0,1369.0,15.0, Blacktopped
+1167, Imadol,Lalitpur,3,1,0,North,443.0,1026.75,14.0, Gravelled
+1168, Suryabinayak,Bhaktapur,0,0,0,West,270.0,1369.0,10.0, Soil Stabilized
+1169, Maharajgunj,Kathmandu,5,5,0,North,383.0,3080.25,13.0, Blacktopped
+1170, Chabahil,Kathmandu,0,0,0,North,163.0,1369.0,15.0, Blacktopped
+1171, Pokhara,Pokhara,0,0,0,West,655.0,1369.0,18.0, Blacktopped
+1172, Bhangal,Kathmandu,5,5,1,East,641.0,11978.75,14.0, Gravelled
+1173, Bhangal,Kathmandu,5,5,2,South West,439.0,2395.75,15.0, Blacktopped
+1174, Lazimpat,Kathmandu,0,0,0,North,574.0,1026.75,13.0,
+1175, Basundhara,Kathmandu,7,6,3,East,1200.0,2395.75,20.0, Blacktopped
+1176, Koteshwor,Kathmandu,7,4,0,East,299.0,5133.75,26.0, Blacktopped
+1177, Kalanki,Kathmandu,0,0,0,South West,404.0,1369.0,16.0, Blacktopped
+1178, Chabahil,Kathmandu,0,0,0,East,213.0,1369.0,0.0,
+1179, Suryabinayak,Bhaktapur,0,0,1,East,614.0,94118.75,13.0, Blacktopped
+1180, Budhanilkantha,Kathmandu,5,6,10,West,833.0,10952.0,20.0, Blacktopped
+1181, Kausaltar,Bhaktapur,0,0,0,South,284.0,1026.75,10.0,
+1182, Hattigauda,Kathmandu,9,10,2,South,308.0,2053.5,14.0, Blacktopped
+1183, Kirtipur,Kathmandu,0,0,0,South,664.0,1026.75,10.0, Blacktopped
+1184, Bhangal,Kathmandu,5,4,2,West,490.0,11978.75,13.0, Gravelled
+1185, Chabahil,Kathmandu,0,0,0,North,405.0,2738.0,14.0, Blacktopped
+1186, Jorpati,Kathmandu,0,0,0,North,240.0,1369.0,15.0, Blacktopped
+1187, Kapan,Kathmandu,0,0,0,West,273.0,8556.25,12.0, Blacktopped
+1188, Samakhusi,Kathmandu,4,0,0,West,500.0,1369.0,13.0,
+1189, Kapan,Kathmandu,2,1,0,North,510.0,119787.5,12.0, Gravelled
+1190, Ramkot,Kathmandu,7,3,0,East,299.0,10952.0,0.0,
+1191, Goldhunga,Kathmandu,0,0,0,West,292.0,1369.0,10.0, Gravelled
+1192, Pokhara,Pokhara,0,0,0,West,439.0,1369.0,16.0, Gravelled
+1193, Mulpani,Kathmandu,0,0,0,South,262.0,147167.5,14.0, Gravelled
+1194, Lekhnath,Pokhara,0,0,0,West,288.0,1369.0,20.0, Blacktopped
+1195, Manamaiju,Kathmandu,0,0,0,West,247.0,1369.0,20.0, Blacktopped
+1196, Goldhunga,Kathmandu,0,0,0,North,279.0,1026.75,24.0,
+1197, Kalanki,Kathmandu,0,0,0,North,390.0,1369.0,12.0, Blacktopped
+1198, Lekhnath,Pokhara,0,0,0,West,232.0,20535.0,20.0, Blacktopped
+1199, Swayambhu,Kathmandu,0,0,0,East,466.0,3080.25,0.0,
+1200, Imadol,Lalitpur,2,1,0,East,290.0,113969.25,13.0, Gravelled
+1201, Goldhunga,Kathmandu,0,0,0,North,238.0,109520.0,13.0, Gravelled
+1202, Bharatpur,Chitwan,0,0,0,North East,385.0,1369.0,19.68504,
+1203, Maharajgunj,Kathmandu,0,0,0,West,430.0,10267.5,16.0, Gravelled
+1204, Basundhara,Kathmandu,2,1,0,West,319.0,1369.0,10.0,
+1205, Namobuddha,Kavre,0,0,0,West,345.0,290912.5,15.0, Gravelled
+1206, Tarkeshwor,Kathmandu,7,3,0,West,339.0,1369.0,10.0,
+1207, Phase II,Lalitpur,4,3,1,South,445.0,140322.5,15.0, Paved
+1208, Sankhamul,Kathmandu,0,0,0,East,376.0,1369.0,12.0, Gravelled
+1209, Tokha,Kathmandu,5,6,1,South,519.0,10609.75,12.0, Blacktopped
+1210, Budhanilkantha,Kathmandu,0,0,0,North East,318.0,273800.0,18.0, Blacktopped
+1211, Budhanilkantha,Kathmandu,5,6,1,North East,689.0,11978.75,12.0, Blacktopped
+1212, Kalopul,Kathmandu,0,0,0,West,445.0,112942.5,10.0, Blacktopped
+1213, Baluwatar,Kathmandu,0,0,0,West,227.0,246420.0,14.0, Blacktopped
+1214, Birgunj,Parsa,24,22,3,East,633.0,7836.75,30.0, Blacktopped
+1215, Kalanki,Kathmandu,0,0,0,West,274.0,102675.0,12.0, Soil Stabilized
+1216, Naikap,Kathmandu,0,0,0,West,267.0,215617.5,10.0, Blacktopped
+1217, Basundhara,Kathmandu,4,3,0,South,705.0,10609.75,15.0, Gravelled
+1218, Kadaghari,Kathmandu,5,0,0,West,1200.0,136900.0,12.0, Blacktopped
+1219, Kageshwari-Manohara,Kathmandu,0,0,0,South,376.0,1369.0,14.0, Soil Stabilized
+1220, Dhapasi,Kathmandu,3,4,4,North,589.0,342250.0,20.0, Blacktopped
+1221, Newroad,Kathmandu,0,0,0,North,1200.0,1369.0,12.0, Blacktopped
+1222, Tinkune,Kathmandu,0,0,0,North,345.0,143745.0,22.0, Blacktopped
+1223, Maharajgunj,Kathmandu,0,0,0,East,374.0,17461595.0,20.0, Blacktopped
+1224, Kadaghari,Kathmandu,0,0,0,North,643.0,119787.5,12.0, Gravelled
+1225, Kadaghari,Kathmandu,6,0,0,North,2300.0,78717.5,13.0, Gravelled
+1226, Jorpati,Kathmandu,0,0,0,West,226.0,1369.0,12.0, Blacktopped
+1227, Itahari,Sunsari,0,0,0,South,249.0,2004.75,20.0, Blacktopped
+1228, Damak,Jhapa,0,2,4,East,291.0,364500.0,50.0, Alley
+1229, Shantinagar,Kathmandu,6,0,4,North,13100.0,212195.0,10.0, Blacktopped
+1230, Bajrabarahi,Makwanpur,0,0,0,North East,338.0,21904.0,4.0, Gravelled
+1231, Gaurighat,Kathmandu,0,0,0,West,225.0,342250.0,16.0, Gravelled
+1232, Greenhill city,Kathmandu,0,0,0,East,247.0,171125.0,12.0, Blacktopped
+1233, Kantipur Colony,Kathmandu,0,0,0,East,335.0,4107.0,13.0,
+1234, Sankhu,Kathmandu,0,0,0,North,249.0,171125.0,20.0, Gravelled
+1235, Police Station,Kathmandu,0,0,0,South,240.0,44492.5,9.0, Blacktopped
+1236, Balaju,Kathmandu,0,0,0,South,360.0,1369.0,22.0, Gravelled
+1237, Pasikot,Kathmandu,5,4,2,West,462.0,136900.0,20.0,
+1238, Imadol,Lalitpur,0,0,0,South,430.0,1026.75,13.0,
+1239, Sunrise Bank,Kathmandu,0,0,0,North,375.0,2738.0,15.0, Gravelled
+1240, Little Angel's College of Higher Studies,Lalitpur,0,0,0,South,304.0,75295.0,13.0, Gravelled
+1241, Jorpati,Kathmandu,0,0,0,West,262.0,143745.0,20.0, Blacktopped
+1242, Kumaripati,Lalitpur,0,0,5,South East,1200.0,171125.0,22.0,
+1243, Lubhu,Lalitpur,0,0,0,North,396.0,112942.5,13.0, Blacktopped
+1244, Jhamsikhel,Lalitpur,2,1,1,East,914.0,1369.0,20.0, Blacktopped
+1245, Ranipauwa,Pokhara,7,5,3,South East,668.0,22246.25,20.0, Gravelled
+1246, Kirtipur,Kathmandu,0,0,0,South,459.0,5476.0,20.0, Gravelled
+1247, Chamati,Kathmandu,0,0,0,West,322.0,1026.75,12.0, Gravelled
+1248, Talimkendra,Lalitpur,5,4,0,North,419.0,1369.0,13.0, Blacktopped
+1249, Bode Pool,Kathmandu,0,0,0,West,295.0,1026.75,12.0, Soil Stabilized
+1250, Chandragiri,Kathmandu,0,0,0,East,289.0,1369.0,13.0, Gravelled
+1251, Sukedhara,Kathmandu,11,0,0,North,473.0,1711.25,13.0, Blacktopped
+1252, Mahalaxmi Nagarpalika,Lalitpur,0,0,0,East,354.0,10952.0,16.0, Gravelled
+1253, Godawari,Lalitpur,0,0,0,East,610.0,9240.75,24.0, Gravelled
+1254, Thamel,Kathmandu,0,0,0,West,402.0,1369.0,15.0, Blacktopped
+1255, Madhyapur Thimi,Bhaktapur,0,0,0,South,257.0,1369.0,20.0, Blacktopped
+1256, Baneshwor,Kathmandu,0,0,0,North,228.0,1369.0,15.0, Blacktopped
+1257, Kirtipur,Kathmandu,6,4,1,South,374.0,144771.75,12.0, Gravelled
+1258, Baneshwor,Kathmandu,0,0,0,South,1200.0,2053.5,12.0, Blacktopped
+1259, Phusre,Dharan,0,0,0,West,567.0,1822.5,15.0, Blacktopped
+1260, Patan,Lalitpur,0,0,0,West,374.0,34225.0,40.0, Paved
+1261, Pokhara,Pokhara,0,0,0,West,568.0,246420.0,15.0, Gravelled
+1262, Bharatpur,Chitwan,0,0,0,South East,344.0,109350.0,20.0, Gravelled
+1263, Chabahil,Kathmandu,0,0,0,South East,348.0,181392.5,14.0, Blacktopped
+1264, LA School,Lalitpur,2,1,0,West,596.0,1369.0,15.0, Blacktopped
+1265, Lubhu,Lalitpur,0,0,0,South,469.0,112942.5,10.0, Soil Stabilized
+1266, Thali Buspark,Kathmandu,0,0,0,West,344.0,1026.75,10.0, Soil Stabilized
+1267, Bhaisepati,Lalitpur,0,0,0,West,615.0,1369.0,15.0, Gravelled
+1268, Baneshwor,Kathmandu,0,0,0,West,764.0,1369.0,10.0, Blacktopped
+1269, sano mandir,Kathmandu,6,3,2,South East,450.0,14032.25,11.0,
+1270, Biratnagar,Morang,3,2,0,West,368.0,1369.0,15.0, Blacktopped
+1271, Chandragiri,Kathmandu,0,0,2,South East,290.0,178996.75,20.0, Blacktopped
+1272, Sanepa,Lalitpur,4,4,2,North,680.0,136900.0,13.0, Blacktopped
+1273, Kamaladi,Kathmandu,0,0,0,North,275.0,175574.25,30.0, Blacktopped
+1274, Sukedhara,Kathmandu,0,0,0,North,1900.0,112942.5,13.0, Soil Stabilized
+1275, Kirtipur,Kathmandu,0,0,0,South,630.0,342.25,10.0, Blacktopped
+1276, Pepsicola,Kathmandu,0,0,0,South West,819.0,22246.25,15.0, Blacktopped
+1277,kalanki,Kathmandu,0,0,0,South West,392.0,42096.75,20.0, Blacktopped
+1278, Kirtipur,Kathmandu,0,0,0,East,417.0,143745.0,13.0, Gravelled
+1279, Dharan,Dharan,0,0,0,West,417.0,911.25,15.0, Gravelled
+1280, Narayanpur,Chitwan,0,0,0,West,306.0,154912.5,19.68504, Gravelled
+1281, Dharan,Dharan,0,0,0,West,470.0,911.25,52.0, Blacktopped
+1282, Harisiddhi,Lalitpur,0,0,0,East,342.0,1369.0,13.0, Gravelled
+1283, Sanepa,Lalitpur,6,3,6,South,472.0,8898.5,13.0, Paved
+1284, Sanepa,Lalitpur,0,0,0,East,259.0,2738.0,20.0, Gravelled
+1285, Kirtipur,Kathmandu,0,0,0,West,502.0,2738.0,20.0,
+1286, Chandragiri,Kathmandu,0,0,0,West,264.0,109862.25,15.0,
+1287, Chovar,Kathmandu,0,0,0,West,254.0,6160.5,15.0, Soil Stabilized
+1288, Banasthali,Kathmandu,0,0,0,West,802.0,110204.5,13.0, Gravelled
+1289, Budhanilkantha,Kathmandu,0,0,0,East,627.0,10952.0,14.0, Blacktopped
+1290, Budhanilkantha,Kathmandu,0,0,0,South,289.0,1369.0,15.0, Gravelled
+1291, Lamatar,Lalitpur,0,0,0,West,272.0,1711.25,12.0, Soil Stabilized
+1292, Lamatar,Lalitpur,0,0,0,West,188.0,2738.0,14.0, Gravelled
+1293, Pokhara,Pokhara,2,1,0,North,821.0,1369.0,16.0, Gravelled
+1294,Ktm-13,Kathmandu,0,0,0,West,405.0,182419.25,14.0, Paved
+1295, Bhangal,Kathmandu,6,6,1,North West,292.0,1369.0,15.0, Blacktopped
+1296, Bhangal,Kathmandu,6,6,1,South East,318.0,1369.0,14.0, Blacktopped
+1297, Imadol,Lalitpur,5,3,3,East,384.0,102675.0,13.0, Blacktopped
+1298, Ekantakuna,Lalitpur,0,0,0,West,302.0,3764.75,10.0, Gravelled
+1299, Lalitpur,Lalitpur,0,0,0,East,354.0,171125.0,20.0, Blacktopped
+1300, Satungal,Kathmandu,0,0,0,North,310.0,277222.5,15.0, Blacktopped
+1301, Forcepark,Kathmandu,0,0,0,North,270.0,1369.0,13.0, Gravelled
+1302, Harisiddhi,Lalitpur,0,0,0,East,1800.0,1026.75,13.0, Gravelled
+1303, Mahanagriye Police Chauki.,Kathmandu,3,0,0,West,381.0,1369.0,15.0, Blacktopped
+1304, Sanepa,Lalitpur,0,0,0,West,914.0,1711.25,4.0, Soil Stabilized
+1305, Grandy Hospital,Kathmandu,5,3,0,South,559.0,1369.0,26.0, Gravelled
+1306, Jorpati,Kathmandu,0,0,0,South,449.0,1369.0,15.0, Blacktopped
+1307, Budhanilkantha,Kathmandu,0,0,0,South,676.0,109520.0,24.0, Gravelled
+1308, Laxmi Bank,Kathmandu,11,3,0,North,282.0,1369.0,13.0, Blacktopped
+1309, Budhanilkantha,Kathmandu,0,0,0,South,396.0,1369.0,13.0, Gravelled
+1310, Harisiddhi Buspark Chowk,Lalitpur,0,0,0,East,402.0,11294.25,13.0,
+1311, Dhungedhara,Kathmandu,7,4,0,West,269.0,11294.25,12.0,
+1312, Baneshwor,Kathmandu,0,0,0,West,645.0,1369.0,13.0, Blacktopped
+1313, Malepatan,Pokhara,0,0,0,West,377.0,1369.0,15.0, Soil Stabilized
+1314, Bhaktapur,Bhaktapur,0,0,0,East,499.0,5476.0,12.0, Blacktopped
+1315, Bhaisepati,Lalitpur,3,5,1,South West,864.0,143745.0,18.0, Blacktopped
+1316, Bhaktapur,Bhaktapur,0,0,0,East,271.0,6160.5,14.0, Blacktopped
+1317, Budhanilkantha,Kathmandu,0,0,0,North East,374.0,2738.0,20.0, Blacktopped
+1318, Budhanilkantha,Kathmandu,4,6,4,East,1100.0,3422.5,15.0, Blacktopped
+1319, Basundhara,Kathmandu,6,6,2,South,277.0,2053.5,15.0, Blacktopped
+1320, Hattigauda,Kathmandu,5,5,1,East,444.0,1369.0,30.0, Gravelled
+1321, Basundhara,Kathmandu,6,6,2,South West,1400.0,2738.0,15.0, Blacktopped
+1322, Hattigauda,Kathmandu,0,0,3,South West,642.0,22246.25,18.0, Blacktopped
+1323, Bijay Chowk,Kathmandu,0,0,0,South,471.0,353202.0,12.0, Blacktopped
+1324, Near Open University Manbhawan,Lalitpur,0,0,0,East,484.0,1369.0,21.0, Blacktopped
+1325, Russian Embassy,Kathmandu,5,0,0,South,4200.0,1369.0,15.0, Blacktopped
+1326, Boudha,Kathmandu,0,0,0,West,284.0,1369.0,15.0, Blacktopped
+1327, Nakhipot,Lalitpur,0,0,0,South,562.0,171125.0,20.0, Blacktopped
+1328, Maharajgunj,Kathmandu,0,0,0,East,452.0,136900.0,20.0, Blacktopped
+1329, Mid Baneshwor,Kathmandu,0,0,0,West,822.0,1369.0,20.0, Blacktopped
+1330, Jorpati,Kathmandu,4,3,1,East,547.0,1369.0,12.0, Blacktopped
+1331, Joranku,Kathmandu,5,3,0,West,403.0,102675.0,8.0, Soil Stabilized
+1332, Dhapasi,Kathmandu,3,2,1,South West,600.0,1369.0,0.0, Blacktopped
+1333, Baluwatar,Kathmandu,3,3,0,East,652.0,2053.5,12.0, Blacktopped
+1334, Tandi,Chitwan,0,0,0,East,350.0,1369.0,26.24672, Gravelled
+1335, Tokha,Kathmandu,0,0,0,South,426.0,154012.5,10.0, Soil Stabilized
+1336, Basundhara,Kathmandu,0,0,0,East,448.0,106097.5,15.0, Blacktopped
+1337, Goldhunga,Kathmandu,0,0,0,North,502.0,75295.0,15.0, Soil Stabilized
+1338, Sukedhara,Kathmandu,0,0,0,North,318.0,1369.0,20.0, Blacktopped
+1339, Bhaktapur,Bhaktapur,0,0,0,West,589.0,1369.0,13.0, Gravelled
+1340, Boudha,Kathmandu,0,0,0,North,291.0,1369.0,20.0, Blacktopped
+1341, Putalisadak,Kathmandu,0,0,0,West,240.0,1369.0,15.0, Blacktopped
+1342, Chabahil,Kathmandu,0,0,0,West,228.0,1369.0,15.0, Blacktopped
+1343, 4th floor,Kathmandu,0,0,0,North,199.0,1369.0,20.0, Blacktopped
+1344, Satdobato,Lalitpur,0,0,0,North,185.0,1369.0,20.0, Blacktopped
+1345, Jorpati,Kathmandu,0,0,0,North,246.0,1369.0,15.0, Gravelled
+1346, Newroad,Kathmandu,0,0,0,West,274.0,1369.0,15.0, Blacktopped
+1347, Rarahill School,Kathmandu,0,0,0,West,396.0,1711.25,12.0, Gravelled
+1348, Gurujudhara,Kathmandu,2,1,0,West,542.0,106097.5,10.0, Gravelled
+1349, Shyam Chowk,Dharan,0,0,0,East,523.0,3645.0,20.0, Gravelled
+1350, Bafal,Kathmandu,0,0,0,South,412.0,85562.5,18.0, Gravelled
+1351, Tilottama,Rupandehi,0,0,0,West,405.0,1369.0,20.0, Gravelled
+1352, Pokhara,Pokhara,0,0,0,West,470.0,1369.0,15.0, Gravelled
+1353, Chardobato,Bhaktapur,0,0,0,South,301.0,107124.25,36.0, Blacktopped
+1354, Bharatpur,Chitwan,3,3,3,South,459.0,1822.5,19.68504, Blacktopped
+1355, Sanepa,Lalitpur,10,10,0,South,3200.0,5818.25,20.0, Blacktopped
+1356, Dhapasi,Kathmandu,0,0,0,East,1600.0,85562.5,13.0, Soil Stabilized
+1357, Nakkhu,Lalitpur,4,5,1,North,593.0,102675.0,13.0, Soil Stabilized
+1358, Dhapasi,Kathmandu,0,0,0,East,402.0,1711.25,13.0, Gravelled
+1359, Jorpati,Kathmandu,0,0,0,West,561.0,181392.5,10.0, Soil Stabilized
+1360, Baluwatar,Kathmandu,0,0,0,South West,899.0,2738.0,13.0, Blacktopped
+1361, Nakkhu,Lalitpur,0,0,2,North,339.0,174547.5,13.0, Soil Stabilized
+1362, JCB Karkhana,Lalitpur,0,0,0,East,13100.0,7187.25,12.0, Blacktopped
+1363, Daha Chowk,Kathmandu,0,0,0,South West,500.0,1369.0,16.0, Blacktopped
+1364, Balaju,Kathmandu,6,3,1,North East,327.0,10952.0,0.0,
+1365, Godawari,Lalitpur,4,3,1,East,541.0,1369.0,15.0, Concrete
+1366, Sipadol,Bhaktapur,0,0,0,East,465.0,1369.0,8.0, Blacktopped
+1367, Budhanilkantha,Kathmandu,4,4,2,North East,740.0,1711.25,15.0, Blacktopped
+1368, Lamatar,Lalitpur,0,0,0,East,253.0,22246.25,13.0, Gravelled
+1369, Hetauda,Makwanpur,4,3,1,South,439.0,1640.25,19.68504, Gravelled
+1370, Sukedhara,Kathmandu,6,3,2,North,288.0,1026.75,14.0, Blacktopped
+1371, Kusunti,Lalitpur,0,0,0,East,193.0,3764.75,26.0,
+1372, Tikathali,Lalitpur,6,3,1,East,344.0,1752320.0,12.0, Blacktopped
+1373, Bharatpur,Chitwan,11,6,3,North,362.0,1822.5,20.0, Blacktopped
+1374, Budhanilkantha,Kathmandu,3,4,1,East,1500.0,113969.25,20.0, Blacktopped
+1375, Butwal,Butwal,0,0,0,East,5500.0,1822.5,12.0, Blacktopped
+1376, Madhyapur Thimi,Bhaktapur,0,0,0,West,384.0,2053.5,13.0, Blacktopped
+1377, Budhanilkantha,Kathmandu,0,0,0,East,324.0,3080.25,15.0, Soil Stabilized
+1378, Lazimpat,Kathmandu,10,5,5,South,472.0,2738.0,15.0, Gravelled
+1379, Budhanilkantha,Kathmandu,0,0,0,West,392.0,3764.75,13.0, Gravelled
+1380, Sukedhara,Kathmandu,5,4,0,South,449.0,2053.5,15.0, Gravelled
+1381, Budhanilkantha,Kathmandu,0,0,0,North,285.0,4791.5,13.0, Soil Stabilized
+1382, Dhapakhel,Lalitpur,0,0,0,South,422.0,102675.0,13.0, Blacktopped
+1383, Budanilkantha-11,Kathmandu,2,1,1,South,783.0,1026.75,10.0,
+1384, Baneshwor,Kathmandu,0,0,0,East,329.0,1026.75,0.0,
+1385, Pepsicola,Kathmandu,0,0,0,East,1100.0,4791.5,20.0,
+1386, Fikal,Illam,0,0,0,South,206.0,2305396.0,16.0, Blacktopped
+1387, Kawasoti,Nawalparasi,0,0,0,North,508.0,21870.0,19.68504, Gravelled
+1388, Bhaisepati,Lalitpur,4,5,1,East,2900.0,1369.0,15.0, Gravelled
+1389, Dhapakhel,Lalitpur,0,0,0,South,488.0,1369.0,12.0,
+1390, Budhanilkantha,Kathmandu,0,0,0,West,264.0,8214.0,14.0,
+1391, Panipokhari,Kathmandu,0,0,2,West,372.0,1369.0,13.0,
+1392, Durbar Marg,Kathmandu,0,0,0,South,379.0,4791.5,20.0,
+1393, Budhanilkantha,Kathmandu,0,0,0,South,369.0,6160.5,16.0,
+1394, Bhaisepati,Lalitpur,0,0,0,South,382.0,181734.75,13.0,
+1395, Sanepa,Lalitpur,0,0,0,South,810.0,5818.25,20.0,
+1396, Fusre Camp,Dharan,0,0,0,West,1000.0,3645.0,30.0, Blacktopped
+1397, Duwakot,Bhaktapur,0,0,0,South,249.0,2354680.0,12.0, Soil Stabilized
+1398, Guheshwori,Kathmandu,0,0,1,West,455.0,1369.0,30.0, Paved
+1399, Basundhara,Kathmandu,5,2,0,South,302.0,1711.25,14.0,
+1400, Budhanilkantha,Kathmandu,4,4,3,South,646.0,3422.5,13.0,
+1401, Tripureshwor,Kathmandu,0,0,0,South,319.0,3764.75,12.0,
+1402, Lazimpat,Kathmandu,3,3,0,South East,860.0,1369.0,20.0,
+1403, Hattigauda,Kathmandu,0,0,0,East,352.0,1369.0,15.0,
+1404, Budhanilkantha,Kathmandu,0,0,0,North East,535.0,209457.0,16.0,
+1405, Changunarayan,Bhaktapur,0,0,0,East,332.0,4791.5,13.0,
+1406, Jhamsikhel,Lalitpur,2,2,0,East,488.0,1369.0,13.0,
+1407, Dhapakhel,Lalitpur,6,4,2,South,437.0,1369.0,20.0, Blacktopped
+1408, Boudha,Kathmandu,0,0,0,East,360.0,2395.75,20.0,
+1409, Tokha,Kathmandu,0,0,0,East,354.0,181734.75,0.0,
+1410, Kupondole,Lalitpur,0,0,0,East,409.0,2738.0,13.0,
+1411, Baluwatar,Kathmandu,7,5,5,South,406.0,2738.0,13.0,
+1412, Bhangal,Kathmandu,0,0,0,South East,782.0,1369.0,14.0,
+1413, Hattigauda,Kathmandu,0,0,0,South,1200.0,6160.5,15.0,
+1414, Banasthali,Kathmandu,4,5,0,South,345.0,3422.5,12.0,
+1415, Tripureshwor,Kathmandu,0,0,0,North,296.0,2738.0,20.0,
+1416, Kupondole,Lalitpur,9,4,0,South West,423.0,6133120.0,9.0,
+1417, Panauti,Kavre,7,3,0,East,314.0,1026.75,24.0,
+1418, Gongabu,Kathmandu,9,3,0,North,455.0,1369.0,12.0,
+1419, Sallaghari,Bhaktapur,0,0,0,North East,433.0,205350.0,0.0, Soil Stabilized
+1420, Mahankal,Kathmandu,0,0,0,South,286.0,2190400.0,15.0,
+1421, Kuleshwor,Kathmandu,2,1,1,South,790.0,1369.0,20.0, Blacktopped
+1422, Budhanilkantha,Kathmandu,5,4,5,East,257.0,1369.0,12.0, Blacktopped
+1423, Madhyapur Thimi,Bhaktapur,0,0,0,South West,390.0,1369.0,13.0, Gravelled
+1424, Baluwatar,Kathmandu,6,3,8,East,374.0,5476.0,12.0, Blacktopped
+1425, Baniyatar,Kathmandu,0,0,0,East,295.0,164280.0,10.0, Gravelled
+1426, Banasthali,Kathmandu,6,0,1,North East,483.0,1369.0,16.0, Gravelled
+1427, Tikathali,Lalitpur,0,0,1,North,331.0,1369.0,13.0, Gravelled
+1428, Kausaltar,Bhaktapur,1,1,0,East,1000.0,6845.0,20.0, Blacktopped
+1429, Kalaiya,Bara,0,0,0,West,349.0,18225.0,10.0, Soil Stabilized
+1430, Makalbari,Kathmandu,2,1,1,South West,1300.0,10952.0,12.0, Gravelled
+1431, Kapan,Kathmandu,3,3,0,North,4100.0,1026.75,10.0, Gravelled
+1432, Kumaripati,Lalitpur,3,0,0,North,887.0,1369.0,13.0,
+1433, Bafal,Kathmandu,0,2,0,East,582.0,7529.5,12.0,
+1434, Godawari,Lalitpur,0,0,0,East,406.0,273800.0,22.0, Gravelled
+1435, Hattigauda,Kathmandu,0,0,0,East,351.0,7187.25,13.0,
+1436, Budhanilkantha,Kathmandu,42,0,0,South,331.0,2395.75,22.0, Blacktopped
+1437, Patandokha,Lalitpur,4,2,0,South East,366.0,2395.75,20.0,
+1438, Kuleshwor,Kathmandu,5,4,0,South East,254.0,5476.0,15.0,
+1439, Godawari,Lalitpur,0,0,0,West,402.0,219040.0,20.0, Blacktopped
+1440, Naxal,Kathmandu,5,4,0,East,395.0,8556.25,13.0,
+1441, Nakkhu,Lalitpur,0,0,0,South,497.0,1026.75,13.0,
+1442, Bakhundol,Lalitpur,0,0,0,South East,248.0,2395.75,13.0,
+1443, Duwakot,Bhaktapur,0,0,0,South East,344.0,49284.0,16.0, Blacktopped
+1444, Kupondole,Lalitpur,0,0,0,South East,349.0,3422.5,13.0,
+1445, Baluwatar,Kathmandu,0,0,0,North,256.0,3422.5,15.0,
+1446, Sanepa,Lalitpur,0,0,0,South,327.0,3080.25,13.0,
+1447, Pasikot,Kathmandu,6,4,0,East,337.0,5818.25,15.0,
+1448, Bhaisepati,Lalitpur,3,3,0,South East,259.0,1369.0,18.0,
+1449, Chandragiri,Kathmandu,0,0,0,East,262.0,1642800.0,12.0, Blacktopped
+1450, Khumaltar,Lalitpur,6,5,0,South,1900.0,1369.0,14.0,
+1451, Bhaisepati,Lalitpur,3,0,0,East,1800.0,8214.0,20.0, Soil Stabilized
+1452, Kalanki,Kathmandu,7,4,0,East,451.0,20877.25,14.0,
+1453, Bhaisepati,Lalitpur,4,6,0,South,734.0,5476.0,14.0,
+1454, Dallu,Kathmandu,0,0,0,West,231.0,1369.0,15.0, Blacktopped
+1455, Sankhamul,Kathmandu,0,0,0,South East,286.0,1369.0,26.24672,
+1456, Kalanki,Kathmandu,0,0,3,South,385.0,1369.0,20.0,
+1457, Sitapaila,Kathmandu,4,3,0,South East,742.0,2395.75,20.0,
+1458, Sanepa,Lalitpur,0,0,0,North,422.0,11978.75,10.0,
+1459, Grandy,Kathmandu,6,0,0,North,504.0,1369.0,12.0, Soil Stabilized
+1460, Panipokhari,Kathmandu,3,3,0,East,352.0,1369.0,20.0,
+1461, Budhanilkantha,Kathmandu,5,0,0,North,507.0,1369.0,15.0, Blacktopped
+1462, Imadol,Lalitpur,5,5,0,East,343.0,7871.75,14.0,
+1463, Hattisar,Kathmandu,0,0,0,West,301.0,131766.25,20.0,
+1464, Hattiban,Lalitpur,0,0,0,South,341.0,24299.75,20.0,
+1465, Jhamsikhel,Lalitpur,17,5,0,West,256.0,5476.0,14.0,
+1466, Jhamsikhel,Lalitpur,5,4,0,South East,224.0,1369.0,20.0,
+1467, Boudha,Kathmandu,10,3,0,South,335.0,106097.5,20.0,
+1468, Bhaswar Marg,Biratnagar,0,0,0,West,256.0,1369.0,20.0, Gravelled
+1469, Bhaisepati,Lalitpur,5,3,0,South East,246.0,2738.0,13.0,
+1470, Civil Homes,Lalitpur,3,2,1,West,838.0,2053.5,18.0, Blacktopped
+1471, Dhumbarahi,Kathmandu,5,5,3,South,511.0,239575.0,12.0, Soil Stabilized
+1472, Dadikot,Bhaktapur,12,4,0,South East,228.0,1369.0,20.0,
+1473, Naghdaha,Lalitpur,0,0,0,North,205.0,5476.0,20.0,
+1474, Thamel,Kathmandu,0,0,0,North,343.0,1369.0,15.0, Blacktopped
+1475, Bhaisepati,Lalitpur,4,3,0,East,317.0,1711.25,13.0,
+1476, Mangal Bazar,Lalitpur,0,0,0,North,246.0,1369.0,15.0, Blacktopped
+1477, Imadol,Lalitpur,0,0,0,South,334.0,182077.0,12.0,
+1478, Sitapaila,Kathmandu,3,4,0,South,506.0,11978.75,13.0,
+1479, Sukedhara,Kathmandu,9,4,0,East,327.0,21561.75,12.0,
+1480, Basundhara,Kathmandu,7,6,0,South West,220.0,4791.5,20.0,
+1481, Grandy Hospital,Kathmandu,2,1,0,North,537.0,1026.75,13.0, Gravelled
+1482, Lazimpat,Kathmandu,9,7,0,North,926.0,1711.25,13.0,
+1483, Koteshwor,Kathmandu,0,0,0,East,347.0,18481.5,29.52756, Gravelled
+1484, Koteshwor,Kathmandu,0,0,0,East,444.0,1369.0,12.0,
+1485, Bhaswar Marg,Biratnagar,0,0,0,East,277.0,1369.0,40.0, Gravelled
+1486, Chandol,Kathmandu,4,4,1,West,441.0,136900.0,20.0,
+1487, Sukedhara,Kathmandu,0,0,0,North,408.0,6502.75,20.0,
+1488, Dhulikhel,Kavre,0,0,0,East,272.0,61331200.0,14.0,
+1489, New Baneshwor,Kathmandu,0,2,1,South,684.0,188237.5,14.0,
+1490, Kapan,Kathmandu,0,0,0,South,237.0,1369.0,13.0, Gravelled
+1491, Chauthe,Pokhara,0,0,0,South,341.0,1369.0,20.0, Soil Stabilized
+1492, Budhanilkantha,Kathmandu,0,0,0,South West,385.0,32513.75,10.0, Gravelled
+1493, Maharajgunj,Kathmandu,0,0,0,North,295.0,2395.75,20.0, Blacktopped
+1494, Basundhara,Kathmandu,2,3,0,North,313.0,1711.25,14.0, Blacktopped
+1495, Budhanilkantha,Kathmandu,0,0,0,South,275.0,4107.0,15.0, Gravelled
+1496, Bhangal,Kathmandu,4,3,1,South,261.0,1369.0,26.0, Paved
+1497, Basundhara,Kathmandu,3,3,5,West,408.0,27380.0,20.0, Blacktopped
+1498, Bhaswar Marg,Biratnagar,0,0,0,East,521.0,3098.25,20.0, Gravelled
+1499, Budhanilkantha,Kathmandu,0,0,0,South East,465.0,243682.0,14.0, Gravelled
+1500, Nagarjun,Kathmandu,0,0,0,South,250.0,1369.0,10.0, Gravelled
+1501, Godawari,Lalitpur,0,0,0,North,334.0,273800.0,20.0, Gravelled
+1502, Sallaghari,Bhaktapur,0,0,0,South,397.0,2395.75,18.0,
+1503, Tilottama,Rupandehi,0,0,0,West,367.0,1369.0,20.0, Blacktopped
+1504, Pasikot,Kathmandu,0,0,0,West,574.0,1369.0,16.0,
+1505, Hattigauda,Kathmandu,0,0,0,South,389.0,2053.5,20.0,
+1506, Dharan,Dharan,0,0,0,North,921.0,2916.0,15.0, Blacktopped
+1507, Dharan,Dharan,0,0,0,West,312.0,1822.5,15.0, Soil Stabilized
+1508, Tarahara,Sunsari,0,0,0,North,323.0,2733.75,15.0, Blacktopped
+1509, Kalanki,Kathmandu,0,0,0,South,198.0,1369.0,15.0, Blacktopped
+1510, Lagankhel,Lalitpur,0,0,0,South,208.0,1369.0,20.0, Blacktopped
+1511, Chovar,Kathmandu,0,0,0,North,323.0,21904.0,20.0, Blacktopped
+1512, Balkot,Bhaktapur,2,1,1,East,549.0,2395.75,13.0, Gravelled
+1513, Hattigauda,Kathmandu,0,0,0,South,380.0,1026.75,13.0,
+1514, Chovar,Kathmandu,3,3,1,North,425.0,2053.5,20.0, Blacktopped
+1515, Sallaghari,Bhaktapur,0,0,0,East,340.0,15401.25,15.0, Soil Stabilized
+1516, Narayan Chowk,Kathmandu,0,0,0,North,281.0,1369.0,0.0,
+1517, Machha Pokhari,Kathmandu,2,1,4,West,236.0,239575.0,15.0, Blacktopped
+1518, Nawalparasi,Nawalparasi,0,0,0,North,541.0,18225.0,30.0, Blacktopped
+1519, Near BNB Hospital,Lalitpur,3,2,2,West,653.0,1369.0,15.0, Blacktopped
+1520, Ranibari,Kathmandu,2,1,2,East,505.0,1369.0,15.0, Gravelled
+1521, Sanobharyang,Kathmandu,0,0,0,East,295.0,3764.75,20.0, Blacktopped
+1522, Nijghadh,Bara,0,0,0,North,3400.0,7290.0,20.0, Soil Stabilized
+1523, Dhulikhel,Kavre,11,2,2,South,352.0,1369.0,10.0, Gravelled
+1524, Pasikot,Kathmandu,2,1,0,East,529.0,2354680.0,12.0, Soil Stabilized
+1525, Basbari,Kathmandu,4,0,2,South,441.0,240259.5,20.0, Paved
+1526, Budhanilkantha,Kathmandu,4,6,0,South,635.0,2395.75,20.0,
+1527, Gwarko,Lalitpur,0,0,0,South,182.0,1369.0,15.0, Blacktopped
+1528, Baluwatar,Kathmandu,4,3,3,North,333.0,4107.0,13.0,
+1529, Kupondole,Lalitpur,0,0,0,North,244.0,1369.0,15.0, Blacktopped
+1530, Kavresthali,Kathmandu,0,0,0,North,262.0,85562.5,15.0, Soil Stabilized
+1531, Dallu,Kathmandu,8,4,1,West,457.0,106782.0,20.0, Blacktopped
+1532, Sundarbasti,Kathmandu,7,0,0,North,627.0,106097.5,15.0, Gravelled
+1533, Golfutar,Kathmandu,5,3,0,South West,437.0,1369.0,15.0, Blacktopped
+1534, Ganesh Chowk,Kathmandu,0,0,0,North,260.0,2250636.0,14.0, Gravelled
+1535, Chapali,Kathmandu,0,0,0,West,294.0,116638800.0,16.0,
+1536, Lalitpur,Lalitpur,0,0,0,South West,301.0,3833200.0,32.0, Blacktopped
+1537, Makalu Petrol Pump,Kathmandu,7,5,3,North East,14200.0,7184512.0,15.0, Blacktopped
+1538, Lalitpur,Lalitpur,0,0,0,East,472.0,109520.0,12.0, Gravelled
+1539, (North of Narayanhiti Sangrahalaya),Kathmandu,5,4,4,South West,511.0,8556.25,16.0, Blacktopped
+1540, Bafal,Kathmandu,0,0,0,East,340.0,2299920.0,10.0, Soil Stabilized
+1541, Teku,Kathmandu,0,0,0,East,227.0,2316348.0,29.52756, Blacktopped
+1542, Baneshwor,Kathmandu,0,0,0,North,242.0,1369.0,15.0, Blacktopped
+1543, Budhanilkantha,Kathmandu,0,0,0,West,287.0,3422.5,15.0, Soil Stabilized
+1544, Mandikatar,Kathmandu,0,0,0,South,464.0,2738.0,15.0, Blacktopped
+1545, Kailali,Kailali,0,0,0,East,396.0,2187.0,33.0, Blacktopped
+1546, Balaju,Kathmandu,0,0,0,East,393.0,27380000.0,29.52756, Blacktopped
+1547, Muhanpokhari,Kathmandu,0,0,0,North East,1300.0,172151.75,20.0, Gravelled
+1548, Kathmandu,Kathmandu,0,0,0,East,271.0,1026.75,12.0, Blacktopped
+1549, Balkot,Bhaktapur,0,0,0,East,457.0,144087.25,13.0, Gravelled
+1550, Bhaktapur,Bhaktapur,0,0,0,South,572.0,212195.0,20.0, Blacktopped
+1551, Basundhara,Kathmandu,0,0,0,East,439.0,11978.75,12.0,
+1552, Mahendrapul,Pokhara,0,0,0,East,509.0,22246.25,20.0, Gravelled
+1553, Balkhu,Kathmandu,0,0,0,East,457.0,1369.0,12.0, Blacktopped
+1554, godawari,Lalitpur,0,0,0,East,383.0,2327300.0,13.0, Gravelled
+1555, Milan Chowk-8,Pokhara,0,0,0,East,1200.0,44903200.0,14.0, Soil Stabilized
+1556, Patandokha,Lalitpur,0,0,0,South,631.0,1369.0,20.0, Blacktopped
+1557, Basundhara,Kathmandu,0,0,0,East,508.0,2053.5,12.0,
+1558, Tokha,Kathmandu,4,2,0,West,430.0,106097.5,13.0,
+1559, Samakhusi,Kathmandu,0,0,0,West,264.0,2738.0,13.0,
+1560, Jagati,Bhaktapur,0,0,0,South,288.0,1026.75,15.0, Soil Stabilized
+1561, Lalitpur -5,Lalitpur,0,0,0,South West,348.0,553076.0,12.0, Gravelled
+1562, Pulchowk,Lalitpur,0,0,0,North,181.0,1369.0,15.0, Blacktopped
+1563, Dhapasi,Kathmandu,0,0,0,North East,1200.0,11978.75,13.0,
+1564, Archale Village,Pokhara,0,0,0,South East,290.0,3422.5,12.0, Soil Stabilized
+1565, Hadigaun,Kathmandu,0,0,0,South,523.0,1369.0,13.0, Blacktopped
+1566, Chundevi,Kathmandu,0,0,0,South East,328.0,3422.5,13.0,
+1567, Baluwatar,Kathmandu,0,0,0,East,518.0,1369.0,13.0, Gravelled
+1568, Radha Bhawan,Kathmandu,0,1,2,North West,376.0,1369.0,36.0,
+1569, Balaju,Kathmandu,0,0,0,North East,258.0,102675.0,10.0, Paved
+1570, Gongabu,Kathmandu,0,0,0,South East,297.0,308025.0,9.0, Blacktopped
+1571, Kapan,Kathmandu,2,1,0,South,514.0,1711.25,11.0,
+1572, Musiam,Kathmandu,6,3,0,North,483.0,113284.75,11.0, Blacktopped
+1573, Maharajgunj,Kathmandu,13,0,0,South East,508.0,4449.25,14.0, Gravelled
+1574, Baniyatar,Kathmandu,6,3,0,South,468.0,10609.75,10.0, Blacktopped
+1575, Tokha,Kathmandu,6,4,3,West,313.0,25668.75,15.0, Blacktopped
+1576, Budhanilkantha,Kathmandu,0,0,0,North,363.0,18823.75,13.0, Paved
+1577, Khusibu,Kathmandu,0,0,0,North,406.0,2395.75,20.0, Blacktopped
+1578, Hattigauda,Kathmandu,0,0,0,South East,220.0,2395.75,15.0, Soil Stabilized
+1579, Hattigauda,Kathmandu,0,0,0,North,276.0,56471.25,15.0, Soil Stabilized
+1580, Dadikot,Bhaktapur,0,0,0,West,260.0,10952.0,13.0, Soil Stabilized
+1581, Mulpani,Kathmandu,0,0,0,West,290.0,7529.5,19.68504, Concrete
+1582, Tokha,Kathmandu,6,5,3,South East,403.0,2738.0,12.0, Gravelled
+1583, Bhaktapur,Bhaktapur,9,1,1,West,633.0,205350.0,20.0,
+1584, Durbar Marg,Kathmandu,0,0,0,East,486.0,1369.0,20.0, Blacktopped
+1585, Itahari,Sunsari,3,1,0,North,905.0,1093.5,15.0, Soil Stabilized
+1586, Chandol,Kathmandu,0,0,0,South,399.0,479150.0,14.0, Blacktopped
+1587, Chandol,Kathmandu,4,3,2,East,556.0,109520.0,13.12336, Soil Stabilized
+1588, Maharajgunj,Kathmandu,18,6,0,East,346.0,273800.0,29.52756, Soil Stabilized
+1589,Lalitpur,Lalitpur,0,0,0,South,511.0,1369.0,12.0,
+1590, Chitrawan,Chitwan,0,0,0,West,595.0,3645.0,29.52756, Blacktopped
+1591, Baluwatar,Kathmandu,0,0,0,North,643.0,4449.25,10.0, Gravelled
+1592, Taadi,Chitwan,0,0,0,East,267.0,3645.0,20.0,
+1593, Bharatpur,Chitwan,15,6,10,North,363.0,1822.5,20.0, Blacktopped
+1594, Baluwatar,Kathmandu,0,0,1,East,1000.0,1711.25,20.0, Blacktopped
+1595, Baniyatar,Kathmandu,9,4,0,East,342.0,1711.25,10.0, Blacktopped
+1596, Jorpati,Kathmandu,0,0,1,East,444.0,8556.25,10.0,
+1597, Baniyatar,Kathmandu,10,3,0,North,265.0,1369.0,16.0, Blacktopped
+1598, Nakkhu,Lalitpur,4,4,0,North West,755.0,14374.5,14.0, Gravelled
+1599, Lalitpur,Lalitpur,12,4,4,South East,303.0,1369.0,0.0,
+1600, Lekhnath,Pokhara,0,0,0,East,382.0,178654.5,20.0,
+1601, Basundhara,Kathmandu,1,1,1,East,412.0,174547.5,7.0,
+1602, Radhamarga,Kathmandu,0,0,0,East,646.0,1369.0,0.0,
+1603, Kirtipur,Kathmandu,0,0,0,East,257.0,9583.0,20.0, Gravelled
+1604, Imadol,Lalitpur,5,3,0,South,635.0,11978.75,13.0, Blacktopped
+1605, Ason,Kathmandu,0,0,3,West,352.0,684.5,20.0, Blacktopped
+1606, Baluwa Gaabisa,Kathmandu,0,0,0,West,375.0,1369.0,13.0, Soil Stabilized
+1607, Lubhu,Lalitpur,0,0,0,North,300.0,27380.0,20.0,
+1608, Hadigaun,Kathmandu,0,0,0,West,323.0,1026.75,13.0,
+1609, Sukedhara,Kathmandu,10,0,0,East,473.0,17454.75,14.0, Blacktopped
+1610, Hattigauda,Kathmandu,0,0,0,South,346.0,3080.25,15.0, Soil Stabilized
+1611, Sukedhara,Kathmandu,0,0,0,North,351.0,1369.0,13.0, Gravelled
+1612, Joranku,Kathmandu,0,0,0,East,208.0,1369.0,10.0, Gravelled
+1613, Lalitpur,Lalitpur,0,0,0,East,414.0,205350.0,20.0,
+1614, Tokha,Kathmandu,0,0,0,West,309.0,14032.25,15.0, Blacktopped
+1615, Sunsite,Kathmandu,0,0,0,West,216.0,1369.0,15.0, Blacktopped
+1616, Satungal,Kathmandu,4,0,0,South,595.0,1369.0,15.0, Soil Stabilized
+1617, Kapan,Kathmandu,0,0,0,West,329.0,1026.75,13.0, Blacktopped
+1618, Budhanilkantha,Kathmandu,4,3,0,West,399.0,1369.0,15.0, Blacktopped
+1619, next to NMB Bank,Kathmandu,0,0,0,North,372.0,212195.0,20.0,
+1620, Budhanilkantha,Kathmandu,5,4,0,South West,2900.0,18823.75,20.0,
+1621, Cancer Hospital,Lalitpur,0,0,0,North,885.0,1369.0,15.0, Blacktopped
+1622, Suryabinayak,Bhaktapur,0,0,0,East,306.0,137584.5,31.0,
+1623, Kalimati,Kathmandu,0,0,0,West,214.0,1369.0,15.0, Blacktopped
+1624, Tokha,Kathmandu,0,0,3,East,242.0,3080.25,13.0,
+1625, Kathmandu,Kathmandu,0,0,0,West,354.0,20877.25,20.0, Paved
+1626, Kalimati,Kathmandu,0,0,0,East,430.0,112942.5,0.0,
+1627, Sukedhara,Kathmandu,3,2,0,South West,1100.0,10609.75,24.0, Blacktopped
+1628, Thapathali,Kathmandu,0,0,0,East,282.0,42781.25,18.0, Gravelled
+1629, Basundhara,Kathmandu,4,3,0,North West,335.0,18823.75,16.0, Gravelled
+1630, Bhaisepati,Lalitpur,5,5,0,North,641.0,22246.25,16.0, Gravelled
+1631, Hattigauda,Kathmandu,5,4,0,South,301.0,1711.25,15.0, Gravelled
+1632, Golfutar,Kathmandu,5,0,0,North East,1500.0,140664.75,12.0, Gravelled
+1633, Basundhara,Kathmandu,5,3,0,East,3400.0,14716.75,12.0, Blacktopped
+1634, Hattigauda,Kathmandu,0,0,0,West,276.0,6160.5,15.0, Soil Stabilized
+1635, Nagdhunga,Kathmandu,4,2,0,West,460.0,10952.0,15.0, Soil Stabilized
+1636, Dakshinkali,Kathmandu,0,0,0,East,341.0,5476.0,0.0,
+1637, Sitapaila,Kathmandu,6,4,0,North,636.0,1711.25,13.0, Blacktopped
+1638, Thankot,Kathmandu,5,2,0,South,344.0,1369.0,16.0, Blacktopped
+1639, Chabahil,Kathmandu,1,1,1,West,458.0,1369.0,16.0,
+1640, Sanepa,Lalitpur,2,1,1,East,586.0,0.0,20.0, Blacktopped
+1641, Kupondole,Lalitpur,0,1,10,East,195.0,1369.0,14.0, Paved
+1642, Syuchatar,Kathmandu,0,0,0,South,413.0,6845.0,16.0, Blacktopped
+1643, Machha Pokhari,Kathmandu,0,0,0,North,211.0,1369.0,13.0, Blacktopped
+1644, Rangasala,Kathmandu,3,1,0,West,608.0,8556.25,10.0, Soil Stabilized
+1645, Swayambhu,Kathmandu,0,0,0,South,639.0,14716.75,13.0, Soil Stabilized
+1646, dakshinkali-1,Kathmandu,0,0,0,East,230.0,4107.0,14.0,
+1647, Kadaghari,Kathmandu,3,1,1,North East,496.0,1026.75,13.0, Gravelled
+1648, Mulpani,Kathmandu,2,1,3,West,459.0,1369.0,8.0, Soil Stabilized
+1649, Samakhusi,Kathmandu,2,1,1,South,350.0,684.5,10.0, Soil Stabilized
+1650, Sankhamul,Kathmandu,0,0,0,East,4000.0,15401.25,13.0,
+1651, Maharajgunj,Kathmandu,7,5,8,East,828.0,5133.75,12.0, Blacktopped
+1652, Bharatpur,Chitwan,0,0,0,West,493.0,3645.0,29.52756, Blacktopped
+1653, Gatthaghar,Bhaktapur,0,0,0,North,232.0,1369.0,13.0, Blacktopped
+1654, Imadol,Lalitpur,2,1,4,East,531.0,11978.75,20.0, Gravelled
+1655, Jorpati,Kathmandu,0,0,0,South,194.0,1369.0,15.0, Blacktopped
+1656, Koteshwor,Kathmandu,0,0,0,North,174.0,1369.0,13.0, Blacktopped
+1657, Budhanilkantha,Kathmandu,0,0,0,East,1400.0,143745.0,20.0, Gravelled
+1658, Budhanilkantha,Kathmandu,0,0,0,North East,282.0,147852.0,13.0, Paved
+1659, Kumaripati,Lalitpur,0,0,0,South,258.0,1369.0,72.17848, Soil Stabilized
+1660, Thecho,Lalitpur,0,0,0,South,283.0,2395.75,23.0,
+1661, Samakhusi,Kathmandu,0,0,0,East,307.0,1369.0,13.0,
+1662, Sitapaila,Kathmandu,0,0,0,East,405.0,277222.5,12.0, Paved
+1663, Lazimpat,Kathmandu,0,0,0,South East,550.0,2053.5,10.0,
+1664, Budhanilkantha,Kathmandu,2,1,2,West,630.0,10952.0,12.0, Gravelled
+1665, Manamaiju,Kathmandu,0,0,0,West,420.0,18823.75,13.0,
+1666, Gongabu,Kathmandu,0,0,1,East,517.0,111231.25,10.0,
+1667, Gongabu,Kathmandu,0,0,0,North West,197.0,1711.25,15.0,
+1668, Dhungedhara,Kathmandu,0,0,0,South,2300.0,1369.0,12.0,
+1669, Chandol,Kathmandu,0,0,0,South East,354.0,684.5,20.0,
+1670, Kapan,Kathmandu,0,0,0,South,346.0,616734.5,20.0,
+1671, Budhanilkantha,Kathmandu,0,0,1,South East,520.0,1369.0,13.0,
+1672, Near to Ward 11 office,Pokhara,0,0,0,South,515.0,1711.25,15.0, Blacktopped
+1673, Lekhnath,Pokhara,9,10,3,North,439.0,136900.0,20.0, Gravelled
+1674, Balaju,Kathmandu,0,0,0,West,310.0,315212.25,16.0,
+1675, Jorpati,Kathmandu,9,4,0,East,295.0,1026.75,36.08924,
+1676, Bhaktapur,Bhaktapur,0,0,0,South,515.0,136900.0,13.0, Gravelled
+1677, Bharatpur,Chitwan,0,0,0,North,780.0,14580.0,10.0, Soil Stabilized
+1678, Gokarneshwor,Kathmandu,0,0,0,West,261.0,5492428.0,32.0, Soil Stabilized
+1679, Nayapati Gumba,Kathmandu,0,0,0,North,435.0,17797.0,20.0, Soil Stabilized
+1680, Nakhipot,Lalitpur,0,0,0,South,694.0,1369.0,10.0, Gravelled
+1681, Jorpati,Kathmandu,0,0,0,North,281.0,14374.5,13.0, Soil Stabilized
+1682, Jorpati,Kathmandu,0,0,0,South,382.0,1369.0,13.0, Gravelled
+1683, Budhanilkantha,Kathmandu,10,3,2,South,1300.0,140322.5,13.0, Blacktopped
+1684, Thali,Kathmandu,0,0,0,South,219.0,1369.0,13.0, Soil Stabilized
+1685, Balkhu,Kathmandu,4,3,0,West,819.0,1369.0,20.0,
+1686, Jorpati,Kathmandu,9,3,0,South West,614.0,1026.75,10.0, Gravelled
+1687, Panchkanyaa School,Kathmandu,0,0,0,North,328.0,1369.0,13.0, Soil Stabilized
+1688, Manakamana Mandir,Kathmandu,0,0,0,North,261.0,1369.0,12.0, Gravelled
+1689, Lele,Lalitpur,0,0,0,South East,288.0,12663.25,15.0, Soil Stabilized
+1690, Budhanilkantha,Kathmandu,5,4,2,South East,4000.0,174547.5,13.0, Blacktopped
+1691, Pokhara,Pokhara,0,0,0,North,390.0,27380.0,0.0,
+1692, Chauthe,Pokhara,0,0,0,North,329.0,10952.0,0.0,
+1693, Pokhara,Pokhara,0,0,0,North East,453.0,6845.0,20.0, Gravelled
+1694, Dhampus,Kaski,0,0,0,East,438.0,7529.5,20.0, Soil Stabilized
+1695, Dhapakhel,Lalitpur,6,5,5,South West,303.0,3764.75,0.0, Blacktopped
+1696, Kupondole,Lalitpur,3,2,4,East,644.0,15401.25,25.0, Blacktopped
+1697, Budhanilkantha,Kathmandu,0,0,0,East,387.0,28406.75,40.0, Blacktopped
+1698, Thaiba,Lalitpur,0,0,0,South,300.0,1369.0,20.0, Soil Stabilized
+1699, Hetauda,Makwanpur,0,0,0,East,382.0,1822.5,11.48294,
+1700, Chandragiri,Kathmandu,0,0,0,North East,1300.0,1369.0,20.0,
+1701, Dhapasi,Kathmandu,4,3,0,East,553.0,10609.75,13.0, Blacktopped
+1702, Budhanilkantha,Kathmandu,0,0,0,South East,271.0,59893.75,20.0,
+1703, Budhanilkantha,Kathmandu,3,3,0,South,427.0,10952.0,13.0, Blacktopped
+1704, Nagarkot,Bhaktapur,0,0,0,South,263.0,18823.75,20.0, Blacktopped
+1705, Budhanilkantha,Kathmandu,10,10,30,East,706.0,76664.0,26.24672,
+1706, Mandikatar,Kathmandu,4,4,0,West,290.0,10952.0,13.0,
+1707, Madhyapur Thimi,Bhaktapur,0,0,0,West,214.0,1369.0,15.0, Blacktopped
+1708, Kausaltar,Bhaktapur,10,0,0,East,479.0,11978.75,20.0, Soil Stabilized
+1709, Vens School,Kathmandu,0,0,0,South,286.0,11978.75,10.0, Gravelled
+1710, Balaju,Kathmandu,0,0,0,West,274.0,315212.25,16.0, Blacktopped
+1711, Hanuman Chowk,Kathmandu,0,0,0,South,183.0,11636.5,15.0, Soil Stabilized
+1712, Bhaktapur,Bhaktapur,0,0,0,North East,344.0,5133.75,12.0, Soil Stabilized
+1713, Chandragiri,Kathmandu,0,0,0,North,256.0,4791.5,8.0, Soil Stabilized
+1714, Kamalpokhari,Kathmandu,2,3,0,North East,586.0,1369.0,0.0,
+1715, Mahalaxmi Nagarpalika,Lalitpur,0,0,0,South,280.0,1369.0,13.0, Soil Stabilized
+1716, Chandol,Kathmandu,3,4,0,North East,1300.0,1369.0,20.0,
+1717, Panipokhari,Kathmandu,3,3,0,South East,727.0,1369.0,36.08924,
+1718, Swayambhu,Kathmandu,3,3,0,East,596.0,1369.0,0.0,
+1719, Minbhawan,Kathmandu,0,0,0,North,262.0,1711.25,20.0, Blacktopped
+1720, Naya Bazar,Kathmandu,0,0,0,South West,291.0,4107.0,12.0,
+1721, Gokarneshwor,Kathmandu,0,0,0,West,393.0,301180.0,20.0,
+1722, Pasikot,Kathmandu,0,0,0,South West,229.0,4107.0,13.0,
+1723, Mahalaxmisthan,Lalitpur,0,0,0,South,344.0,4107.0,26.0,
+1724, Lele,Lalitpur,0,0,0,East,396.0,49284.0,20.0,
+1725, Bhaisepati,Lalitpur,0,0,0,North,509.0,1711.25,13.0, Soil Stabilized
+1726, Chovar,Kathmandu,0,0,0,South East,499.0,10952.0,13.0,
+1727, Godawari,Lalitpur,0,0,0,East,318.0,21904.0,20.0,
+1728, Maligaon,Kathmandu,5,6,0,North West,2000.0,4107.0,13.0,
+1729, Makalbari,Kathmandu,6,4,0,South,303.0,22246.25,13.0,
+1730, Chabahil,Kathmandu,0,0,0,North,360.0,1369.0,13.0, Blacktopped
+1731, Sitapaila,Kathmandu,4,3,0,South,441.0,178654.5,20.0,
+1732, Jhamsikhel,Lalitpur,5,4,0,South,705.0,1026.75,20.0,
+1733, Bhaisepati,Lalitpur,5,5,4,South West,1100.0,3422.5,13.0,
+1734, Dhapasi,Kathmandu,3,3,0,East,2600.0,1369.0,20.0,
+1735, Hattigauda,Kathmandu,6,7,4,South East,814.0,504818.75,13.0,
+1736, Imadol,Lalitpur,7,4,0,South West,280.0,11294.25,13.0,
+1737, Khumaltar,Lalitpur,5,5,0,South,372.0,3422.5,20.0,
+1738, Pokhara,Pokhara,5,8,0,East,1700.0,10952.0,26.24672,
+1739, Thamel,Kathmandu,0,0,0,South East,229.0,1369.0,0.0,
+1740, Thulo Bharyang,Kathmandu,5,2,0,West,274.0,11978.75,12.0, Gravelled
+1741, Basundhara,Kathmandu,9,0,0,South East,316.0,11978.75,12.0, Gravelled
+1742, Raniban,Kathmandu,7,3,0,East,353.0,2053.5,14.0, Soil Stabilized
+1743, Kapan,Kathmandu,0,0,0,North,166.0,1369.0,0.0,
+1744, Sankhamul,Kathmandu,0,0,0,North,213.0,1369.0,0.0,
+1745, Baneshwor,Kathmandu,0,0,0,West,408.0,1711.25,0.0,
+1746, Dhungedhara,Kathmandu,0,0,0,South East,219.0,1369.0,0.0,
+1747, Nakhipot,Lalitpur,0,0,0,North,551.0,10952.0,0.0,
+1748, Budhanilkantha,Kathmandu,6,4,3,West,305.0,15401.25,13.0, Soil Stabilized
+1749, Sitapaila,Kathmandu,4,4,0,North,802.0,10609.75,0.0,
+1750, Imadol,Lalitpur,0,0,0,South,190.0,1369.0,0.0,
+1751, Jorpati,Kathmandu,0,0,0,South,288.0,1369.0,0.0,
+1752, Samakhusi,Kathmandu,5,2,2,North,1100.0,106439.75,0.0,
+1753, Taukhel,Lalitpur,0,0,0,South West,213.0,1369.0,0.0,
+1754, Gongabu,Kathmandu,0,0,0,North,449.0,11978.75,0.0,
+1755, Samakhusi,Kathmandu,10,0,0,South,266.0,14374.5,19.68504,
+1756, Gaushala,Kathmandu,0,0,0,North,207.0,1369.0,0.0,
+1757, Nayabasti,Kathmandu,0,0,0,North,236.0,1369.0,0.0,
+1758, Naya Bazar,Kathmandu,0,0,0,East,169.0,1369.0,0.0,
+1759, Samakhusi,Kathmandu,0,0,0,East,189.0,1369.0,0.0,
+1760, Basundhara,Kathmandu,0,0,0,North,224.0,9418720.0,12.0,
+1761, Kirtipur,Kathmandu,0,0,0,North West,266.0,2053.5,22.0,
+1762, Jamal,Kathmandu,0,0,0,North,369.0,1369.0,42.0, Blacktopped
+1763, Bode,Bhaktapur,0,0,0,North,247.0,353202.0,20.0,
+1764, Kalanki,Kathmandu,0,0,0,South,221.0,1711.25,20.0,
+1765, Parsa,Chitwan,0,0,0,East,232.0,4045950.0,10.0, Soil Stabilized
+1766, Kapan,Kathmandu,0,0,0,East,207.0,1369.0,0.0,
+1767, Jorpati,Kathmandu,0,0,0,South,240.0,1369.0,0.0,
+1768, Nepaltar,Kathmandu,0,0,0,East,193.0,1369.0,0.0,
+1769, Maitidevi,Kathmandu,0,0,0,North,228.0,1369.0,0.0,
+1770, Sanobharyang,Kathmandu,3,2,0,West,703.0,1369.0,0.0,
+1771, Balaju,Kathmandu,0,0,0,North,198.0,1369.0,0.0,
+1772, Kumaripati,Lalitpur,0,0,0,West,220.0,1369.0,0.0,
+1773, Koteshwor,Kathmandu,0,0,0,North East,189.0,1369.0,0.0,
+1774, Chandragiri,Kathmandu,0,0,0,South,190.0,1369.0,0.0,
+1775, Ekantakuna,Lalitpur,0,0,0,South East,169.0,1369.0,0.0,
+1776, Samakhusi,Kathmandu,0,0,0,South,239.0,1369.0,0.0,
+1777, Koteshwor,Kathmandu,0,0,0,North,207.0,5476.0,0.0,
+1778, Kalanki,Kathmandu,0,0,0,North,198.0,1369.0,0.0,
+1779, Kalopul,Kathmandu,0,0,0,South East,236.0,1369.0,0.0,
+1780, Pepsicola,Kathmandu,0,0,0,South East,203.0,1369.0,0.0,
+1781, Sukedhara,Kathmandu,5,4,4,South,3900.0,5133.75,13.0, Gravelled
+1782, Godawari,Lalitpur,0,0,0,South West,294.0,1711.25,20.0,
+1783, Kadaghari,Kathmandu,0,0,0,South East,322.0,1026.75,20.0,
+1784, Old Baneshwor,Kathmandu,0,0,0,South,317.0,1369.0,0.0,
+1785, Lubhu,Lalitpur,0,0,0,South West,512.0,137926.75,26.24672, Gravelled
+1786, Mahendrapul,Pokhara,0,0,0,East,266.0,1369.0,20.0,
+1787, Sukedhara,Kathmandu,0,0,0,North,1800.0,1369.0,0.0,
+1788, Thamel,Kathmandu,2,1,0,South,386.0,1369.0,0.0,
+1789, Sinamangal,Kathmandu,0,0,0,South East,296.0,5476.0,0.0,
+1790, Dhobighat,Lalitpur,2,2,0,South,438.0,1369.0,0.0,
+1791, Lazimpat,Kathmandu,3,1,0,South West,628.0,1369.0,0.0,
+1792, Narephate,Kathmandu,0,0,0,North,263.0,2395.75,20.0,
+1793, Bharatpur,Chitwan,0,0,0,South,1000.0,1458.0,14.0,
+1794, Balambu,Kathmandu,7,5,0,South East,389.0,1711.25,14.0, Gravelled
+1795, Chandol,Kathmandu,0,0,0,East,271.0,177970.0,24.0,
+1796, Bhaisepati,Lalitpur,4,4,1,South,5000.0,280645.0,16.0, Concrete
+1797, Khumaltar,Lalitpur,6,5,0,South West,719.0,1369.0,13.0,
+1798, Pulchowk,Lalitpur,2,1,0,North,437.0,1369.0,13.0, Gravelled
+1799, Chundevi,Kathmandu,8,3,1,South West,385.0,1369.0,14.0, Gravelled
+1800, Ekantakuna,Lalitpur,5,3,0,West,418.0,106782.0,22.0, Blacktopped
+1801, Satdobato,Lalitpur,2,1,0,South East,341.0,2053.5,13.0, Soil Stabilized
+1802, Dhapakhel,Lalitpur,0,0,0,South West,854.0,143745.0,10.0,
+1803, Lokanthali,Bhaktapur,0,0,0,South West,333.0,1711.25,10.0,
+1804, Mulpani,Kathmandu,4,4,0,North East,551.0,11978.75,19.68504,
+1805, Old Baneshwor,Kathmandu,3,3,1,South East,434.0,2738.0,12.0,
+1806, Dhobighat,Lalitpur,4,4,3,South East,356.0,15332800.0,15.0,
+1807, Baluwatar,Kathmandu,11,4,4,South East,406.0,5476.0,12.0,
+1808, Jhamsikhel,Lalitpur,5,3,4,South,403.0,6845.0,15.0,
+1809, Sitapaila,Kathmandu,4,4,0,South,293.0,1369.0,15.0,
+1810, Budhanilkantha,Kathmandu,5,4,4,South East,310.0,5476.0,13.0,
+1811, Bhaisepati,Lalitpur,5,3,3,South,315.0,1369.0,15.0,
+1812, Budhanilkantha,Kathmandu,0,0,0,East,348.0,2053.5,20.0, Gravelled
+1813, Dhobighat,Lalitpur,4,2,2,East,385.0,2738.0,20.0,
+1814, Samakhusi,Kathmandu,0,0,0,South West,302.0,3422.5,10.0, Concrete
+1815, Kapan,Kathmandu,0,0,0,East,592.0,14374.5,12.0, Gravelled
+1816, Dhobighat,Lalitpur,7,5,5,South East,273.0,1369.0,13.0,
+1817, Tokha,Kathmandu,0,0,0,East,697.0,216302.0,13.0, Gravelled
+1818, Maharajgunj,Kathmandu,5,2,0,South East,517.0,2738.0,15.0,
+1819, Nakkhu,Lalitpur,6,4,0,East,305.0,109520.0,13.0,
+1820, Budhanilkantha,Kathmandu,0,0,0,East,480.0,2738.0,20.0, Gravelled
+1821, Nakhipot,Lalitpur,0,0,0,South,330.0,2738.0,13.0,
+1822, Budhanilkantha,Kathmandu,4,3,0,West,295.0,1369.0,13.12336, Blacktopped
+1823, Budhanilkantha,Kathmandu,0,0,0,South East,481.0,3764.75,13.0, Soil Stabilized
+1824, Kumaripati,Lalitpur,4,3,2,South East,335.0,1369.0,13.0,
+1825, Budhanilkantha,Kathmandu,0,0,0,South East,366.0,14374.5,20.0, Soil Stabilized
+1826, Sanepa,Lalitpur,3,4,0,South West,326.0,2738.0,0.0,
+1827, Jhapa,Jhapa,0,0,0,North,305.0,61965.0,20.0, Gravelled
+1828, Bhaisepati,Lalitpur,5,2,0,South West,300.0,109520.0,13.0,
+1829, Maharajgunj,Kathmandu,0,0,0,South,299.0,1369.0,20.0, Soil Stabilized
+1830, Baluwatar,Kathmandu,5,5,0,South East,466.0,2395.75,15.0,
+1831, Godawari,Lalitpur,0,0,0,South East,314.0,6631436.0,20.0, Gravelled
+1832, Bhairav,Kathmandu,0,0,5,South,298.0,5476.0,20.0, Blacktopped
+1833, Bhaisepati,Lalitpur,5,5,0,South East,268.0,177970.0,15.0,
+1834, Budhanilkantha,Kathmandu,0,0,4,West,258.0,2738.0,16.0, Gravelled
+1835, Patan,Lalitpur,0,0,0,North,461.0,6845.0,13.0, Blacktopped
+1836, Kupondole,Lalitpur,6,6,10,South West,448.0,10952.0,20.0,
+1837, Bhaisepati,Lalitpur,5,4,2,South East,817.0,4449.25,13.0,
+1838, Dhobighat,Lalitpur,0,0,0,South,290.0,5133.75,15.0,
+1839, Nakhipot,Lalitpur,7,4,0,West,423.0,5476.0,13.0,
+1840, Baluwatar,Kathmandu,8,4,5,South West,371.0,5530760.0,13.0,
+1841, Bajha Patan,Pokhara,0,0,0,North,335.0,1369.0,19.68504, Blacktopped
+1842, Baluwatar,Kathmandu,3,3,0,South East,710.0,1369.0,0.0,
+1843, Bishal Nagar,Kathmandu,4,4,0,North East,416.0,1369.0,0.0,
+1844, Bishal Nagar,Kathmandu,4,4,0,North East,602.0,1369.0,0.0,
+1845, Kamalpokhari,Kathmandu,3,3,0,South East,591.0,1369.0,0.0,
+1846, Sankhu,Kathmandu,0,0,0,South,392.0,16428.0,20.0, Soil Stabilized
+1847, Chandol,Kathmandu,0,0,0,South,235.0,7187.25,18.0,
+1848, Jorpati,Kathmandu,0,0,0,South,377.0,1026.75,13.0, Gravelled
+1849, Gopikrishna flim hall,Kathmandu,0,0,0,South,560.0,75637.25,10.0, Soil Stabilized
+1850, Chandol,Kathmandu,0,0,0,South East,253.0,6845.0,13.0,
+1851, Silvershine School,Kathmandu,0,0,0,South,294.0,1026.75,32.0, Soil Stabilized
+1852, Baluwatar,Kathmandu,0,0,0,East,399.0,2738.0,15.0,
+1853, Jorpati,Kathmandu,4,0,0,East,623.0,10952.0,12.0, Soil Stabilized
+1854, Changunarayan,Bhaktapur,0,0,0,South,288.0,1026.75,13.0, Soil Stabilized
+1855, Maharajgunj,Kathmandu,0,0,0,South East,4100.0,191660.0,13.0,
+1856, Chovar,Kathmandu,0,0,0,East,353.0,113284.75,20.0,
+1857, Budhanilkantha,Kathmandu,0,0,0,South,215.0,14374.5,12.0, Soil Stabilized
+1858, Bhaktapur,Bhaktapur,0,0,0,South East,289.0,4791.5,20.0, Soil Stabilized
+1859, Tikathali,Lalitpur,10,0,4,East,383.0,10609.75,10.0,
+1860, Maharajgunj,Kathmandu,3,4,0,North East,608.0,1369.0,13.0,
+1861, Lazimpat,Kathmandu,2,3,0,North East,653.0,1369.0,0.0,
+1862, Kapan,Kathmandu,0,0,0,South,370.0,1369.0,8.0, Soil Stabilized
+1863, Bhangal,Kathmandu,0,0,0,South East,252.0,3080.25,16.0, Blacktopped
+1864, Sankhu,Kathmandu,0,0,0,East,222.0,1369.0,10.0, Soil Stabilized
+1865, Ram Bazar,Pokhara,0,0,0,South East,329.0,1369.0,15.0,
+1866, Kapan,Kathmandu,7,0,4,South,312.0,1369.0,16.0, Soil Stabilized
+1867, Chauthe,Pokhara,0,0,0,North,262.0,1369.0,20.0,
+1868, Kapan,Kathmandu,11,0,4,South,299.0,1369.0,20.0, Blacktopped
+1869, Pokhara,Pokhara,0,0,0,South East,973.0,15401.25,20.0,
+1870, Ram Bazar,Pokhara,0,0,0,North East,458.0,1369.0,20.0,
+1871, Pokhara,Pokhara,0,0,0,South East,438.0,1369.0,20.0,
+1872, Pokhara,Pokhara,0,0,0,North West,439.0,2395.75,15.0,
+1873, Pokhara,Pokhara,0,0,0,South,404.0,1369.0,20.0,
+1874, Pokhara,Pokhara,0,0,0,South East,404.0,1369.0,20.0,
+1875, Pokhara,Pokhara,0,0,0,East,543.0,1369.0,20.0,
+1876, Ram Bazar,Pokhara,0,0,0,South East,350.0,1369.0,12.0,
+1877, Kapan,Kathmandu,0,0,0,South,358.0,14374.5,32.0, Soil Stabilized
+1878, Sunakothi,Lalitpur,0,0,0,North,348.0,148194.25,13.0,
+1879, Shantinagar,Kathmandu,0,0,0,West,365.0,280645.0,12.0,
+1880, Lele,Lalitpur,0,0,0,South,651.0,54760.0,12.0, Soil Stabilized
+1881, Kapan,Kathmandu,0,0,0,South,401.0,10952.0,20.0, Soil Stabilized
+1882, Mulpani,Kathmandu,7,6,4,South East,317.0,10609.75,14.0, Gravelled
+1883, Kapan,Kathmandu,0,0,0,South,207.0,1369.0,20.0, Soil Stabilized
+1884, Tikathali,Lalitpur,4,1,0,West,535.0,10952.0,10.0, Soil Stabilized
+1885, Tokha,Kathmandu,2,1,0,West,300.0,1369.0,15.0, Soil Stabilized
+1886, Tarkeshwor,Kathmandu,0,0,0,West,313.0,2053.5,26.0, Soil Stabilized
+1887, Dhampus,Kaski,0,0,0,South,218.0,1369.0,20.0,
+1888, Tarkeshwor,Kathmandu,0,0,0,West,233.0,1369.0,26.0, Soil Stabilized
+1889, Ram Bazar,Pokhara,0,0,0,South East,634.0,1711.25,20.0, Gravelled
+1890, Bafal,Kathmandu,3,4,0,East,523.0,12321.0,20.0,
+1891, Dadikot,Bhaktapur,0,0,0,South,217.0,10952.0,20.0,
+1892, Basundhara,Kathmandu,3,3,1,South East,1600.0,78717.5,12.0, Paved
+1893, Kapan,Kathmandu,4,3,4,East,1500.0,10952.0,13.0, Blacktopped
+1894, Kusunti,Lalitpur,4,3,0,South East,309.0,5476.0,15.0,
+1895, Sanepa,Lalitpur,5,5,15,South West,379.0,62426400.0,13.0,
+1896, Balaju,Kathmandu,6,4,8,South,369.0,4791.5,13.0,
+1897, Sanobharyang,Kathmandu,4,4,2,South East,2600.0,3422.5,14.0,
+1898, Sinamangal,Kathmandu,5,7,2,South East,301.0,16428.0,15.0,
+1899, Dhumbarahi,Kathmandu,10,0,3,South,377.0,2395.75,10.0,
+1900, Bhaisepati,Lalitpur,5,3,0,South East,277.0,2738.0,13.12336,
+1901, Dholahiti,Lalitpur,8,6,5,West,382.0,16428.0,0.0,
+1902, Sukedhara,Kathmandu,4,4,3,South,250.0,4107.0,12.0,
+1903, Dholahiti,Lalitpur,4,4,5,North East,424.0,1369.0,12.0,
+1904, Teku,Kathmandu,0,0,0,East,466.0,1369.0,0.0,
+1905, Thapathali,Kathmandu,8,2,2,South East,363.0,9856800.0,13.0,
+1906, Kathmandu,Kathmandu,1,1,1,West,499.0,109520.0,13.0,
+1907, Thaiba,Lalitpur,3,3,1,South West,15000.0,177970.0,0.0,
+1908, Bhaisepati,Lalitpur,5,3,2,West,411.0,39358.75,20.0,
+1909, Dhading,Dhading,0,0,0,South,303.0,438080.0,15.0,
+1910, Nawalparasi,Nawalparasi,0,0,0,West,484.0,2551.5,20.0,
+1911, Nawalparasi,Nawalparasi,0,0,0,West,583.0,43740.0,20.0,
+1912, Bhaisepati,Lalitpur,5,3,2,South East,325.0,5476.0,13.0,
+1913, Baluwatar,Kathmandu,7,3,4,South East,317.0,1369.0,13.0,
+1914, Nawalparasi,Nawalparasi,0,0,0,South,244.0,94770.0,20.0,
+1915, Bakhundol,Lalitpur,4,6,1,West,254.0,1369.0,15.0,
+1916, Nawalparasi,Nawalparasi,0,0,0,West,260.0,1369.0,13.0,
+1917, Nawalparasi,Nawalparasi,0,0,0,West,461.0,18225.0,20.0,
+1918, Nawalparasi,Nawalparasi,0,0,0,West,276.0,32805.0,20.0, Gravelled
+1919, Nawalparasi,Nawalparasi,0,0,0,West,360.0,1711.25,20.0, Gravelled
+1920, Tinkune,Kathmandu,14,6,6,North East,602.0,4449.25,20.0,
+1921, Butwal,Butwal,10,4,0,East,1600.0,1275.75,20.0, Gravelled
+1922, Sanepa,Lalitpur,3,4,1,South East,545.0,112942.5,15.0,
+1923, Nawalparasi,Nawalparasi,0,0,0,West,265.0,3827.25,20.0, Gravelled
+1924, Nawalparasi,Nawalparasi,0,0,0,West,406.0,7290.0,20.0, Soil Stabilized
+1925, Nawalparasi,Nawalparasi,0,0,0,West,289.0,1822.5,20.0, Gravelled
+1926, Hattiban,Lalitpur,5,4,0,South West,357.0,1711.25,13.0,
+1927, Hadigaun,Kathmandu,0,5,3,South,349.0,143745.0,13.0,
+1928, Naxal,Kathmandu,7,5,3,South West,482.0,2395.75,13.0,
+1929, Khumaltar,Lalitpur,4,4,5,South East,322.0,115543600.0,15.0,
+1930, Sanepa,Lalitpur,21,18,2,East,325.0,212195.0,12.0,
+1931, Baneshwor,Kathmandu,0,0,12,North,322.0,1369.0,0.0,
+1932, Pasikot,Kathmandu,6,2,1,North,390.0,109520.0,12.0,
+1933, Samakhusi,Kathmandu,0,0,0,South,243.0,106782.0,12.0,
+1934, Bhangal,Kathmandu,4,3,0,East,351.0,1369.0,13.0,
+1935, Golfutar,Kathmandu,5,0,4,North,586.0,5476.0,26.0, Gravelled
+1936, Budhanilkantha,Kathmandu,10,0,3,East,405.0,14032.25,0.0,
+1937, Dhumbarahi,Kathmandu,0,0,0,South East,395.0,2738.0,13.0, Soil Stabilized
+1938, Baneshwor,Kathmandu,0,0,0,East,716.0,28064.5,24.0, Gravelled
+1939, Bafal,Kathmandu,4,0,0,West,455.0,15401.25,13.0, Gravelled
+1940, Pipalbot,Kathmandu,8,6,4,South,571.0,141007.0,13.0, Gravelled
+1941, Samakhusi,Kathmandu,0,0,0,West,317.0,2053.5,10.0, Gravelled
+1942, Baluwatar,Kathmandu,0,0,0,South,354.0,3764.75,26.0, Gravelled
+1943, Makalbari,Kathmandu,7,4,1,South West,270.0,107124.25,14.0, Gravelled
+1944, Lazimpat,Kathmandu,0,0,0,North,366.0,2053.5,12.0,
+1945, Lazimpat,Kathmandu,0,0,0,North,367.0,2738.0,12.0,
+1946, Budhanilkantha,Kathmandu,0,0,0,North,272.0,15401.25,13.0, Soil Stabilized
+1947, Mhepi,Kathmandu,8,4,1,North West,557.0,2395.75,15.0,
+1948, Budhanilkantha,Kathmandu,0,0,0,West,229.0,4107.0,12.0, Soil Stabilized
+1949, Dhapasi,Kathmandu,7,3,1,North,273.0,147167.5,12.0,
+1950, Budhanilkantha,Kathmandu,0,0,0,North,197.0,2053.5,10.0, Soil Stabilized
+1951, Budhanilkantha,Kathmandu,0,0,0,West,272.0,5133.75,11.0,
+1952, Dallu,Kathmandu,15,5,0,North,442.0,1026.75,20.0,
+1953, Basundhara,Kathmandu,0,0,0,West,1100.0,2053.5,14.0, Gravelled
+1954, Samakhusi,Kathmandu,0,0,0,North,241.0,2395.75,13.0, Gravelled
+1955, Basundhara,Kathmandu,0,0,0,West,335.0,1711.25,15.0,
+1956, Tokha,Kathmandu,8,4,0,West,243.0,109520.0,20.0, Gravelled
+1957, Samakhusi,Kathmandu,0,0,0,East,308.0,17797.0,15.0, Gravelled
+1958, Samakhusi,Kathmandu,0,0,0,West,270.0,1369.0,12.0, Gravelled
+1959, Samakhusi,Kathmandu,0,0,0,South East,307.0,3422.5,10.0, Gravelled
+1960, Gongabu,Kathmandu,5,3,2,North,241.0,14716.75,16.0,
+1961, Budhanilkantha,Kathmandu,6,3,0,South,435.0,1369.0,14.0,
+1962, Kalanki,Kathmandu,3,2,1,South West,740.0,106439.75,12.0,
+1963, Budhanilkantha,Kathmandu,6,2,0,East,446.0,1369.0,20.0,
+1964, Basundhara,Kathmandu,3,3,0,East,314.0,1369.0,12.0,
+1965, Samakhusi,Kathmandu,0,0,0,South,247.0,22246.25,15.0,
+1966, Sukedhara,Kathmandu,6,4,0,South,582.0,1369.0,12.0,
+1967, Mandikatar,Kathmandu,4,3,0,East,272.0,107124.25,12.0,
+1968, Budhanilkantha,Kathmandu,4,5,10,South East,799.0,16428.0,13.0,
+1969, Kalanki,Kathmandu,7,2,0,West,548.0,11978.75,13.0,
+1970, Hattigauda,Kathmandu,5,0,0,West,455.0,22246.25,15.0,
+1971, Baluwatar,Kathmandu,6,3,0,North East,2600.0,2053.5,12.0,
+1972, Sitapaila,Kathmandu,11,0,0,West,602.0,1369.0,20.0,
+1973, Basundhara,Kathmandu,11,0,0,South,680.0,32856.0,14.0,
+1974, Sukedhara,Kathmandu,11,0,0,East,347.0,1711.25,15.0,
+1975, Dhumbarahi,Kathmandu,12,0,4,East,340.0,2395.75,13.0,
+1976, Bhangal,Kathmandu,9,0,3,South,355.0,10609.75,13.0,
+1977, Budhanilkantha,Kathmandu,5,4,3,East,388.0,1369.0,13.0,
+1978, Budhanilkantha,Kathmandu,12,0,0,East,425.0,11978.75,13.0,
+1979, Kapan,Kathmandu,7,0,0,East,413.0,1026.75,13.0,
+1980, Budhanilkantha,Kathmandu,10,0,3,West,449.0,2053.5,13.0,
+1981, Budhanilkantha,Kathmandu,9,0,0,North West,495.0,11978.75,13.0,
+1982, Budhanilkantha,Kathmandu,6,3,4,South East,265.0,2053.5,13.0,
+1983, Kageshwari-Manohara,Kathmandu,0,0,0,East,217.0,1369.0,20.0,
+1984, Chandol,Kathmandu,6,4,4,South East,324.0,1369.0,14.0,
+1985, Budhanilkantha,Kathmandu,0,0,0,West,221.0,1369.0,12.0,
+1986, Basundhara,Kathmandu,3,3,0,South West,327.0,1026.75,12.0,
+1987, Budhanilkantha,Kathmandu,10,0,0,South West,565.0,1026.75,13.0,
+1988, Budhanilkantha,Kathmandu,5,3,4,East,332.0,602360.0,12.0,
+1989, behind Bharatpur Airport,Chitwan,1,1,1,North,680.0,1369.0,19.68504,
+1990, Basbari,Kathmandu,9,4,4,South,369.0,421652.0,13.0,
+1991, Thamel,Kathmandu,0,0,0,East,400.0,98568.0,20.0,
+1992, Dhapakhel,Lalitpur,3,2,3,South,589.0,1026.75,10.0,
+1993, Balaju,Kathmandu,5,2,3,North West,486.0,110204.5,13.0,
+1994, Satdobato,Lalitpur,5,4,3,North,468.0,103017.25,16.0,
+1995, Sunderbasti,Kathmandu,5,3,2,East,599.0,10952.0,13.0,
+1996, Swayambhu,Kathmandu,4,2,2,South,1100.0,10609.75,18.0,
+1997, Kalikasthan,Kathmandu,5,2,4,West,720.0,34567.25,20.0,
+1998, Samakhusi,Kathmandu,6,4,3,North,279.0,103017.25,10.0,
+1999, Chabahil,Kathmandu,5,4,4,South West,266.0,1369.0,12.0,
+2000, Ramkot,Kathmandu,4,3,4,East,583.0,113627.0,20.0,
+2001, Sitapaila,Kathmandu,5,5,4,East,286.0,3080.25,12.0,
+2002, Tarkeshwor,Kathmandu,6,3,3,South,328.0,1369.0,12.0,
+2003, Sukedhara,Kathmandu,0,0,0,West,245.0,520904.5,20.0,
+2004, Gongabu,Kathmandu,10,6,4,West,277.0,14374.5,10.0,
+2005, Balkhu,Kathmandu,0,0,0,East,311.0,76664.0,20.0,
+2006, Pokhari,Kathmandu,0,0,0,North,327.0,2395.75,20.0,
+2007, Kadaghari,Kathmandu,6,4,3,South East,247.0,10952.0,13.0,
+2008, Pepsicola,Kathmandu,10,6,4,East,808.0,10952.0,13.0,
+2009, Kadaghari,Kathmandu,4,1,2,East,452.0,1026.75,13.0,
+2010, Balaju,Kathmandu,0,0,0,West,231.0,216644.25,20.0,
+2011, Balaju,Kathmandu,12,4,5,North,257.0,137584.5,0.0,
+2012, Joranku,Kathmandu,3,3,2,South,260.0,10952.0,10.0,
+2013, Tarkeshwor,Kathmandu,0,0,0,South West,275.0,2395.75,26.0,
+2014, Samakhusi,Kathmandu,0,0,0,East,226.0,1369.0,20.0,
+2015, Sitapaila,Kathmandu,4,2,0,East,331.0,1711.25,13.0,
+2016, Imadol,Lalitpur,4,4,2,South East,1900.0,102675.0,13.0,
+2017, Thamel,Kathmandu,4,4,4,East,316.0,79402.0,12.0,
+2018, Thamel,Kathmandu,0,0,0,East,267.0,607836.0,26.0,
+2019, Gongabu,Kathmandu,9,9,3,North,298.0,7529.5,9.0,
+2020, Samakhusi,Kathmandu,5,4,3,South,356.0,7529.5,16.0,
+2021, Sano Bharyang,Kathmandu,4,5,3,East,247.0,137584.5,12.0,
+2022, Naxal,Kathmandu,2,2,2,South West,323.0,1369.0,16.0,
+2023, Bhaisepati,Lalitpur,2,2,2,West,864.0,1369.0,24.0,
+2024, Panipokhari,Kathmandu,2,2,2,West,356.0,1369.0,20.0,
+2025, Lazimpat,Kathmandu,3,3,2,South,737.0,1369.0,20.0,
+2026, Old Baneshwor,Kathmandu,0,0,0,South,6100.0,246420.0,19.68504,
+2027, Durbar Marg,Kathmandu,2,2,2,North East,375.0,1369.0,13.0,
+2028, Dhapakhel,Lalitpur,4,3,1,South,5900.0,147167.5,13.0,
+2029, Budhanilkantha,Kathmandu,3,3,1,South West,6500.0,154012.5,18.0,
+2030, Lazimpat,Kathmandu,0,0,0,East,419.0,68450.0,0.0,
+2031, Lazimpat,Kathmandu,0,0,0,East,518.0,61605.0,0.0,
+2032, Lalitpur,Lalitpur,0,0,0,East,325.0,120472.0,20.0,
+2033, Bhat bhateni,Kathmandu,0,0,0,South,4900.0,1369.0,35.0, Blacktopped
+2034, Bhaisepati Colony,Lalitpur,0,0,0,South East,520.0,205350.0,16.0,
+2035, Dhungedhara,Kathmandu,0,0,0,East,425.0,171125.0,16.0,
+2036, Sarbotchrit School,Lalitpur,4,3,1,South East,768.0,172151.75,13.0,
+2037, Sunderbasti,Kathmandu,6,4,1,South East,375.0,172151.75,13.0,
+2038, Padma Colony,Kathmandu,0,0,0,East,302.0,136900.0,13.0,
+2039, Lubhu,Lalitpur,6,2,0,East,351.0,5476.0,18.0,
+2040, Bishal Nagar,Kathmandu,3,2,0,East,394.0,1369.0,20.0,
+2041, Swayambhu,Kathmandu,2,2,0,South East,371.0,1369.0,15.0,
+2042, Kamalpokhari,Kathmandu,2,3,0,North East,565.0,1369.0,20.0,
+2043, Jhamsikhel,Lalitpur,2,1,0,East,554.0,1369.0,15.0,
+2044, Dhobighat,Lalitpur,3,2,0,East,619.0,1369.0,20.0,
+2045, kathmandu,Kathmandu,0,3,0,West,524.0,45519.25,32.0,
+2046, Baneshwor,Kathmandu,5,2,5,East,1800.0,3422.5,13.0,
+2047, Radio Tower,Lalitpur,5,3,2,East,12700.0,4449.25,20.0,
+2048, Maligaon,Kathmandu,5,6,0,North West,607.0,4107.0,13.0,
+2049, Bhatbhateni,Kathmandu,10,10,0,East,561.0,11294.25,16.0,
+2050, Kalanki,Kathmandu,0,0,0,South East,317.0,4449.25,20.0,
+2051, Teaching Hospital,Kathmandu,10,6,0,East,392.0,103017.25,36.08924,
+2052, Godawari,Lalitpur,0,0,0,South,360.0,3422.5,24.0,
+2053, Chabahil,Kathmandu,10,4,0,West,383.0,15401.25,20.0,
+2054, Tikathali,Lalitpur,0,0,0,West,9300.0,174889.75,14.0,
+2055, Satungal,Kathmandu,0,0,0,South,308.0,113969.25,14.0,
+2056, Sanepa,Lalitpur,14,5,0,North,423.0,10952.0,13.0,
+2057, Dhapasi,Kathmandu,0,0,0,South East,437.0,6160.5,20.0,
+2058, Bhaisepati,Lalitpur,3,3,0,North,550.0,15401.25,16.0,
+2059, Hattiban,Lalitpur,3,2,0,North,598.0,1369.0,20.0,
+2060, Syuchatar,Kathmandu,5,3,0,North,383.0,112942.5,20.0,
+2061, Tripureshwor,Kathmandu,3,4,0,South East,839.0,1369.0,13.0,
+2062, Balkhu,Kathmandu,7,7,0,South,695.0,3080.25,10.0,
+2063, Godawari,Lalitpur,0,0,0,South East,703.0,559647200.0,20.0,
+2064, Kirtipur,Kathmandu,4,4,0,South East,783.0,2053.5,20.0,
+2065, Baneshwor,Kathmandu,0,0,0,South,488.0,32513.75,20.0,
+2066, Bhaisepati,Lalitpur,0,0,0,North,362.0,2738.0,13.0,
+2067, Hattisar,Kathmandu,6,0,0,West,375.0,109862.25,20.0,
+2068, Lokanthali,Bhaktapur,14,4,0,East,360.0,24299.75,14.0,
+2069, Ravi Bhawan,Kathmandu,0,0,0,East,594.0,4107.0,13.0,
+2070, Sankhamul,Kathmandu,0,0,0,West,476.0,7529.5,20.0,
+2071, Swayambhu,Kathmandu,4,2,0,South,623.0,16428.0,16.0,
+2072, Kalanki,Kathmandu,0,0,0,North East,299.0,24984.25,13.0,
+2073, Kirtipur,Kathmandu,0,0,0,North East,302.0,2053.5,22.0,
+2074, Kalanki,Kathmandu,7,4,4,East,407.0,20877.25,14.0,
+2075, Tahachal,Kathmandu,0,0,0,North East,502.0,85562.5,16.0,
+2076, Hattiban,Lalitpur,0,0,0,South,329.0,24299.75,20.0,
+2077, Thulo Bharyang,Kathmandu,3,4,4,North West,291.0,2139062.5,20.0,
+2078, Godawari,Lalitpur,0,0,0,North East,282.0,5364768.75,16.0,
+2079, Kalanki,Kathmandu,8,7,0,East,654.0,256687.5,14.0,
+2080, Dadikot,Bhaktapur,12,4,0,South,291.0,1369.0,20.0,
+2081, Hattigauda,Kathmandu,0,0,0,South East,281.0,239575.0,20.0,
+2082, Thapathali,Kathmandu,5,2,0,East,622.0,148194.25,14.0,
+2083, Hattigauda,Kathmandu,0,0,0,South East,371.0,513375.0,16.0,
+2084, Chabahil,Kathmandu,0,0,0,West,266.0,1369.0,20.0,
+2085, Thamel,Kathmandu,23,16,4,West,390.0,1197875.0,12.0,
+2086, Durbar Marg,Kathmandu,0,0,0,North,411.0,393587.5,17.0,
+2087, Tripureshwor,Kathmandu,0,0,0,North East,245.0,592092.5,20.0,
+2088, Durbar Marg,Kathmandu,0,0,0,South East,247.0,2738000.0,20.0,
+2089, Mandikatar,Kathmandu,4,3,3,West,261.0,547600.0,13.0,
+2090, Hattigauda,Kathmandu,0,0,0,North East,744.0,205350.0,12.0,
+2091, Mulpani,Kathmandu,5,3,1,North,7400.0,102675.0,10.0,
+2092, Basbari,Kathmandu,0,0,0,South,318.0,2053500.0,12.0,
+2093, Baluwatar,Kathmandu,0,0,0,South East,328.0,393587.5,12.0,
+2094, Chapali,Kathmandu,0,0,0,North East,498.0,6845.0,15.0,
+2095, Sanepa,Lalitpur,0,0,0,East,685.0,205350.0,15.0,
+2096, Bishal Nagar,Kathmandu,2,2,0,North,447.0,1369.0,20.0,
+2097, Thankot,Kathmandu,0,0,0,South East,384.0,43808000.0,20.0,
+2098, Dhumbarahi,Kathmandu,0,0,0,West,484.0,154012.5,20.0,
+2099, Chundevi,Kathmandu,0,0,0,South East,441.0,136900.0,12.0,
+2100, Nag Pokhari,Kathmandu,0,0,0,South East,272.0,1369.0,20.0,
+2101, Bhangal,Kathmandu,0,0,0,South East,376.0,10952000.0,15.0,
+2102, Budhanilkantha,Kathmandu,0,0,0,East,288.0,5476000.0,15.0,
+2103, Budhanilkantha,Kathmandu,0,0,0,North East,442.0,136900.0,20.0,
+2104, Dakshinkali,Kathmandu,0,0,0,South East,318.0,10952000.0,0.0,
+2105, Budhanilkantha,Kathmandu,0,0,0,South East,302.0,171125.0,12.0,
+2106, Dhapasi,Kathmandu,4,3,0,West,382.0,188237.5,15.0,
+2107, Putalisadak,Kathmandu,0,0,0,East,483.0,109520.0,13.0,
+2108, Naxal,Kathmandu,0,0,0,South,383.0,8214.0,20.0,
+2109, Hadigaun,Kathmandu,4,3,1,South,344.0,6845.0,15.0,
+2110, Harisiddhi,Lalitpur,8,7,2,East,13300.0,24299.75,10.0,
+2111, Grande Villa,Kathmandu,4,3,1,East,496.0,1369.0,0.0,
+2112, Naxal,Kathmandu,4,3,1,West,295.0,8214.0,20.0,
+2113, Baluwatar,Kathmandu,5,5,1,East,392.0,1369.0,16.0,
+2114, Hattigauda,Kathmandu,0,2,1,East,682.0,1369.0,15.0,
+2115, Lazimpat,Kathmandu,0,0,0,South East,279.0,9856800.0,20.0,
+2116, Hattigauda,Kathmandu,4,4,2,East,7100.0,246420.0,13.0,
+2117, Chabahil,Kathmandu,14,4,10,South,1200.0,11978.75,20.0,
+2118, Tika Resort,Pokhara,0,0,0,South East,1600.0,1369.0,20.0,
+2119, Ravi Bhawan,Kathmandu,0,0,0,East,437.0,376475.0,13.0,
+2120, Chandol,Kathmandu,0,0,0,South,399.0,239575.0,13.0,
+2121, Kalanki,Kathmandu,6,3,2,East,2400.0,246420.0,20.0,
+2122, Lakeside,Pokhara,0,0,0,South East,669.0,19166000.0,25.0,
+2123, Benighat Rorang Gaupalika,Dhading,0,0,0,South,330.0,23546800.0,25.0,
+2124, Sarankot,Pokhara,0,0,0,South East,359.0,219040000.0,20.0,
+2125, Thamel,Kathmandu,0,0,0,West,514.0,752950.0,19.68504,
+2126, Kakarbhitta,Jhapa,0,0,0,East,463.0,3462750.0,25.0,
+2127, Pepsicola,Kathmandu,0,13,12,South East,4400.0,376475.0,23.0,
+2128, Lakeside,Pokhara,0,0,0,South,1200.0,1026750.0,36.08924,
+2129, Mahalaxmi Nagarpalika,Lalitpur,0,0,0,South East,550.0,301180000.0,29.52756,
+2130, Nepal Cancer Hospital,Lalitpur,0,0,0,South East,312.0,1369.0,29.52756,
+2131, Lazimpat,Kathmandu,0,0,0,East,1200.0,308025.0,36.08924,
+2132, Hattiban,Lalitpur,0,0,0,South,2600.0,2738.0,24.0,
+2133, Maharajgunj,Kathmandu,0,0,0,North,2300.0,18481.5,32.0,
+2134, Sanepa,Lalitpur,7,3,2,North East,4000.0,2738.0,15.0,
+2135, Pulchowk,Lalitpur,2,1,0,South West,1800.0,1369.0,11.0,
+2136, Budhanilkantha,Kathmandu,0,0,0,North,657.0,27380000.0,15.0,
+2137, Khumaltar,Lalitpur,5,5,3,East,6400.0,3080.25,13.0,
+2138, Mulpani,Kathmandu,0,0,0,North East,2400.0,109520.0,13.0,
+2139, Mulpani,Kathmandu,0,0,0,South East,673.0,1369.0,13.0,
+2140, Jhamsikhel,Lalitpur,2,1,1,East,6800.0,1369.0,20.0,
+2141, Gothatar,Kathmandu,0,0,0,West,401.0,144429.5,10.0,
+2142, Kadaghari,Kathmandu,0,0,0,South,429.0,2395.75,18.0,
+2143, Pepsicola,Kathmandu,0,0,0,North,465.0,143745.0,19.68504,
+2144, Budhanilkantha,Kathmandu,4,6,5,South East,44200.0,59209.25,20.0, Blacktopped
+2145, Budhanilkantha,Kathmandu,5,4,4,West,3600.0,513375.0,13.0,
+2146, Baneshwor,Kathmandu,0,0,0,North West,5700.0,444925.0,18.0,
+2147, Tikathali,Lalitpur,0,0,0,North East,2300.0,547600.0,22.0,
+2148, Bhaisepati,Lalitpur,3,2,1,North West,1600.0,65712000.0,28.0,
+2149, Bhaisepati,Lalitpur,3,2,1,North West,1700.0,65712000.0,28.0,
+2150, Lokanthali,Bhaktapur,6,3,2,North East,4900.0,246420.0,18.0,
+2151, Budhanilkantha,Kathmandu,4,5,4,South,5500.0,386742.5,18.0,
+2152,Narayanthan,Kathmandu,5,5,2,North East,1400.0,171125.0,15.0,
+2153, Bisnumati pool,Kathmandu,4,1,1,South,1800.0,109520.0,15.0,
+2154, Manamaiju,Kathmandu,8,2,1,East,596.0,136900.0,15.0,
+2155, Narayanthan,Kathmandu,5,5,2,North,1200.0,171125.0,15.0,
+2156,Mahanagarpalika,Kathmandu,12,4,2,South East,635.0,171125.0,15.0,
+2157, Thamel,Kathmandu,0,0,0,East,2800.0,136900.0,0.0,
+2158, Pasikot,Kathmandu,7,5,2,North,13600.0,1711.25,12.0,
+2159, Chapali,Kathmandu,0,0,0,South West,3000.0,147167.5,13.0,
+2160, Budhanilkantha,Kathmandu,0,0,0,East,5400.0,205350.0,0.0,
+2161, Bhaisepati,Lalitpur,0,0,0,South,1200.0,171125.0,13.0,
+2162, Baneshwor,Kathmandu,0,0,0,East,4000.0,277222.5,16.0,
+2163, Bhaisepati,Lalitpur,3,2,1,South,24700.0,140322.5,15.0,
+2164, Bhaisepati,Lalitpur,0,0,0,South East,1400.0,171125.0,13.0,
+2165, Bhaisepati,Lalitpur,0,0,0,East,903.0,171125.0,0.0,
+2166, Bhaisepati,Lalitpur,0,0,0,East,1700.0,205350.0,0.0,
+2167, Bhaisepati,Lalitpur,0,0,0,West,1700.0,1369.0,0.0,
+2168, Bhaisepati,Lalitpur,0,0,0,West,1700.0,2738.0,20.0,
+2169, Kathmandu,Lalitpur,6,3,2,North,953.0,1369.0,10.0,
+2170, near Godawari village resort,Lalitpur,6,4,3,East,1300.0,410700.0,10.0,
+2171, Panchkhal,Kavre,0,0,0,North,978.0,5476000.0,16.0,
+2172, Bhatbhateni,Kathmandu,0,0,0,North,798.0,212195.0,20.0,
+2173, Pokhara,Pokhara,0,0,0,East,1100.0,1369.0,20.0,
+2174, Kavresthali,Kathmandu,0,0,0,East,1500.0,175232.0,13.0,
+2175, Pokhara,Pokhara,5,4,3,East,1400.0,205350.0,18.0,
+2176, Pokhara,Pokhara,5,6,3,East,873.0,4107.0,0.0,
+2177, Pokhara,Pokhara,0,0,0,East,1100.0,1369.0,20.0,
+2178, Pokhara,Pokhara,0,0,0,East,727.0,1369.0,20.0,
+2179, Raam Bazar,Pokhara,0,0,0,East,534.0,4791.5,14.0,
+2180, Kamal Pokhari,Pokhara,0,0,0,East,1100.0,1369.0,20.0,
+2181, Pokhara,Pokhara,0,0,0,East,880.0,1369.0,20.0,
+2182, Dada Pauwa,Kathmandu,4,2,2,South,1200.0,109520.0,13.0,
+2183, Hattiban,Lalitpur,7,3,2,North East,948.0,178654.5,16.0,
+2184, kathmandu,Kathmandu,0,0,0,East,568.0,376475.0,20.0,
+2185, Baluwatar,Kathmandu,11,6,2,East,1200.0,239575.0,20.0,
+2186, Baneshwor,Kathmandu,6,4,0,East,405.0,136900.0,30.0,
+2187, Sitapaila,Kathmandu,4,3,2,West,1500.0,1369.0,20.0,
+2188, Bhaisepati,Lalitpur,10,5,2,North East,1500.0,143745.0,16.0,
+2189, Bhaisepati,Lalitpur,12,5,1,North,484.0,143745.0,13.0,
+2190, Lazimpat,Kathmandu,4,5,2,North East,5500.0,1369.0,0.0,
+2191, Jamal,Kathmandu,0,0,0,West,552.0,239575.0,30.0,
+2192, Chabahil,Kathmandu,0,0,0,North,3900.0,11499600.0,20.0,
+2193, Sitapaila,Kathmandu,0,0,0,East,625.0,106439.75,12.0,
+2194, Pepsicola,Kathmandu,0,0,0,East,1800.0,205350.0,20.0,
+2195, Pepsicola,Kathmandu,0,0,0,South West,1500.0,144429.5,20.0,
+2196, Pepsicola,Kathmandu,3,2,1,North West,16100.000000000002,1369.0,20.0,
+2197, Gothatar,Kathmandu,0,0,0,North,1300.0,144429.5,26.24672,
+2198, Maitidevi,Kathmandu,0,0,0,East,8600.0,1026.75,25.0,
+2199, Nakhipot,Lalitpur,5,4,7,East,11900.0,13142400.0,20.0,
+2200, Budhanilkantha,Kathmandu,4,5,7,South West,14900.0,10952000.0,20.0,
+2201, Machhegaun,Kirtipur,5,2,7,South,15000.0,19166000.0,12.0,
+2202, Kupondole,Lalitpur,4,3,5,North,5600.0,10267.5,30.0,
+2203, Budhanilkantha,Kathmandu,0,0,0,North,7800.0,240259.5,12.0,
+2204, Chapali,Kathmandu,5,5,5,North East,3100.0,5476.0,16.0,
+2205, Sitapaila,Kathmandu,4,2,1,North East,1400.0,8556.25,13.0,
+2206, Budhanilkantha,Kathmandu,5,3,1,East,1500.0,2738.0,12.0,
+2207, Baneshwor,Kathmandu,9,3,4,North,2500.0,17454.75,13.0,
+2208, Baluwatar,Kathmandu,5,2,5,East,19600.0,4449.25,12.0,
