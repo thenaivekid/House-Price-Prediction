@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{%  if scoreval  %}
+    <h1 class="text-5xl"><strong>Result:</strong></h1><br>
+    <div class="predict-card-body" style="border: 2px solid #000">
+      <h1 class="text-4xl text-center">
+        <font color='Black'>The predicted price is <strong>Rs. {{ scoreval }}</strong></font>
+      </h1>
+    </div>
+{%  endif  %}
+
+{% endblock %}
