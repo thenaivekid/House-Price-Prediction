@@ -33,7 +33,9 @@ def predict(request):
         temp['Amenities'] = [request.POST.get('Amenities')]
 
     data_df = pd.DataFrame(temp)
+    print(data_df)
     ans= int(Model.predict(data_df))
+    print(ans)
     # ans= int(reloadModel.predict(data_df))
 
     context={'scoreval':ans,'temp':temp}
