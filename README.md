@@ -6,9 +6,13 @@ We have created a ML model using Xgboost that predicts the price of a house in K
 
 ## ScreenShots
 
-<img src="https://ibb.co/JkK3yV1">
+<img src="https://raw.githubusercontent.com/thenaivekid/House-Price-Prediction/main/sso.png">
 
-<img src="https://ibb.co/JzcNrjv">
+<img src="https://raw.githubusercontent.com/thenaivekid/House-Price-Prediction/main/ss1.png">
+
+<img src="https://github.com/thenaivekid/House-Price-Prediction/blob/main/visualization.png?raw=true">
+
+
 
 ## Tech stack
 
